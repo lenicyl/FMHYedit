@@ -3,7 +3,7 @@
 :hardbreaks-option:
 ifdef::env-github[]
 :tip-caption: 💡
-:note-caption: ℹ
+:note-caption: ℹ️
 :important-caption: ❗
 :caution-caption: 🔥 
 :warning-caption: ⚠
