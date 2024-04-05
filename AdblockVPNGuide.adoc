@@ -1,6 +1,6 @@
 :doctype: book
 :pp: {plus}{plus}
-include::attributes.adoc
+include::attributes.adoc[]
 '''
 
 '''
