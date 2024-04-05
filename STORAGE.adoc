@@ -1049,7 +1049,7 @@ https://www.ifiction.org/[iFiction] (Index), https://ifdb.org/[IFDB] (Index), ht
 
 == Torrent to GDrive
 
-*Note* - Use throwaway accounts with these
+NOTE: Use throwaway accounts with these
 
 === Collab
 
@@ -1076,7 +1076,7 @@ https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorre
 
 == Udemy Coupons
 
-* *Note* - If you're in the US you should be able to access Udemy courses for free using your library and looking for "Gale Presents Udemy."
+NOTE: If you're in the US you should be able to access Udemy courses for free using your library and looking for "Gale Presents Udemy."
 
 '''
 

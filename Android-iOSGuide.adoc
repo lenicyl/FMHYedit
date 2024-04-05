@@ -650,7 +650,7 @@ _**
 
 = ► Android Torrenting
 
-* *Note* - Remember to get a https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn[VPN] before torrenting
+NOTE: Remember to get a https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn[VPN] before torrenting
 
 '''
 
@@ -1177,7 +1177,7 @@ _**
 
 = ► iOS Torrenting
 
-* *Note* - Remember to get a https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn[VPN] before torrenting
+NOTE: Remember to get a https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn[VPN] before torrenting
 
 '''
 

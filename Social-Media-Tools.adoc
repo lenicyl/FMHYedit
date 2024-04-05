@@ -205,7 +205,7 @@ _**
 
 == ▷ Reddit Downloaders
 
-*Note* - You can download a reddit video by commenting /u/SaveVideo.
+NOTE: You can download a reddit video by commenting /u/SaveVideo.
 
 '''
 

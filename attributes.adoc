@@ -1,0 +1,9 @@
+:hardbreaks-option:
+ifdef::env-github[]
+:tip-caption: 💡
+:note-caption: ℹ
+:important-caption: ❗
+:caution-caption: 🔥 
+:warning-caption: ⚠
+endif::[]
+

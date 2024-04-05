@@ -2,7 +2,7 @@
 
 === Game Sites
 
-*Note* - Scene groups do not have their own sites, so it's best to avoid anything claiming to represent one.
+NOTE: Scene groups do not have their own sites, so it's best to avoid anything claiming to represent one.
 
 * IGG / LoadGames  - Caught with https://redd.it/bzczk6[malware] / https://i.ibb.co/fkXpgsq/jyFj8Kh.png[2] / https://i.ibb.co/xmj2Vqh/9w5dyTU.png[3], doxxed member, added DRM to games
 * OceanOfGames - Caught with malware multiple times
@@ -21,7 +21,7 @@
 
 === Software / App Sites
 
-*Note* - YouTube videos claiming to give away free software are nearly always scams.
+NOTE: YouTube videos claiming to give away free software are nearly always scams.
 
 * GetIntoPC / GetIntoMAC - Caught with malware multiple times
 * SadeemPC / SadeemAPK - Caught with malware multiple times
@@ -44,7 +44,7 @@
 
 === Torrent Sites / Clients
 
-*Note* - Torrent aggregators pull results from multiple sites, so it's recommended to avoid using them for software and games.
+NOTE: Torrent aggregators pull results from multiple sites, so it's recommended to avoid using them for software and games.
 
 * Kickass Torrents - Official site is long gone, all that remain are sketchy copycats
 * VSTorrent - Caught with https://redd.it/x66rz2[malware]

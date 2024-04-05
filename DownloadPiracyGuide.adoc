@@ -11,7 +11,7 @@ _**
 
 = ► Download Directories
 
-*Note* - Some Open Directories grab IP's, so use a VPN or Tor when accessing them.
+NOTE: Some Open Directories grab IP's, so use a VPN or Tor when accessing them.
 
 '''
 
@@ -35,7 +35,7 @@ _**
 
 = ► Download Sites
 
-*Note* - General DDL sites use a lot of different sources, so it's best to avoid them for anything you install, like software, games or APKs. You can also use *https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass[redirect bypassers]* to skip link shorteners.
+NOTE: General DDL sites use a lot of different sources, so it's best to avoid them for anything you install, like software, games or APKs. You can also use *https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass[redirect bypassers]* to skip link shorteners.
 
 '''
 
@@ -93,7 +93,7 @@ _**
 
 == ▷ Search Sites
 
-*Note* - These aggregate from multiple sources, so it's best to avoid them for software / games.
+NOTE: These aggregate from multiple sources, so it's best to avoid them for software / games.
 
 '''
 
@@ -133,7 +133,7 @@ _**
 
 = ► Software Sites
 
-*Note* - Remember to always scan software before installing with tools like *https://www.virustotal.com/[VirusTotal]* or use it in *https://rentry.co/sandboxie-guide[Sandboxie]*.
+NOTE: Remember to always scan software before installing with tools like *https://www.virustotal.com/[VirusTotal]* or use it in *https://rentry.co/sandboxie-guide[Sandboxie]*.
 
 '''
 

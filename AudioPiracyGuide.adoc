@@ -295,7 +295,7 @@ _**
 
 == ▷ Download Sites
 
-*Note* - Use *https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass[redirect bypassers]* to skip annoying link shorteners.
+NOTE: Use *https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass[redirect bypassers]* to skip annoying link shorteners.
 
 '''
 
@@ -405,14 +405,7 @@ _**
 == ▷ Telegram Channels
 
 * https://t.me/DeezEmpireBot[DeezEmpireBot] - MP3 / FLAC
-* {blank}
-+
-[cols=2*]
-|===
-| [Spotify™
-| DataBase](https://t.me/joinchat/CpMAJhkWaTwk8BVPepASZQ) - MP3 / FLAC
-|===
-
+* https://t.me/joinchat/CpMAJhkWaTwk8BVPepASZQ[Spotify™ | DataBase ] - MP3 / FLAC
 * https://t.me/Music_Hunters[Music_Hunters] - MP3
 * https://t.me/music[/Music] - MP3
 * https://t.me/musicder_bot[musicder_bot] - MP3
@@ -449,7 +442,7 @@ _**
 
 = ► Audio Torrenting
 
-*Note* - Remember to get a https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn[VPN] before torrenting.
+NOTE: Remember to get a https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn[VPN] before torrenting.
 
 '''
 
