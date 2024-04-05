@@ -1,5 +1,13 @@
 = ► NSFW Indexes
 :doctype: book
+:hardbreaks-option:
+ifdef::env-github[]
+:tip-caption: 💡
+:note-caption: ℹ
+:important-caption: ❗
+:caution-caption: 🔥 
+:warning-caption: ⚠
+endif::[]
 
 * 🌐 *https://theporndude.com/[PornDude]* / https://theporndude.com/hall-of-fame[More Sites]
 * 🌐 *https://www.reddit-doesnt-like-this.site/[Reddit Doesn't Like This Site]*
