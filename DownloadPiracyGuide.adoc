@@ -1,0 +1,309 @@
+:doctype: book
+:pp: {plus}{plus}
+
+'''
+
+'''
+
+*https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index[◄◄ Back to Wiki Index]*
+_**
+**_
+
+= ► Download Directories
+
+*Note* - Some Open Directories grab IP's, so use a VPN or Tor when accessing them.
+
+'''
+
+* 🌐 *https://www.reddit.com/r/opendirectories/[/r/opendirectories]* - Open Directories Subreddit / https://t.me/r_OpenDirectories[Telegram] / https://reddit.com/u/ODScanner[/u/ODScanner]
+* ↪️ *https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_directory_search_string_builder[Open Directory Search String Builders]*, https://redd.it/933pzm[2], https://redd.it/g4kfem[3], https://redd.it/lj0a1e[4]
+* ↪️ *https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_piracy_discussion_groups[Google Piracy Groups]*
+* ⭐ *https://directorylister.com/[Directory Lister]* - Open Directory Explorer
+* ⭐ *https://www.eyedex.org/[EyeDex]*, https://odcrawler.xyz/[ODCrawler], https://sites.google.com/view/l33tech/tools/ods[ODS] or https://www.mmnt.net/[mmnt] - Open Directory Search Engines
+* https://discord.gg/R3zEZUPp3Q[mega.archive] / https://discord.gg/ZRhpUtzvkC[Chat] - Megadrive Archive
+* https://telegra.ph/GDrive-Server-Direct-Links-06-28[GDrive Server]
+* https://www.searchftps.net/[Napalm FTP], https://www.mmnt.ru/int/[Mamont] or https://search-22.com/ftp-search-tools[Search-22] - FTP Search
+* https://www.dedigger.com/[dedigger] - GDrive File Search
+* https://matrix.to/#/!qbOtnJEDGsPuWZBHLX:matrix.org?via=matrix.org[Sala De Espera] - Drive Sharing Community
+* https://redd.it/d3w2fu[Create Open Directory Search Engine]
+* https://github.com/KoalaBear84/OpenDirectoryDownloader[Open Directory Downloader] - Open Directory Indexer
+* https://cse.google.com/cse?cx=0cd79b819f26af9d0[Pastebin CSE] - Search Pastebin Directories
+* http://cd.textfiles.com/[CD.TextFiles] - CD Text File Archive
+* https://defacto2.net/home[Defacto2] - Scene / Sub-Scene Database
+
+'''
+
+= ► Download Sites
+
+*Note* - General DDL sites use a lot of different sources, so it's best to avoid them for anything you install, like software, games or APKs. You can also use *https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass[redirect bypassers]* to skip link shorteners.
+
+'''
+
+* ⭐ *https://archive.org/[Archive.org]* - Video / Audio / Magazines / Newspapers / ROMs / https://github.com/MiniGlome/Archive.org-Downloader[Downloader] / https://github.com/jjjake/internetarchive[CLI]
+* ⭐ *https://beta.the-eye.eu/[The Eye]* - Audio / Books / Comics / Magazines / https://discord.com/invite/the-eye[Discord]
+* ⭐ *https://www.downloadha.com[DownloadHa]* - Video / Use https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/[Translator]
+* ⭐ *https://forum.dirtywarez.com/[DirtyWarez]* - Video / Audio / Books / Comics
+* ⭐ *https://reddit.com/r/DataHoarder[/r/DataHoarder]*, https://datahorde.org/[Data Horde], https://wiki.archiveteam.org/[Archive Team] / https://www.reddit.com/r/Archiveteam/[Subreddit], https://www.gnutellaforums.com/[Gnutella Forums] or https://filesharingtalk.com/forum.php[FileSharingTalk] - File Hoarding Forums
+* https://www.worldsrc.net/[WorldSRC] - Video / Audio / https://www.worldsrc.net/service_end[Donate]
+* https://warezforums.com/[WarezForums] - Video / Audio / ROMs / Books / Comics
+* https://rlsbb.ru/[rlsbb], https://rlsbb.to/[2], https://comment.rlsbb.cc/[3] - Video / Audio / Books / Magazines / https://openuserjs.org/scripts/drdre1/ReleaseBB_rlsbb_TV_Show_Tracker[Track Shows]
+* https://www.adit-hd.com/[Adit-HD] - Video / Audio / Books
+* https://novanon.net/[Novanon] - Video / Audio / Magazines / Comics / Books / Courses
+* https://psychodownloads.com/[psychodownloads] - Video / Audio / ROMs / Books / Magazines / NSFW
+* https://merlinwz.com/[Merlin Warez] - Video / Audio / Books / Audiobooks / Comics / Magazines
+* https://forum.sbenny.com/[Sbenny's Forum] - Video / Audio / ROMs / Books / https://discord.gg/kf9FKQx[Discord]
+* http://www.cyberphoenix.org/forum/[CyberPhoenix] - Video / Audio / ROMs / Books / Magazines / Comics
+* https://www.dreamteamdownloads1.com/index.php[dreamteamdownloads1] - Video / Audio / ROMs / Books / Magazines
+* https://www.downduck.com/[DownDuck] - Video / Audio / Books / Magazines
+* https://allyoulike.org/[AllYouLike] - Video / Audio Books / Magazines / ROMs / Comics / NSFW
+* https://www.ddlvalley.me/[DDLValley] - Video / Audio / ROMs / Books / Comics / Magazines / https://forum.ddlvalley.me/[Forum]
+* https://max-rls.com/[MaxRelease] - Video / Audio / Magazines
+* https://darksoftware.net/[DarkSoftware] - Video / Audio / ROMs
+* https://2ddl.it/[2DDL] - Video / Audio / Books / Comics / Magazines
+* https://warezlover.xyz/[WarezLover] - Video / Audio / ROMs / Books / Magazines
+* https://tfpdl.se/[TFPDL], https://tfpdl.to/[2] - Video / Magazines / NSFW
+* https://warezload.net/index.php[WarezLoad] - Video / Audio / Books
+* https://katzddl.net/[Katz DDL] - Video / Audio / Books / NSFW
+* https://www.freshwap.us/[FreshWAP], https://freshwap.cc/[2] - Video / Audio / Books / Magazines
+* https://badshahuploads.xyz/[BadshahUploads] - Video / Audio / Books / Leech Required
+* https://www.frostclick.com/wp/[FrostClick] - Video / Audio / Books
+* https://ambassadorddl.site/[The Ambassador] - Video / Books
+* https://leaker.me/[Leaker] - Video / Audio
+* https://www.tehparadox.net/[TehParadox] - Video / Audio / Books / Magazines / ROMs
+* https://wjungle.net/[wJungle] - Video / Audio / Books / NSFW
+* https://www.puzo.org/[PuZo] - Video / Audio / Books / Audiobooks / NSFW
+* https://www.warez-serbia.com/[Warez-Serbia] - Video / Audio / Books / Magazines / NSFW
+* https://www.warezheaven.com/index.php[Warez Heaven] - Video / Audio / ROMs / Books / NSFW
+* https://download.ir/[Download.ir] - Video / ROMs
+* https://www.scnsrc.me/[SceneSource], https://www.scenesource.me/[2] - Video / Audio / ROMs / Books
+* https://amaderforum.net/[Amader Forum] - Video / Books / NSFW
+* https://dl4all.org/[Download For All], https://dl4all.biz/[2] - Video / Audio / Books / Magazines
+* https://www.ddlspot.com/[ddlspot] - Video / Audio
+* https://uploadgig.me/[Uploadgig] - Video / Audio / Books / Audiobooks / Magazines / NSFW
+* https://warez-world.org/[Warez-World] - Video / Audio / Books / Magazines / NSFW
+* https://0dayddl.com/[0DayDDL] - Video / Audio / Books / Magazines
+* https://www.downturk.net/[Downturk.net] - Video / Audio / Books
+* https://softarchive.is/[SoftArchive], https://sanet.lc/[2], https://sanet.st[3] - Video / Audio / Books / Comics / Newspapers / Magazines / https://sastatus.com/[Status] / https://pastebin.com/DyXv0MGR[Avoid Software / Games]
+* https://www.pouet.net/prodlist.php[Pouet] - Demos / Cracktros
+* http://redump.org/[Redump] - Disc Preservation Project
+* https://demozoo.org/[DemoZoo] or https://files.scene.org/[scene.org] - Demoscene Archive / https://en.wikipedia.org/wiki/Demoscene[Wiki]
+* https://ubuweb.com/[Ubu] - Avant-Garde Artifacts
+
+'''
+
+== ▷ Search Sites
+
+*Note* - These aggregate from multiple sources, so it's best to avoid them for software / games.
+
+'''
+
+* ⭐ *https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z[Download CSE]* / https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h[CSE 2] - Multi-Site Search
+* ⭐ *https://filepursuit.com[FilePursuit]* - https://discord.gg/xRfFd8h[Discord]
+* ⭐ *https://www.4shared.com/[4Shared]*
+* ⭐ *https://github.com/FrenchGithubUser/Hatt[Hatt]* - File Search App
+* https://cse.google.com/cse?cx=90a35b59cee2a42e1[File Host Search]
+* https://scnlog.me/[scnlog]
+* https://filesearch.link/[filesearch.link]
+* https://www.linktury.com/[Linktury]
+* https://warezomen.com/[WarezOmen] - Indexer / Search Engine
+* https://sunxdcc.com/[SunXDCC] or https://www.xdcc.eu/[XDCC.EU] - XDCC / Search Engine
+* https://forums.lostmediawiki.com/thread/10861/find-rare-files-online[Find Rare Files Online] - How-to Find Rare Files
+
+'''
+
+== ▷ https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_download_sites[Video Sites]
+
+'''
+
+== ▷ https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_anime_downloading[Anime Sites]
+
+'''
+
+== ▷ https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_downloading[Educational Sites]
+
+'''
+
+== ▷ https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games[Game Sites]
+
+'''
+
+== ▷ https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25BA_audio_downloading[Audio Sites]
+
+'''
+
+= ► Software Sites
+
+*Note* - Remember to always scan software before installing with tools like *https://www.virustotal.com/[VirusTotal]* or use it in *https://rentry.co/sandboxie-guide[Sandboxie]*.
+
+'''
+
+* ⭐ *https://lrepacks.net/[LRepacks]*
+* ⭐ *https://cracksurl.com/[CRACKSurl]* - https://t.me/cracksurldotcom[Telegram]
+* ⭐ *https://forum.mobilism.org/[Mobilism]* - https://forum.mobilism.org/app/[Mobile App]
+* ⭐ *https://soft98.ir/[soft98]* - Use https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/[translator]
+* ⭐ *https://www.nsaneforums.com/[nsane.down]* - Signup Required
+* ⭐ *https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4[Software CSE]* - Multi-Site Software Search
+* https://www.aiowares.com/[AIOWares]
+* https://programs.themicrotech.net/[TheMicroTech]
+* https://patoghu.com/[Patoghu] - Use https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/[translator]
+* https://www.softlay.com/downloads/[Softlay]
+* https://www.mutaz.net/[Mutaz.net]
+* https://www.heidoc.net/joomla/[Heidoc]
+* https://retrosystemsrevival.blogspot.com/[RetroSystemRevival]
+* https://samlab.ws/[SamLab] - Use https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/[translator]
+* https://pastebin.com/Mv32ibns[ZOMBIE-WAREZ]
+* https://t.me/Libreware[Libreware], https://t.me/pc_cracked_softwares[PC Cracked Software] - Telegram Channels
+* https://www.rarewares.org/[Rarewares] - Rare Software
+* https://plc4me.com/[PLC4Me] - Automation Software
+* https://t.me/civileng_soft[civileng_soft] - Civil Engineering Software
+* https://www.softwareheritage.org/[Software Heritage] - Software Source Code Archive
+* https://codec.kiev.ua/releases.html[Team V.R releases] - Professional Video, Audio & Adobe Software / Plugins
+* https://rentry.co/FMHYBase64#wlsetup-all[WLSetup-All] - Windows Live Essentials 2012 Archive
+* https://www.reddit.com/r/GenP/wiki/index[GenP], https://genpguides.github.io/[2] - Adobe Software Patcher / https://discord.com/invite/X9ZuegSM4N[Discord]
+* https://zxpinstaller.com/[ZXPInstaller] - Adobe Extension Installer
+
+'''
+
+== ▷ Freeware Sites
+
+* 🌐 *https://github.com/johnjago/awesome-free-software[Awesome Free Software]* - Freeware Index
+* 🌐 *https://github.com/awesome-selfhosted/awesome-selfhosted[Awesome Selfhosted]*, https://gitlab.com/awesome-selfhosted/awesome-selfhosted[2] - Selfhosted Software Index
+* 🌐 *https://github.com/mahmoud/awesome-python-applications[Awesome Python Applications]* - Python App Index
+* ↪️ *https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects[Git Project Indexes]*
+* ↪️ *https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_package_managers[Software Package Managers]*
+* ↪️ *https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites[Alternative Software Sites]*
+* ⭐ *https://github.com/yoshiask/FluentStore[FluentStore]* - Microsoft Store Frontend
+* ⭐ *https://store.rg-adguard.net/[store.rg]* - Paid Microsoft Store Link Generator / https://rentry.co/paidAppsMsStore[Guide]
+* https://xdaforums.com/t/windows-ultimate-collection-guides.4507867/[Windows Ultimate Collection] - Freeware Index
+* http://www.oldversion.com/[OldVersion] - Old Versions of Software
+* https://oldergeeks.com/[OlderGeeks] - Freeware Index
+* https://whoisdsmith.gitbook.io/free-software-mf[Free Software MF] - Freeware Index
+* https://www.softpedia.com/[Softpedia] - Freeware Index
+* https://realityripple.com/[Realityripple] - Freeware Index
+* https://software.informer.com/[Software Informer] - Freeware Index
+* https://github.com/Awesome-Windows/Awesome[Awesome Windows] - Freeware Index
+* https://www.majorgeeks.com/content/page/top_freeware_picks.html[Major Geeks] - Freeware Index
+* https://sourceforge.net/[SourceForge]- FOSS Index
+* https://www.fosshub.com/[FossHub]- FOSS Index
+* https://fossies.org/all.html[Fossies]- FOSS Index
+* https://directory.fsf.org/wiki/Main_Page[Free Software Directory]- FOSS Index
+* https://en.wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories[FOSS Wiki]- FOSS Index
+* https://osssoftware.org/[OSSSoftware] - FOSS Index
+* https://awesomeopensource.com/[Awesome Open Source] - FOSS Index
+* https://github.com/btw-so/open-source-alternatives[Open-Source Alternatives] - FOSS Index
+* https://opensource.builders/[Opensource Builders] - FOSS Index
+* https://gadgeteer.co.za/opensourcesoftware/[Gadgeteer] - FOSS Index
+* https://www.lo4d.com/[LO4D] - Freeware Index
+* https://www.filepuma.com/[FilePuma] - Freeware Index
+* https://www.grc.com/freepopular.htm[GRC] - Freeware Index
+* https://tinyapps.org/[TinyApps] - Freeware Index
+* https://www.phrozen.io/[Phrozen] - Freeware Index
+* https://www.fileeagle.com/[FileEagle] - Freeware Index
+* https://portableapps.com/[PortableApps.com] - Portable Apps
+* https://portapps.io/[Portapps] - Portable Apps
+* https://portableappz.blogspot.com/[PortableAppZ] - Portable Apps
+* https://www.uwe-sieber.de/english.html[Uwe Sieber's Homepage]
+* https://www.nirsoft.net/[Nirsoft], https://orga.cat/windows-utilities[Windows-Utilities], https://osvault.weebly.com/directory.html[OS Vault] or https://www.wintools.info/[WinTools] - Windows Software
+* https://uwpcommunity.com/[UWP Community] - Universal Windows Programs / https://discord.gg/eBHZSKG[Discord]
+* https://t.me/raymondfreesoftware[RaymondFreeSoftware] - Telegram
+* https://suckless.org/[Suckless] - Simple Software Archive
+* https://winworldpc.com/[WinWorldPC] - Abandonware / Operating Systems
+* https://vetusware.com/[VETUSWARE] - Abandonware / Operating Systems / Games
+* http://www.lanet.lv/simtel.net/msdos/index-msdos.html[MS-DOS Index] - MS-DOS Software
+* https://rentry.co/fmhybase64#the-vintage-software-collection[The Vintage Software Collection] or https://scenelist.org/[SCiZE's Classic Warez Collection] - Retro Software
+* https://belowaverage.org/[BelowAverage] - I.T. Software
+
+'''
+
+== ▷ https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_software_sites[Linux Software]
+
+'''
+
+== ▷ https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_software_sites2[Mac Software]
+
+'''
+
+= ► File Sharing Apps
+
+* ⭐ *https://slsknet.org/[Soulseek]* or https://nicotine-plus.org/[Nicotine+] - File Sharing App / https://github.com/mrusse/Slsk-Upload-Stats-Tracker[Stats] / https://github.com/slskd/slskd[Server App]
+* https://dcplusplus.sourceforge.io/index.html[DC{pp}] - File Sharing App / https://dchublists.com/clients/[Clients] / https://dchublists.com/[Hubs], https://dchublist.org/[2], https://dchublist.biz/[3]
+* https://www.emule-project.net/[eMule], https://fopnu.com/[Fopnu], https://shareaza.sourceforge.net/[Shareaza] or https://sourceforge.net/projects/emuleplus/[eMule Plus] - File Sharing App
+* https://patch.winmxconex.com/[WinMX] - File Sharing App / https://forum.winmxworld.com/[Forum]
+* https://sourceforge.net/projects/wireshare/[WireShare] - File Sharing App / LimeWire Fork
+
+'''
+
+== ▷ IRC Tools
+
+* 🌐 *https://github.com/davisonio/awesome-irc[Awesome IRC]* - IRC Resources
+* ⭐ *https://rentry.org/irc[IRC Tutorial]*, https://libera.chat/guides/[Libera Guides], https://www.theloadguru.com/xdcc-irc-beginners-guide/[LoadGuru], https://anonops.com/newblood/[New Blood] or https://en.wikipedia.org/wiki/Wikipedia:IRC/Tutorial[Simple Wiki Guide] - IRC Guides
+* https://adiirc.com/[AdiIRC], https://convos.chat/[Convos], https://www.mirc.com/get.html[mIRC] or https://bitchx.sourceforge.net/[Bitchx] - IRC Clients
+* https://kiwiirc.com/[KiwiIRC] or https://thelounge.chat/[TheLounge] - WebIRC Client
+* https://en.irc2go.com/[irc2go] - Browse IRC Chat Rooms / https://netsplit.de/networks/top100.php[Top 1000]
+* https://libera.chat/[libera], https://tilde.chat/[tilde], https://anonops.com/[anonops] or https://rizon.net/[rizon] - IRC Networks
+* https://search.mibbit.com/[Mibbit] - IRC Channel Search
+
+'''
+
+= ► Usenet
+
+* 🌐 *https://curlie.org/en/Computers/Usenet[Usenet Tools / Services]* or http://www.usenettools.net/[UsenetTools]
+* ⭐ *https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/mobilebasic[Usenet Guide / Automation Setup]* / https://redd.it/4x2mc9[2] / https://www.iitk.ac.in/LDP/HOWTO/Usenet-News-HOWTO/x27.html[3] / https://graph.org/EVERYTHING-YOU-NEED-TO-KNOW-ABOUT-USENET-09-04[4] / https://www.reddit.com/r/usenet/wiki/index/[5] / https://blog.decryption.net.au/t/a-fully-automated-usenet-piracy-machine-with-plex-sabnzbd-and-sonarr/130[6]
+* https://reddit.com/r/usenet[/r/usenet]
+* https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders[Usenet-Uploaders], https://github.com/mbruel/ngPost[ngPost] or https://github.com/animetosho/Nyuu[Nyuu] - Usenet Uploaders
+
+== ▷ Indexers
+
+* 🌐 *https://www.reddit.com/r/usenet/wiki/indexers/[Indexer List]* - Indexer List
+* https://reddit.com/r/UsenetInvites[/r/UsenetInvites]
+* https://github.com/theotherp/nzbhydra2[NZBHydra2] - NZB Meta search
+* https://nzbplanet.net/[nzbplanet]
+* https://orionoid.com/[orionoid]
+* https://binsearch.info/[binsearch]
+* https://www.abnzb.com/[abnzb]
+* https://www.nzbindex.com/[NZB Index], https://www.nzbindex.nl/[2]
+* https://www.newznab.com/[Newznab]
+* https://www.nzbgrabit.xyz/[NZBGrabit]
+* https://nzbstars.com/[NZBStars]
+* https://www.gingadaddy.com/[GingaDaddy]
+* https://nzbfinder.ws/[NZBFinder]
+* https://nzbking.com/[NZBKing]
+* https://g4u.to/[g4u] - Download Games via Usenet / pw: 404
+* https://article.olduse.net/[OldUSe] - Search Usenet Articles
+* https://althub.co.za[althub] - Unlimited Free Trials
+* https://github.com/nZEDb/nZEDb[nZEDb] - Self-Hosted
+* https://github.com/spotweb/spotweb[Spotweb] - Spotnet Client
+
+== ▷ Providers
+
+* 🌐 *https://www.reddit.com/r/usenet/wiki/providers[/r/usenet Providers]* - Provider Lists
+* 🌐 *https://www.reddit.com/r/usenet/wiki/providerdeals[/r/usenet Deals]* - Provider Deals
+* https://mediavoid.io/map.svg[Usenet Providers Map]
+* https://www.usenetmax.com/[usenetmax]
+* https://xsusenet.com/[xsusenet]
+* https://usenet.farm/#trial[usenet.farm]
+* https://www.ngprovider.com/free-usenet-trials.php[Free Trials]
+
+== ▷ Downloaders
+
+* ⭐ *https://sabnzbd.org/[sabnzbd]* / https://github.com/lem6ns/sabgrab[Grabber] / https://addons.mozilla.org/en-US/firefox/addon/nzb-unity/[Firefox] / https://chromewebstore.google.com/detail/nzb-unity/mpejfoghnejnbfkpbiafklkmlhebkapb[Chrome]
+* ⭐ *https://github.com/tumblfeed/nzbunity[NZBUnity]* - Send Usenet Files to Client
+* https://nzbget.com/[nzbget] / https://github.com/nzbgetcom/nzbget[GitHub]
+* https://gist.github.com/4chenz/de3a3490aff19fd72e4fdd9b7dafc8f4[Usenet File Hashes] - Link File Hashes
+* https://github.com/sanjit-sinha/Tg-UsenetBot[Tg-UsenetBot] - Usenet Telegram Bot
+
+'''
+
+= ► Leeches / Debrid
+
+* 🌐 *https://filehostlist.miraheze.org/wiki/Main_Page[Free Premium Leech Wiki]* or https://www.leechlisting.com/[leechlisting] - Leech Lists
+* https://t.me/transload[@Transload] - Telegram Leech Bots
+* https://greasyfork.org/en/scripts/13884-multi-och-helper[Multi-OCH Helper] - Send Premium Files to Leeches / 2 Hosts Only
+* https://rapidgrab.pl/[RapidGrab] or https://www.newscon.net/d1/[Newscon] / https://www.newscon.org/d3/[2] - Leech
+* https://real-debrid.com/[Real-Debrid] - Paid Debrid service / https://github.com/rogerfar/rdt-client[Torrent Client] / https://hdencode.org/[Movies / TV]
+* https://debrid-link.com[Debrid-Link] - Debrid w/ Free Tier
+* https://alldebrid.com/[AllDebrid] - Paid Debrid service with seven day trial
+
+'''
+
+= ► https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools[File Tools]

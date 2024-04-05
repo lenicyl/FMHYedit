@@ -1,0 +1,667 @@
+:doctype: book
+
+'''
+
+'''
+
+*https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index[◄◄ Back to Wiki Index]*
+_**
+**_
+
+= ► Linux Distros
+
+* *Note* - We don't curate individual distros ourselves as we feel the indexes listed are good enough to stand on their own.
+
+'''
+
+* ⭐ *https://i.ibb.co/kXJdBrF/98e87fc317dd.png[Linux Difficulty Chart]*
+* ⭐ *https://ash.fail/distros.html[Beginner Distros]*
+* ⭐ *https://distrochooser.de/[DistroChooser]*
+* ⭐ *https://distrowatch.com/dwres.php?resource=popularity[DistroWatch]*
+* ⭐ *https://wiki.installgentoo.com/index.php/Babbies_First_Linux[Babbies First Linux]*
+* https://distro.moe/[distro.moe] - Find Random Distros
+* https://www.linux-live.org/[Linux Live Kit] - Live Distro Creator
+* http://dotshare.it/[DotShare] - Distro Config Index
+* https://archiveos.org/[ArchiveOS]
+* https://os.click/en[OS.click]
+* https://linuxtracker.org/[LinuxTracker]
+* https://www.opensourcefeed.org/[OpenSourceFeed]
+* https://pkgs.org/[Pkgs]
+
+'''
+
+== ▷ Linux Guides
+
+* ⭐ *https://wiki.archlinux.org/[Archwiki]* - Arch Linux Guide / https://man.archlinux.org/[Manuals] / https://codeberg.org/theooo/mantra.py[TUI]
+* ⭐ *https://wiki.installgentoo.com/[InstallGentoo]* or https://wiki.gentoo.org/wiki/Main_Page[Gentoo Wiki] - Gentoo Guides
+* https://github.com/themagicalmammal/howtolinux[HowToLinux] - Linux Guides
+* https://www.howtoforge.com/[HowtoForge] - Linux Guides
+* https://github.com/sindresorhus/guides[Sindresorhus Guides] - Linux Guides
+* https://www.youtube.com/c/ErikDubois[Erik Dubois] - Linux Guides
+* https://linuxjourney.com/[LinuxJourney] - Linux Guides
+* https://github.com/mayfrost/guides[Mayfrost Guides] - Linux Guides
+* https://www.linuxtopia.org/[Linuxtopia] - Linux Guides
+* https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA[Mental Outlaw] - Linux Guides
+* https://help.ubuntu.com/community/Boot-Repair[Boot-Repair] - Grub Repair Guide for Linux Systems
+
+'''
+
+== ▷ Linux System
+
+* 🌐 *https://github.com/Kazhnuz/awesome-gnome[Awesome Gnome]* - GNOME Resources
+* ⭐ *https://discord.gg/linuxchat[Linux.Chat]*, https://linux.org/[Linux.org], https://linuxdiscord.com/[Linux x Technology], https://ezlinux.net/[Ezlinux] or https://discord.gg/discord-linux[Discord-Linux] - Linux Discussion / Forums
+* ⭐ *https://github.com/ventoy/Ventoy[Ventoy]* - Create Bootable USB Linux Drives
+* ⭐ *https://github.com/aristocratos/btop[Btop]*, *https://github.com/dylanaraps/pfetch[pfetch]*, *https://github.com/flightlessmango/MangoHud[MangoHud]*, https://github.com/TheTumultuousUnicornOfDarkness/CPU-X[CPU-X], https://github.com/MrRio/vtop[vtop], https://github.com/dylanaraps/neofetch[neofetch] / https://github.com/chick2d/neofetch-themes[Themes] or https://github.com/lm-sensors/lm-sensors[LM Sensors] or https://github.com/amanusk/s-tui[s-tui] - System Info / Resource Monitors
+* https://github.com/Sysinternals/SysmonForLinux[SysmonForLinux] - Monitor / Log System Activity
+* https://github.com/andreas-abel/nanoBench[Nanobench] - CPU Microbenchmark / https://nanobench.ankerl.com/[Documentation]
+* https://github.com/scanmem/scanmem[ScanMem] - Memory Scanner / Debugger
+* https://github.com/tariqbuilds/linux-dash[Linux-dash] - Web-based System Dashboard
+* https://github.com/Kharacternyk/pacwall[pacwall] - Live Wallpaper Dependency Graph / Package Status
+* https://github.com/rvaiya/keyd[keyd] or https://github.com/k0kubun/xremap[xremap] - Keyboard Remapping
+* https://github.com/AdnanHodzic/auto-cpufreq[auto-cpufreq] - CPU Speed & Power Optimization Automation
+* https://github.com/ralyodio/node-startup[node-startup] - Startup Script
+* https://linux.die.net/[die.net] - Linux Documentation
+* https://github.com/Fmstrat/winapps[winapps] - Run Windows Apps on Linux
+* https://github.com/WoeUSB/WoeUSB[WoeUSB] or https://github.com/ValdikSS/windows2usb[Windows2USB] - Create Bootable USB Windows Drives
+* https://netboot.xyz/[NetBoot] - Distro Installer
+* https://github.com/CloverHackyColor/CloverBootloader/[CloverBootloader] - Windows, Mac & Linux Bootloader / https://mackie100projects.altervista.org/[Config]
+* https://docs.zfsbootmenu.org/[zfsBootMenu] - ZFS Bootloader
+* https://osresearch.net/[Linux Heads] - Minimal CoreBoot / https://github.com/osresearch/heads[GitHub]
+* https://gparted.org/[GParted] - Partition Manager
+* https://github.com/ChrisTitusTech/ArchTitus[ArchTitus], https://github.com/archlinux/archinstall[archinstall] or https://anarchyinstaller.gitlab.io/[Anarchy] - Arch Linux Installer
+* https://github.com/pop-os/shell[Pop!_OS Shell] - Pop-Shell for GNOME
+* https://github.com/Har-Kuun/OneClickDesktop[OneClickDesktop] - One-Click Remote Desktop
+* https://github.com/instantbox/instantbox[InstantBox] - Temporary Linux Systems
+* https://github.com/CoreELEC/CoreELEC[CoreELEC] or https://libreelec.tv/[LibreELEC] - Kodi-Based Operating System
+* https://learn.microsoft.com/en-us/windows/wsl/[WSL] or https://github.com/mikeslattery/tunic[Tunic] - Run Linux on Windows / https://github.com/sirredbeard/Awesome-WSL[Resources] / https://github.com/nullpo-head/wsl-distrod[Startup Launcher] / https://github.com/microsoft/wslg[Wayland / X Server]
+* https://distrosea.com/[DistroSea] or https://bellard.org/jslinux/[JSLinux] - Linux Browser Emulators
+* https://vivek9patel.github.io/[Vivek9Patel] - Run Ubuntu on Browser / https://github.com/vivek9patel/vivek9patel.github.io[GitHub]
+* https://wiki.gnome.org/Apps/Boxes[Boxes] - Virtual Machine Manager
+* https://www.linux-kvm.org/page/Downloads[Linux-KVM] - Kernel-Based Virtual Machine
+* https://web.archive.org/web/20230729065457/https://cdn.discordapp.com/attachments/787671932957884416/787672107848302612/guicolab.ipynb[Ubuntu VNC] - Free Ubuntu VNC
+* https://github.com/kholia/OSX-KVM[OSX-KVM], https://github.com/notAperson535/OneClick-macOS-Simple-KVM[OneClick-macOS-Simple-KVM] or https://github.com/foxlet/macOS-Simple-KVM[macOS-Simple-KVM] - macOS Virtual
+* https://kmon.cli.rs/[kmon] - Kernel Manager and Activity Monitor
+* https://makelinux.github.io/kernel/map/[Kernel Map] - Interactive Linux Kernel Map
+* https://github.com/gerardpuig/ubuntu-cleaner[UbuntuCleaner] - Easily clean Ubuntu(-based) Systems
+* https://github.com/linuxmint/timeshift[TimeShift] - System Restore / Backup
+* https://www.system-rescue.org/[SystemRescue] or https://www.supergrubdisk.org/super-grub2-disk/[Super Grub2 Disk] - Bootable System Rescue Toolkits
+* https://github.com/andreyv/sbupdate[sbupdate] - Generate & Sign kernel images for UEFI Secure Boot Arch Linux
+* https://coreboot.org/[coreboot] or https://libreboot.org/[Libreboot] - Replace Proprietary BIOS/UEFI Firmware
+* https://github.com/bilelmoussaoui/Hardcode-Tray[Hardcode Tray] - Hardcoded Tray Icon Fix
+* https://github.com/NVIDIA/open-gpu-kernel-modules[open-gpu-kernel-modules] - NVIDIA Linux Open GPU Kernel Module
+* https://nosystemd.org/[nosystemd] - Alternatives to Systemd
+
+'''
+
+== ▷ Raspberry Pi
+
+* https://github.com/procount/pinn[Pinn] - Raspberry Pi OS Installer
+* https://jamesachambers.com/new-raspberry-pi-4-bootloader-usb-network-boot-guide/[Raspberry Pi 4 Bootloader] - How-to Boot Raspberry Pi from USB
+* https://pivpn.io/[PiVPN] - Raspberry Pi VPN / https://github.com/pivpn/pivpn[GitHub]
+* https://github.com/adrianmihalko/raspberrypiwireguard[raspberrypiwireguard] - Install WireGuard on Raspberry Pi
+* https://github.com/cariboulabs/cariboulite[CaribouLite] - Raspberry Pi Tx/Rx 6GHz SDR
+
+'''
+
+= ► Linux Apps
+
+* ⭐ *https://usebottles.com/[Bottles]* - Manage Wine containers
+* ⭐ *https://appdb.winehq.org/[WineHQ]* - Wine Compatibility Database
+* ⭐ *https://sourceforge.net/projects/q4wine/[Q4Wine]* - Wine GUI
+* ⭐ *https://github.com/TheAssassin/AppImageLauncher[AppImageLauncher]* - Integrate AppImages to your App Launcher
+* ⭐ *https://github.com/Winetricks/winetricks[winetricks]* - Wine Fixes
+* ⭐ *https://github.com/davatorium/rofi[rofi]* / https://github.com/Mange/rofi-emoji[Emoji Selector] or https://ulauncher.io/[Ulauncher] - App Launchers
+* https://github.com/wslutilities/wslu[wslu] - Utilities for Windows 10 Linux Subsystem
+* https://www.darlinghq.org/[Darling] - Run macOS Apps on Linux
+* https://github.com/hamza72x/web2app[nativefier_tauri] - Turn Webpages into Desktop Apps
+* https://github.com/autokey/autokey[Autokey] - Linux Automation Utility
+* https://github.com/JoseExposito/touchegg[Touchégg] - Multi-Touch Gesture Recognizer
+* https://www.enlightenment.org/[Enlightment], https://github.com/paperwm/PaperWM[PaperWM], https://github.com/codic12/worm[worm], https://dwm.suckless.org/[dwm], https://qtile.org/[qtile], https://xmonad.org/[xmonad], https://github.com/blrsn/zentile[zentile] or https://github.com/baskerville/bspwm[bspwm] - Window Managers / https://www.reddit.com/r/bspwm/[Sub] / https://github.com/baskerville/sxhkd[Binds]
+* https://material-shell.com/[Material Shell] or https://github.com/forge-ext/forge[Forge] - GNOME Tiling Extension
+* https://bismuth-forge.github.io/bismuth/[Bismuth] - KDE Tiling Extension / https://github.com/Bismuth-Forge/bismuth[GitHub]
+* https://ghostwriter.kde.org/[Ghostwriter] or https://remarkableapp.github.io/[Remarkable] - Markdown Editor
+* https://wiki.gnome.org/Apps/Gedit[Gedit], https://www.geany.org/[Geany], http://tarot.freeshell.org/leafpad/[Leafpad], https://github.com/dail8859/NotepadNext[NotepadNext], https://github.com/tsujan/FeatherPad[Featherpad], https://github.com/xwmx/nb[nb] or https://github.com/codebrainz/mousepad[Mousepad] - Text Editor / Note Apps
+* https://github.com/liferooter/textpieces[TextPieces] - Quick Text Transformations
+* https://github.com/fairyglade/ly[ly] - Display Manager with Console UI
+* https://gitlab.com/chinstrap/gammastep[GammaStep] - Adjust Screen Temperature
+* https://github.com/kbumsik/VirtScreen[VirtScreen] - Use Mobile Device as Monitor
+* https://github.com/H-M-H/Weylus[Weylus] - Use Mobile Device as Trackpad
+* https://github.com/gdzx/audiosource[AudioSource] - Use Mobile Device as Microphone
+* https://ollama.ai/[Ollama] / https://discord.gg/ollama[Discord] - Run LLMs
+* https://github.com/Merrit/nyrna[nyrna] - Suspend Apps / Games
+* https://github.com/pwr-Solaar/Solaar[Solaar] - Logitech Device Manager
+* https://github.com/darkhz/bluetuith[bluetuith] - Bluetooth Manager
+* https://github.com/sayanarijit/qrscan[QR Scan] - QR Code Scanner
+* https://github.com/libimobiledevice/libimobiledevice[libimobiledevice] - Communicate with iOS Devices
+* https://gitlab.com/bitseater/meteo[Meteo] - Weather App
+* https://help.gnome.org/users/evolution/stable/[Client Evolution] - Calendar
+* https://github.com/sioodmy/todo/[todo] - To-Do Apps
+* https://timestrap.bythewood.me/[Timestrap] or https://mindfulness-at-the-computer.gitlab.io/[Mindfulness at the Computer] - Productivity Managers
+* https://slgobinath.github.io/SafeEyes/[SafeEyes] - Break Reminders
+* https://github.com/NerdyPepper/dijo[Dijo] - Activity Tracker
+* https://valos.gitlab.io/Komikku/[Komikku], https://github.com/Suwayomi/Tachidesk-VaadinUI[Tachidesk-VaadinUI] or https://flathub.org/apps/details/com.georgefb.mangareader[Manga Reader] - Manga Readers
+* https://dunst-project.org/[dunst] - Customizable Notification Daemon / https://github.com/dunst-project/dunst[GitHub]
+* https://github.com/patri9ck/a2ln-app[A2LN] - Display Android Notifications on Linux
+* https://github.com/hisbaan/didyoumean[DidYouMean] - Grammar Check
+* https://apps.kde.org/ktouch/[KTouch], https://github.com/maaslalani/typer[typer] or https://github.com/Samyak2/toipe[Toipe] - Typing Practice
+
+'''
+
+== ▷ Software Sites
+
+* 🌐 *https://luong-komorebi.github.io/Awesome-Linux-Software/[Awesome Linux]* or https://github.com/francoism90/awesome-kde[Awesome KDE] - FOSS Software / https://i.ibb.co/KyTkKHz/ae00a5177857.png[Image]
+* ⭐ *https://www.kapitalsin.com/forum/index.php?board=5.0[Kapital Sin]* / Use https://github.com/FilipePS/Traduzir-paginas-web#install[Translator]
+* ⭐ *https://rutracker.org/forum/viewforum.php?f=1381[RuTracker]* / https://github.com/FilipePS/Traduzir-paginas-web#install[Translator] / http://rutracker.wiki/[Wiki] / https://rutracker.org/forum/viewtopic.php?t=1045[Rules]
+* ⭐ *https://cse.google.com/cse?cx=81bd91729fe2a412b[Linux Software CSE]* - Multi-Site Software Search
+* https://github.com/trimstray/the-book-of-secret-knowledge[The Book of Secret Knowledge]
+* https://gist.github.com/bgoonz/be5c5be77169ef333b431bc37d331176[Ultimate Cheatsheet]
+* https://wiki.archlinux.org/title/list_of_applications[ArchWiki List of Applications]
+* https://www.linuxalt.com/[LinuxAlt]
+* https://github.com/9fans/plan9port[Plan9Port]
+* https://itlanyan.com/[tlanyan]
+* https://flatpak.org/[Flatpak] or https://flathub.org/[Flathub] - Flatpak App Repositories
+* https://snapcraft.io/store[SnapCraft] - Snap Repository
+* https://flathub.org/apps/it.mijorus.gearlever[GearLever] or https://github.com/TheAssassin/AppImageLauncher[AppImageLauncher] - Appimage Managers
+* https://nixos.org/[NixOS] / https://github.com/nix-community/home-manager[Manager], https://github.com/prateekmedia/appimagepool[AppImagePool], https://github.com/srevinsaju/zap[Zap], https://github.com/ivan-hc/AM-Application-Manager[AM-Application-Manager] or https://brew.sh/[Homebrew] - Package Managers
+* http://cheat.sh/[cheat.sh] - App Repos
+* https://www.appimagehub.com/[AppImageHub], https://appimage.github.io/[AppImages] or https://g.srev.in/get-appimage/[Get AppImage] - Download Appimages
+* https://github.com/Jguer/yay[yay], https://github.com/morganamilo/paru[paru] or https://github.com/fosskers/aura[aura] - Arch User Repository Helpers
+* https://apps.gnome.org/[Apps for GNOME] - GNOME Apps
+* https://apps.kde.org/[KDE Applications] - KDE Apps
+* https://apt.izzysoft.de/[IzzySoft Apt Repositories]
+* https://repology.org/[Repology] - Package Repository Tracker
+* https://www.pling.com/[Pling] / https://www.linux-apps.com/[2] - Linux Apps and Themes
+* https://pacstall.dev/[Pacstall] - AUR-Inspired Package Manager for Ubuntu
+
+'''
+
+== ▷ Linux Video
+
+* ⭐ *https://mpv.io/[mpv]* - Video Player / https://github.com/celluloid-player/celluloid[Frontend]
+* https://github.com/pojntfx/multiplex[MultiPlex] - Torrent Watch Party / Use VPN
+* https://github.com/bk138/gromit-mpx[Gromit MPX] - Screen Annotation
+* https://github.com/keshavbhatt/plumber[Plumber] - Screen Recorder / Clipping
+* https://www.bandshed.net/avlinux/[AV Linux] - Video / Audio Editor
+* https://jliljebl.github.io/flowblade/[Flowblade] - Video Editor
+* https://github.com/phw/peek[Peek] - Simple Video / GIF recorder
+* https://github.com/fangfufu/Linux-Fake-Background-Webcam/[Linux-Fake-Background-Webcam] - Fake Webcam Background
+* https://github.com/pystardust/ani-cli[ani-cli] - Anime Streaming Terminal
+* https://github.com/z411/trackma/[Trackma] - Anime Tracking App
+* https://github.com/abb128/LiveCaptions[LiveCaptions] - Real-time Captions
+
+'''
+
+== ▷ Linux Audio
+
+* ⭐ *https://github.com/jetfir3/SpotX-Bash[SpotX-Bash]*, https://github.com/abba23/spotify-adblock[spotify-adblock] or https://github.com/Daksh777/SpotifyNoPremium[SpotifyNoPremium] - Spotify Adblockers
+* ⭐ *https://github.com/marin-m/SongRec[SongRec]* or https://github.com/SeaDve/Mousai[Mousai] - Song Identifiers
+* https://github.com/Mastermindzh/tidal-hifi[Tidal Hi-Fi] - Hi-Fi Tidal for Linux
+* https://cmus.github.io/[cmus] - Audio Player
+* https://tauonmusicbox.rocks/[Tauon Music Box] - Audio Player
+* https://wiki.gnome.org/Apps/Lollypop[Lollypop], https://gitlab.gnome.org/World/lollypop[2] - Audio Player
+* https://audacious-media-player.org/[Audacious] - Audio Player
+* https://wiki.gnome.org/Apps/Rhythmbox[Rhythmbox] - Audio Player
+* https://gitlab.gnome.org/World/amberol[Amberol] - Audio Player
+* https://github.com/twostraws/Subsonic[Subsonic] - Audio Player
+* https://gitlab.gnome.org/neithern/g4music[g4music] - Audio Player
+* https://github.com/digimezzo/dopamine[dopamine] - Audio Player
+* https://invent.kde.org/multimedia/audiotube[AudioTube] - Audio Player
+* https://gitlab.com/Vistaus/monophony[Monophony] - YouTube Music Client
+* https://github.com/aunetx/deezer-linux[Deezer Linux] - Deezer Client
+* https://gitlab.com/albanobattistella/myuzi[Myuzi] - Music Streaming App
+* https://github.com/Sapd/HeadsetControl[HeadsetControl] - Headset Settings Manager
+* https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice[Pipewire] / https://github.com/wwmm/easyeffects[Plugins] or https://github.com/noisetorch/NoiseTorch[NoiseTorch] - Noise Suppression Software
+* https://qtractor.org/[Qtractor] - Audio Editor
+* https://calf-studio-gear.org/[Calf Studio Gear] - Audio Production Plugins
+* https://github.com/ensemblesaw/ensembles-app[Ensembles] - Musical Performance Arranger
+* https://github.com/Audio4Linux/Viper4Linux[Viper4Linux] / https://github.com/Audio4Linux/Viper4Linux-GUI[GUI] or https://github.com/Audio4Linux/JDSP4Linux[JDSP4Linux] - Audio Processors
+* https://github.com/karlstav/cava[cava] - Console Audio Visualizer
+* https://github.com/NyaomiDEV/Sunamu[Sunamu] - Now Playing Songs Display
+* https://github.com/JupiterBroadcasting/CasterSoundboard[CasterSoundboard] - Soundboard
+
+'''
+
+== ▷ Linux Images
+
+* ⭐ *https://flameshot.org/[Flameshot]* - Screenshot Tool
+* ⭐ *https://github.com/RajSolai/TextSnatcher[TextSnatcher]* or https://tenderowl.com/work/frog/[Frog] - Image to Text
+* https://github.com/Gictorbit/photoshopCClinux[photoshopCClinux] - Linux Photoshop Installer
+* https://github.com/umlaeute/v4l2loopback[V4L2Loopback] - Create Virtual Cameras
+* https://maoschanz.github.io/drawing/[Drawing] - Drawing App
+* https://feh.finalrewind.org/[Feh] or https://github.com/nsxiv/nsxiv[NSXIV] - Image Viewer
+* https://github.com/hackerb9/lsix[lsix] - View Images in Terminal
+* https://gitlab.com/TheEvilSkeleton/Upscaler[Upscaler] - Image Upscaler
+* https://trimage.org/[Trimage] or https://github.com/Huluti/Curtail[Curtail] - Image Compressor
+* https://github.com/patrick-kidger/mkposters[MkPosters] - Turn Markdown Files into Posters
+* https://damonlynch.net/rapid/[Rapid] - Quick Linux Photo Importer
+
+'''
+
+== ▷ Linux Gaming
+
+* 🌐 *https://github.com/ligurio/awesome-ttygames[Awesome-ttygames]* - Unix ASCII Games
+Linux Gaming Guide
+* ⭐ *https://github.com/rimsiw/linux-gaming-omg[Linux Gaming Guide]* / https://web.archive.org/web/20221022121735/https://www.reddit.com/r/Piracy/comments/ndrtlf/comment/gyccwhk/?context=3[2] / https://www.reddit.com/r/LinuxCrackSupport/wiki/index[3] - Linux Gaming Guides
+* ⭐ *https://www.protondb.com/[protondb]*- Proton Compatibility Descriptions / https://github.com/Trsnaqe/protondb-community-extension[Steam Extension]
+* ⭐ *https://lutris.net/[Lutris]* - Games Manager
+* ⭐ *https://github.com/GloriousEggroll/proton-ge-custom[proton-ge-custom]* - Play Windows Games on Linux / https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in/[Guide]
+* ⭐ *https://github.com/DavidoTek/ProtonUp-Qt/[ProtonUp-QT]* - Install / Manage Proton-GE for Steam and Wine-GE for Lutris
+* ⭐ *https://www.kapitalsin.com/forum/index.php?board=4.0[Kapital Sin]* - Linux Games / Use https://github.com/FilipePS/Traduzir-paginas-web#install[Translator]
+* ⭐ *https://forum.torrminatorr.com/[Torrminatorr]* - Linux Games
+* ⭐ *https://1337x.to/user/johncena141/[johncena141]* - Linux Games / https://gitlab.com/jc141x/portal[Support]
+* https://tkashkin.github.io/projects/gamehub/[GameHub], https://wiki.gnome.org/Apps/Games[Gnome Games], https://github.com/AbdelrhmanNile/UnderTaker141[UnderTaker141] or https://github.com/AbdelrhmanNile/steal[Steal] - Game Libraries / Launchers
+* https://rutracker.org/forum/viewforum.php?f=899[RuTracker] - Linux Games / https://github.com/FilipePS/Traduzir-paginas-web#install[Translator] / http://rutracker.wiki/[Wiki] / https://rutracker.org/forum/viewtopic.php?t=1045[Rules]
+* https://github.com/LukeShortCloud/winesapOS[winesapOS] - Play Games on Storage Devices
+* https://discourse.ubuntu.com/t/gamebuntu/25544/13[Gamebuntu] - Setup Gaming Environment on Ubuntu / https://gitlab.com/rswat09/gamebuntu[GitLab]
+* https://github.com/Vysp3r/RetroPlus[RetroPlus] - ROM Downloader
+* https://github.com/varmd/wine-wayland[wine-wayland] - Play DX9/DX11 / Vulkan Games
+* https://github.com/dmadisetti/steam-tui[steam-tui] - Rust TUI for Steam
+* https://github.com/berenm/steam-cli[steam-cli] - CLI for Steam
+* https://github.com/luxtorpeda-dev/luxtorpeda[Luxtorpeda] or https://github.com/dreamer/boxtron[Boxtron] - Run Steam Games on Linux
+* https://github.com/ValveSoftware/gamescope[GameScope] - Steam Session Compositing Window Manager
+* https://github.com/PaulCombal/SamRewritten[SamRewritten] - Steam Achievement Manager
+* https://github.com/ValveSoftware/steam-for-linux[Steam for Linux] - Steam Linux Beta Issue Tracker
+* https://heroicgameslauncher.com/[HeroicGamesLauncher] / https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher[GitHub] - Epic Games Launcher
+* https://sharkwouter.github.io/minigalaxy/[Minigalaxy] - GOG Client
+* https://github.com/velorek1/cwordle[CWordle] - Wordle in Unix Terminal
+* https://github.com/iloveichigo/NVBurner[NVBurner] or https://gitlab.com/corectrl/corectrl[CoreCTRL] - Overclocking Tool
+* https://github.com/doitsujin/dxvk[dxvk] - D3D9, D3D10 and D3D11 for Linux / Wine
+* https://github.com/DadSchoorse/vkBasalt[VKBasAlt] - Game Post Processing Layer
+* https://liquorix.net/[Liquorix], https://xanmod.org/[Xanmod] or https://github.com/Frogging-Family/linux-tkg[Frogging] - Linux Gaming Kernels
+* https://github.com/FeralInteractive/gamemode[Gamemode] - Linux System Optimizer
+* https://github.com/Ahmed-Al-Balochi/LibreGaming[LibreGaming] - Linux Game Package Downloader
+* https://github.com/minecraft-linux/mcpelauncher-manifest[mcpelauncher] - Minecraft Android Bedrock Edition Launcher for Linux
+* https://vinegarhq.org/[VinegarHQ] - Bootstrapper for Roblox Studio
+* https://discord.com/invite/nKjV3mGq6R[Bloxstrap] - Roblox Launcher
+* https://github.com/an-anime-team/an-anime-game-launcher[Anime Game Launcher] / https://discord.gg/ck37X6UWBp[Discord] - Genshin Impact Launcher
+* https://git.sr.ht/~martijnbraam/among-sus[among-sus] - Play Among Us in your Terminal (Recreation)
+* https://github.com/HFO4/gameboy.live[Gameboy.live] - Terminal Game Boy Emulator
+* https://github.com/maaslalani/gambit[Gambit] - Terminal Chess
+* https://github.com/AngelJumbo/sssnake[Sssnake] - Terminal Snake
+
+'''
+
+= ► Linux Tools
+
+== ▷ Adblock / Privacy
+
+* ↪️ *https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_two-factor_authentication[Linux 2FA]*
+* ⭐ *https://wiki.archlinux.org/title/Security[Arch Security Wiki]*,  https://vez.mrsk.me/linux-hardening.html[Linux Hardening] / https://madaidans-insecurities.github.io/guides/linux-hardening.html[2] or https://github.com/imthenachoman/How-To-Secure-A-Linux-Server[How to Secure a Linux Server] - Linux Security Guides
+* ⭐ *https://github.com/xvzc/SpoofDPI[SpoofDPI]* or https://github.com/bol-van/zapret[zapret] - DPI circumvention
+* ⭐ *https://gitlab.com/cryptsetup/cryptsetup[CryptSetup]* or https://dyne.org/software/tomb/[Tomb] - File Encryption
+* https://wiki.archlinux.org/title/Securely_wipe_disk[Securely Wipe Disk] or https://wiki.archlinux.org/title/Solid_state_drive/Memory_cell_clearing[SSD Memory Cell Clearing] - Linux Disk Wipe Guides
+* https://github.com/Jsitech/JShielder[JShielder] - Hardening Script for Linux Servers
+* https://github.com/sshuttle/sshuttle[SShuttle] - Proxy
+* https://github.com/CISOfy/lynis[Lynis] - Linux Security Auditing Tool
+* https://github.com/elmsec/lockigest[Lockigest] - Screen Locker
+* https://gitlab.com/cyber5k/mistborn[Mistborn] - Manage Cloud Security Apps
+* https://github.com/evilsocket/opensnitch[OpenSnitch] or https://github.com/costales/gufw[gufw] - Linux Firewalls
+* https://github.com/aquasecurity/tracee[Tracee] - Runtime Security and Forensics
+* https://mofolinux.com/[Mofolinux], https://tails.boum.org/[Tails] or https://www.digi77.com/linux-kodachi/[Kodachi] - Privacy-Based Operating System
+* https://github.com/slingamn/namespaced-openvpn[OpenVPN Wrapper] - VPN Tunnel
+* https://ocserv.gitlab.io/www/index.html[Openconnect VPN Server] - Linux SSL VPN Server
+* https://github.com/binhex/arch-delugevpn[arch-delugevpn] - Docker with Torrent client and VPN on Arch Linux base
+* https://github.com/jedisct1/dsvpn[DSVPN] - Self-Hosted VPN
+* https://github.com/UnnoTed/wireguird[wireguird] - Wireguard GUI
+* https://github.com/vergoh/vnstat[vnStat] - Network Monitor
+* https://github.com/boltgolt/howdy[Howdy] - Linux Facial Authentication
+* https://shufflecake.net/[ShuffleStacks] - Create Hidden Volumes
+* https://flathub.org/apps/details/dev.geopjr.Collision[Collision] - Check File Hashes
+* https://github.com/owerdogan/whoami-project[WhoAmI Project] - Privacy / Anonymity Tool
+* https://github.com/agherzan/yubikey-full-disk-encryption[Yubikey Full Disk Encryption] - Use YubiKey to unlock a LUKS Partition
+* https://github.com/bhanupratapys/dnswarden[BhanUpratpys] - DNS Adblocking
+* https://firejail.wordpress.com/[Firejail] or https://github.com/containers/bubblewrap[Bubblewrap] - Sandboxing tools
+* https://github.com/berthubert/googerteller[GoogleTeller] - Google Tracking Notifications
+
+'''
+
+== ▷ Linux Internet
+
+* ⭐ *https://www.slsknet.org/SoulseekQt/Linux/SoulseekQt-2018-1-30-64bit-appimage.tgz[Soulseek]* - File Sharing App
+* ⭐ *https://github.com/qbittorrent/qBittorrent/wiki/Installing-qBittorrent#linux[qBittorrent]* / https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools[Tools], *https://rakshasa.github.io/rtorrent/[rTorrent]* / https://github.com/rakshasa/rtorrent[2], https://bitflu.workaround.ch/[BitFlu], https://apps.kde.org/ktorrent/[kTorrent] / https://invent.kde.org/network/ktorrent[2] - Linux Torrent Clients
+* https://github.com/Novik/ruTorrent[RuTorrent] or https://flood.js.org/[flood] - RTorrent Web Frontend / https://github.com/artyuum/3rd-party-ruTorrent-Themes[Themes]
+* rTorrent Tools - https://github.com/pyroscope/rtorrent-ps[Extended] / https://github.com/pyroscope/pyrocore[Tools] / https://calomel.org/rtorrent_mods.html[Mods]
+* https://luakit.github.io/[Luakit] - Lightweight Linux Browser
+* https://www.brow.sh/[browsh] - Text Based Browser
+* https://github.com/vladimiry/ElectronMail[ElectronMail] or https://github.com/akissinger/dodo[dodo] - Email Clients
+* https://apps.kde.org/akregator/[Akregator] - RSS Feed Reader
+* https://www.passwordstore.org/[pass] - Unix Password Manager
+* https://gitlab.gnome.org/GNOME/seahorse[Seahorse] or https://wiki.gnome.org/Projects/GnomeKeyring[GnomeKeyring] - GNOME Password Manager
+* https://www.gopass.pw/[gopass] - CLI Password Manager
+* https://apps.kde.org/kget/[KGet] or https://github.com/gabutakut/gabutdm[GabutDM] - Download Manager
+* https://github.com/mzramna/easy-google-drive-downloader[easy-google-drive-downloader] or https://github.com/wkentaro/gdown[GDown] - Google Drive Downloader
+* https://github.com/astrada/google-drive-ocamlfuse[google-drive-ocamlfuse] - Mount GDrive
+* https://maestral.app/[maestral] - Dropbox Client
+* https://github.com/ilikenwf/apt-fast[apt-fast] - APT Download Accelerator
+* https://gitlab.com/volian/nala[Nala] - APT Frontend
+* https://www.amule.org/[aMule] - eMule-like P2P Client
+* https://github.com/garywill/linux-router[Linux Router] - Set Linux as Router
+* https://easypanel.io/[EasyPanel] - Server Control Panel
+* https://wayland.freedesktop.org/[Wayland] - Linux Display Server Protocol / https://arewewaylandyet.com/[Tools]
+* https://github.com/riverwm/river/[river], https://github.com/labwc/labwc[LabWC], https://hyprland.org/[Hyprland], https://github.com/buffet/kiwmi[kiwmi], https://github.com/yshui/picom[picom], https://github.com/WayfireWM/wayfire/[wayfire] or https://swaywm.org/[sway] - Wayland Compositors
+* https://github.com/xeome/compix[Compix] - Xorg Compositor
+* https://rentry.co/FMHYBase64#free-cloud-linux-server[Free Cloud Linux Server] - Free Cloud Server Guide
+* https://github.com/masonr/yet-another-bench-script[yet another bench script] - Server Performance Script
+* https://github.com/imsnif/bandwhich[Bandwhich] - Terminal Bandwidth Utilization Tool
+* https://github.com/floriankunushevci/rang3r[Rang3r] - IP / Port Scanner
+* https://github.com/abhimanyu003/sttr[sttr] - Base64 Encryption / Decryption TUI
+* https://knapsu.eu/plex/[Knapsu] or https://cloudbox.works/[Cloudbox] - Media Server
+* https://github.com/ahembree/ansible-hms-docker[ansible-hms-docker] - Automated Media Server Setup
+* https://github.com/ab77/netflix-proxy/[Netflix Proxy] - Streaming Service Proxy
+* https://github.com/linuxserver/docker-jackett[Docket-Jacket] - Docker Jacket Container
+* https://swizzin.ltd/[swizzin] - Seedbox for Ubuntu / Debian
+* https://github.com/arakasi72/rtinst[rtinst] - Seedbox Installation Script for Ubuntu / Debian
+* https://github.com/ipsingh06/seedsync[SeedSync] - Sync your Seedbox
+* https://gnusocial.network/[GNU Social] - Self-Hosted Social Networking Platform
+* https://hexchat.github.io/[Hexchat], https://adium.im/[Adium], https://wiki.gnome.org/Apps/Polari[Polari], https://github.com/irssi/irssi[Irssi] or https://weechat.org/[Weechat] - IRC Clients
+* https://dino.im/[Dino] - XMPP Client
+* https://github.com/boxdot/gurk-rs[gurk-rs] - Signal Client
+* https://github.com/trizen/youtube-viewer[YouTube-Viewer] - YouTube Linux Client / https://github.com/trizen/pipe-viewer[Fork]
+* https://aur.archlinux.org/packages/giara/[Giara] - Reddit Client
+* https://github.com/bb010g/betterdiscordctl[BetterDiscordctl] - Modded Discord Client / https://gist.github.com/ObserverOfTime/d7e60eb9aa7fe837545c8cb77cf31172[Guide]
+* https://docs.nextcord.dev/[Nextcord] - Discord API Wrapper
+* https://github.com/trigg/Discover[Discover] - Discord Overlay
+* https://github.com/diced/dvm[dvm] - Discord Version Manager
+* https://github.com/fdw/rofimoji[Rofimoji], https://github.com/biox/shmoji[Shmoji] - Emoji CLI's
+
+'''
+
+== ▷ File Tools
+
+* 🌐 *https://github.com/restic/others[Linux File Backup]* - File Backup App List
+* ⭐ *https://github.com/linuxmint/warpinator[Warpinator]*, https://github.com/magic-wormhole/magic-wormhole[Magic Wormhole], https://syncthing.net/[syncthing], https://github.com/SpatiumPortae/portal[portal], https://zrok.io/[Zrok] or https://github.com/parvardegr/sharing[Sharing] - File Sync Apps
+* ⭐ *https://gitlab.gnome.org/GNOME/baobab[Baobab]* - Disk Usage Analyzer
+* https://github.com/DoTheEvo/ANGRYsearch[ANGRYsearch], https://github.com/deadc0de6/catcli[CatCLI], https://xplr.dev/[xplr] / https://github.com/sayanarijit/xplr[GitHub] / https://discord.com/invite/JmasSPCcz3[Discord], https://github.com/Yash-Handa/logo-ls[logo-ls], https://github.com/Genivia/ugrep[ugrep] or https://github.com/kcubeterm/achoz[Achoz] - File Explorers
+* https://mijorus.it/projects/collector/[Collector] - File Drag & Drop
+* https://github.com/rupa/z[z] - Track Most used Directories
+* https://userbase.kde.org/Dolphin[Dolphin] or https://ignorantguru.github.io/spacefm/[SpaceFM] - File Managers
+* https://p7zip.sourceforge.net/[p7zip], https://www.gnu.org/software/gzip/[GNU Gzip] or https://zlib.net/pigz/[pigz] - File Archivers / Unzippers
+* https://curlew.sourceforge.io/[Curlew] - File Converter
+* https://github.com/queer/boxxy[Boxxy] - Contain Files / Directories
+* https://github.com/sonnyp/Junction[Junction] - Change File Associations
+* https://apps.kde.org/en-gb/krename/[Krename] - Bulk File Renamer
+* https://www.pixelbeat.org/fslint/[FSLint], https://qarmin.github.io/czkawka/[Czkawka] or https://github.com/pkolaczk/fclones[fclones] - Duplicate File Finder
+* https://github.com/b3nj5m1n/xdg-ninja[xdg-ninja] - Unwanted File Finder
+* https://github.com/thoughtbot/rcm[rcm] - Manage Dotfiles
+* https://git.pwmt.org/pwmt[Zathura] - Document Viewer
+* https://scarpetta.eu/pdfmixtool/[PDF Mix] - PDF Editor
+* https://gscan2pdf.sourceforge.net/[gscan2pdf] - Turn Documents into PDFs
+* https://i.ibb.co/ChF9HMH/02e105ba72c1.png[Linux Filesystem Chart] - File System Guide
+
+'''
+
+== ▷ Terminal / Shell
+
+* 🌐 *https://github.com/alebcay/awesome-shell[Awesome-shell]*, https://github.com/tldr-pages/tldr/[tldr] or https://altbox.dev/[AltBox] - Linux Shell Resources
+* 🌐 *https://github.com/rothgar/awesome-tuis[Awesome TUIs]* or https://terminaltrove.com/[TerminalTrove] - List of TUIs
+* ↪️ *https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_command_line_shells[Linux Shell Index]* or https://github.com/ibraheemdev/modern-unix[Modern Unix]
+* ↪️ *https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cli_cheat_sheets[Bash / CLI Cheat Sheets]*
+* ⭐ *https://github.com/gokcehan/lf[lf]*, https://github.com/ranger/ranger[ranger], https://github.com/jarun/nnn[nnn], https://github.com/leo-arch/clifm[clifm], https://github.com/mistakenelf/fm[fm], https://github.com/kamiyaa/joshuto[Joshuto], https://github.com/dundee/gdu[gdu] or https://dev.yorhel.nl/ncdu[NCDU] - Terminal File Manager / Disk Usage Analyzers
+* ⭐ *https://github.com/alacritty/alacritty[Alacritty]*, *https://sw.kovidgoyal.net/kitty/overview/[Kitty]*, https://st.suckless.org/[Simple Terminal], https://www.waveterm.dev/[Wave], https://apps.kde.org/yakuake/[yakuake], https://codeberg.org/akib/emacs-eat[emacs-eat] or https://tabby.sh/[tabby] - Linux Terminals
+* ⭐ *https://github.com/TheR1D/shell_gpt[Shell GPT]* - CLI AI
+* https://github.com/Loupeznik/utils[utils] or https://github.com/jackrabbit335/UsefulLinuxShellScripts[UsefulLinuxShellScripts] - Linux Shell Tool Scripts
+* https://github.com/charmbracelet/gum[Gum] - Shell Script Creator
+* https://www.shellcheck.net/[ShellCheck] - Shell Script Bug Check
+* https://github.com/techarkit/shell-scripting-tutorial[shell-scripting-tutorial] - Shell Scripting Tutorial
+* https://github.com/jlevy/the-art-of-command-line[Command Line Guide], https://www.mankier.com/[ManKier] or https://www.linuxcommand.org/tlcl.php[LinuxCommand] - Command-Line Lessons
+* https://gitlab.com/slackermedia/bashcrawl[Bash Crawl] - Linux Command Learning Game
+* https://github.com/Silejonu/bash_loading_animations[bash_loading_animations] - Bash Loading Animations
+* https://github.com/Bash-it/bash-it[bash-it] or https://bashly.dannyb.co/[Bashly] - Bash Frameworks
+* https://github.com/google/zx[zx] or https://github.com/dsherret/dax[dax] - Write Complex Scripts
+* https://www.basher.it/[Basher] - Bash Script Package Manager
+* https://apps.kde.org/yakuake/[yakuake] - Terminal Emulator
+* https://invisible-island.net/xterm/[XTerm] - X Window System Terminal Emulator
+* https://github.com/hush-shell/hush[hush] - Unix Shell
+* https://github.com/mjakeman/extension-manager[Extension Manager] - GNOME Shell Extensions
+* https://github.com/89luca89/distrobox[Distrobox] - Use Distros via Terminal
+* https://htop.dev/[htop] - Interactive Process Viewer / https://github.com/htop-dev/htop[GitHub]
+* https://eza.rocks/[eza] - Modern ls replacement
+* https://explainshell.com/[explainshell.com] - Match Command-Line Arguments to Help Text
+* https://github.com/powershell/powershell[PowerShell] - PowerShell
+* https://github.com/tmux/tmux[Tmux] - Terminal Multiplexer / https://tmuxcheatsheet.com/[Cheatsheet]
+* https://asciinema.org/[asciinema] - Terminal Recorder
+* https://electerm.github.io/electerm[Electerm] - Terminal / SSH / STP Client
+* https://github.com/junegunn/fzf[fzf] or https://github.com/lotabout/skim[skim] - Fuzzy Finders
+* https://atuin.sh/[atuin] - Shell History Management / https://github.com/atuinsh/atuin[GitHub]
+* https://gitlab.com/jallbrit/cbonsai[cbonsai] - Generate Bonsai Trees in Terminal
+* https://github.com/pipeseroni/pipes.sh[pipes.sh] or https://github.com/lhvy/pipes-rs[pipes-rs] - Animated Pipes in Terminal
+* https://pastebin.com/ayrFjrh6[Terminal Locomotive Train] - Train Terminal Easter Egg
+* https://robobunny.com/projects/asciiquarium/html/[ASCIIQuarium] - Fish in Terminal
+
+'''
+
+== ▷ Customization
+
+* 🌐 *https://rizonrice.club/Main_Page[Ricepedia]* - Linux Ricing Tools
+* ↪️ *https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_themes[Linux Themes]* - Themes for Linux
+* https://deviantfero.github.io/wpgtk[wpgtk] - Fully Customizable Unix Color Schemer
+* https://github.com/akiraux/Akira[Akira] - UI/UX Customization
+* https://github.com/tsujan/Kvantum[Kvantum] - Linux QT / KDE Theme Engine
+* https://github.com/polybar/polybar[Polybar] or https://github.com/LemonBoy/bar[lemonbar] - Customizable Status Bar
+* https://www.noobslab.com/2018/08/macbuntu-1804-transformation-pack-ready.html[MacBuntu Transformation Pack], https://www.noobslab.com/2017/06/macbuntu-transformation-pack-ready-for.html[2] - Mac Theme
+* https://b00merang.weebly.com/windows-10.html[Windows-10] - Windows 10 Theme
+* https://github.com/keeferrourke/la-capitaine-icon-theme[La Capitaine], https://snwh.org/moka[Moka], https://github.com/numixproject/numix-icon-theme[Numix] or https://github.com/PapirusDevelopmentTeam/papirus-icon-theme[Papirus] - Linux Icon Themes
+* https://www.jwz.org/xscreensaver/[xScreensaver] - Linux Screensavers
+* https://github.com/calo001/fondo[Fondo], https://github.com/varietywalls/variety[varietywalls], https://hydrapaper.gabmus.org/[HydraPaper], https://github.com/thevinter/styli.sh[styli.sh] or https://github.com/cheesecakeufo/komorebi[Komorebi] - Wallpaper Managers
+* https://github.com/ghostlexly/gpu-video-wallpaper[Video Wallpaper] - Use Videos as Animated Wallpaper
+* https://github.com/catsout/wallpaper-engine-kde-plugin[wallpaper-engine-kde-plugin] - Wallpaper Engine KDE Plugin
+* https://polychromatic.app/[Polychromatic] - Linux System Light Control
+* https://github.com/Schneegans/Burn-My-Windows[Burn My Windows] - Window Closing Effects
+* https://github.com/lemnos/theme.sh[theme.sh], https://github.com/dankamongmen/notcurses[NotCurses] / https://nick-black.com/dankwiki/index.php/Notcurses[Wiki] or https://gitlab.com/dwt1/shell-color-scripts[Shell Color Scripts] / https://github.com/stark/Color-Scripts[2] - Custom Terminal Themes
+* https://github.com/FontManager/font-manager[font-manager] - Font Manager
+
+'''
+
+= ► Mac Apps
+
+* ⭐ *https://github.com/corpnewt/gibMacOS[gibMacOS]* - Download macOS
+* ⭐ *https://readdle.com/documents[Readdle]* - Multipurpose File Tool
+* ⭐ *https://peazip.github.io/peazip-macos.html[PeaZip]*, https://theunarchiver.com/[The Unarchiver], https://github.com/saagarjha/unxip[unxip] or https://www.keka.io/[Keka] - File Archivers
+* ⭐ *https://www.qbittorrent.org/[qBittorrent]* - Torrent Client / https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools[Tools]
+* ⭐ *https://github.com/grishka/NearDrop[NearDrop]* or https://maestral.app/[maestral] - File Sharing Apps
+* ⭐ *https://shottr.cc/[shottr]* or https://magiccap.me/[MagicCap] - Screenshot Tool
+* ⭐ *https://aptonic.com/[Aptonic]* - Mac Productivity App
+* ⭐ *https://www.alfredapp.com/[Alfred]* or https://www.raycast.com/[Raycast] - Keystroke Launchers
+* ⭐ *https://www.houdah.com/customShortcuts/[CustomShortcuts]*, https://karabiner-elements.pqrs.org/[Karabiner-Elements] or https://shortcutkeeper.com/[ShortcutKeeper] - Custom Keyboard Shortcuts
+* ⭐ *https://alt-tab-macos.netlify.app/[alt-tab-macos]* - Alt-Tab for Mac
+* ⭐ *https://flexibits.com/fantastical[Fantastical]* - Calendar
+* https://saurabhs.org/advanced-macos-commands[Advanced macOS Commands] - Advanced Command-Line Tools
+* https://github.com/ZhichGaming/Novee[Novee] - Anime Streaming App
+* https://github.com/yaqinking/DMHY[DMHY] - Anime Torrent Autodownloader
+* https://github.com/SwiftcordApp/Swiftcord[Swiftcord] or https://github.com/evelyneee/accord[Accord] - Discord Clients
+* https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884[Ice Cubes] - Mastodon Client
+* https://betaprofiles.com/[Beta Profiles] - Download Pre-Release Versions macOS
+* https://github.com/CloverHackyColor/CloverBootloader/[CloverBootloader] - Windows, Mac & Linux Bootloader / https://mackie100projects.altervista.org/[Config]
+* https://support.apple.com/boot-camp[Boot Camp] - Windows Bootloader / https://github.com/timsutton/brigadier[DL Script]
+* https://github.com/sickcodes/Docker-OSX[Docker OSX] - Mac VM in Docker
+* https://getwhisky.app/[Whisky] - Wine Wrapper
+* https://github.com/myspaghetti/macos-virtualbox[macos-virtualbox] - MacOS Virtualbox Installer
+* https://jinxiansen.github.io/Windows11/[SwiftUI Win11] - Windows 11 Desktop Client for macOS
+* https://orbstack.dev/[OrbStack] - Docker Client
+* https://cogx.org/[Cog] or https://cider.sh/[Cider] / https://github.com/ciderapp/Cider[GitHub] - Audio Players
+* https://alfred-spotify-mini-player.com/[Alfred Spotify Mini Player] - Spotify Mini Player
+* https://github.com/lbrndnr/nuage-macos[Nuage] - Soundcloud Client
+* https://github.com/twostraws/Subsonic[Subsonic] - SwiftUI Audio Player
+* https://apps.apple.com/us/app/bookshelf-reading-tracker/id1469372414[Bookshelf] - Book Tracker
+* https://lima-vm.io/[LimaVM] - Linux VM
+* https://www.portingkit.com/[PortingKit] or https://www.playonmac.com/en/[PlayOnMac] - Run Windows Games / Programs on Mac
+* https://github.com/acidanthera/OpenCorePkg[OpenCore] - Mac Bootloader / https://mackie100projects.altervista.org/opencore-configurator/[Config] / https://dortania.github.io/OpenCore-Install-Guide/[Guide]
+* https://github.com/PlayCover/PlayCover[PlayCover] - Run iOS Apps on Apple Silicon Macs
+* https://github.com/dortania/OpenCore-Legacy-Patcher/[OpenCore Legacy Patcher] - Install New macOS on Unsupported Devices
+* https://www.rodsbooks.com/refind/[rEFind] - Boot Manager
+* https://github.com/brndnmtthws/conky[Conky] / https://github.com/helmuthdu/conky_colors[Colors], https://github.com/gao-sun/eul[eul], https://github.com/ssleert/zfxtop[zfxtop], https://github.com/exelban/stats[Stats] or https://github.com/gantoreno/macfetch[MacFetch] - Hardware / System Monitors
+* https://github.com/macmade/[Hot] - CPU Monitor
+* https://objective-see.org/products/taskexplorer.html[TaskExplorer] - Task Manager / Viewer
+* https://github.com/Xfennec/progress[Progress] - Show Copied Data Progress
+* https://kevin-de-koninck.github.io/Clean-Me/[Clean-Me] or https://github.com/alienator88/Pearcleaner[Pearcleaner] - System Cleanup / Uninstallers
+* https://whatroute.net/[What Route] - Network Diagnostic Tool
+* https://www.tonymacx86.com/resources/categories/kexts.11/[Kexts] - UEFI Kexts
+* https://gitlab.com/Pixel-Mqster/File-Find[File Find] - File Explorer / Manager
+* https://apps.apple.com/in/app/download-shuttle-fast-file/id847809913[Download Shuttle] or https://macpsd.net/[Progressive Downloader] - File Download Manager
+* https://github.com/spieglt/FlyingCarpet[FlyingCarpet] - Cross-Platform AirDrop / https://redd.it/vthltc[Guide]
+* https://rentry.co/FMHYBase64#adobe-after-effects-collection[Adobe Creative Cloud] - Adobe CC Guides
+* https://github.com/Drovosek01/adobe-packager[Adobe Packager] - Adobe Portable Installer Script
+* https://ss64.com/osx/[ss64 OSX] - macOS Bash Commands
+* https://browserosaurus.com/[Browserosaurus] - Browser Prompter
+* https://browser.kagi.com/[Orion] - Lightweight Browser w/ Chrome & Firefox Extensions / https://discord.com/invite/gKh5E6ys6D[Discord]
+* https://strongboxsafe.com/[Strongbox] - Password Manager
+* https://maccy.app/[Maccy] or https://trex.ameba.co/[TRex] - Clipboard Managers
+* https://leftonread.me/[Left on Read] or https://github.com/JJTech0130/pypush[PyPush] /https://discord.gg/BVvNukmfTC[Discord] - iMessage Clients
+* https://www.llamachat.app/[LlamaChat] - Llama AI Chat
+* https://goodsnooze.gumroad.com/l/macbing[MacBing] - Bing Chat
+* https://www.vienna-rss.com/[ViennaRSS] - RSS Feed Reader
+* https://github.com/dialect-app/dialect[Dialect] - Translator
+* https://underpassapp.com/LinkUnshortener/[Link Unshortener] - Unshorten Links
+* https://sindresorhus.com/aiko[Aiko] - Audio Transcription
+* https://getdrafts.com/[Drafts], https://coteditor.com/[CotEditor], https://macromates.com/[TextMate], https://apps.apple.com/us/app/nebo-notes-pdf-annotations/id1119601770[Nebo], https://github.com/file-acomplaint/kyun[Kyun], https://fsnot.es/[FSNotes], https://notenik.app/[Notenik] or https://www.voodoopad.com/[Voodoopad] - Text Editors / Notes
+* https://www.taskpaper.com/[Taskpaper] - To-Do Apps
+* https://stroke.lllllllllllllllll.com/[Stroke] - Text (You Can't Delete) Editor
+* https://bibdesk.sourceforge.io/[BibDesk] - Bibliography Manager
+* https://github.com/vladimiry/ElectronMail[ElectronMail], https://mimestream.com/[MimeStream] or https://sparkmailapp.com/[Spark] - Email Clients
+* https://macadmins.software/[Microsoft Mac Downloads] or https://github.com/alsyundawy/Microsoft-Office-For-MacOS[Microsoft-Office-For-MacOS] - Office Suites
+* https://github.com/WhyNotHugo/kbdlight[kbdlight] - Change MacBook Keyboard Backlight Level
+* https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442[KeyPad] - Connect Mac Keyboard to Mobile Devices
+* https://github.com/danqing/Pinch[Pinch] - Trackpad Pinch to Zoom Gesture
+* https://linearmouse.app/[LinearMouse] - Custom Mouse / Trackpad Options
+* https://sergii.tatarenkov.name/keyclu/support/[KeyClu] - Shortcut CheatSheet for Current Application
+* https://github.com/keycastr/keycastr[KeyCastr] - Keystroke Visualizer
+* https://monitorcontrol.app/[MonitorControl] - External Monitor Brightness / Volume Control
+* https://github.com/kyleneideck/BackgroundMusic[BackgroundMusic] - Volume Mixer / Auto-Pause
+* https://batterybuddy.app/[BatteryBuddy] - Cute Battery Indicator
+* https://bunchapp.co/[Bunch] - Task Automation
+* https://www.macscripter.net/[MacScripter] - Automation Forum
+* https://github.com/positive-security/find-you[Find You] - Track Bluetooth Devices
+* https://redsweater.com/touche/[Touché] - Touch Bar Simulator
+* https://pock.app/[pock] - Touch Bar Widget Manager / https://github.com/pock/pock[GitHub]
+* https://tracesof.net/uebersicht/[Übersicht] - System Command Widgets
+* https://www.mowglii.com/itsycal/[Itsycal] - Menu Bar Calendar
+* https://abhishekbanthia.com/clocker/[Clocker] or https://meetingbar.app/[MeetingBar] - Menu Bar Meetings Calendars
+* https://xbarapp.com/[xbar] - Manage Menu Bar Items / https://github.com/matryer/xbar[GitHub]
+* https://github.com/hazcod/maclaunch[MacLaunch] - Manage Startup Items
+* https://github.com/jacklandrin/OnlySwitch[OnlySwitch] - Menu Bar Toggle Switches
+* https://github.com/sveinbjornt/Sloth[Sloth] - Process Manager
+* https://github.com/checkra1n/pongoOS[pongoOS] - Mac Pre-Boot Executor
+* https://github.com/koekeishiya/yabai[Yabai], https://github.com/ianyh/Amethyst[Amethyst], https://app1piece.com/[1Piece], https://spacesformac.xyz/[Spaces], https://github.com/nikitabobko/AeroSpace[AeroSpace], https://github.com/kasper/phoenix[Phoenix] or https://rectangleapp.com/[Rectangle] - Window Managers
+* https://apphousekitchen.com/[AlDente] - Charging Manager
+* https://github.com/paolo-projects/unlocker[Unlocker] - VMware Unlocker
+* https://github.com/corpnewt/USBMap[USBMap] - Map MacOS USB Ports
+* https://macvim.org/[MacVim], https://www.codeedit.app/[CodeEdit] or https://auroraeditor.com/[AuroraEditor]
+* https://github.com/powershell/powershell[PowerShell] - PowerShell
+* https://iterm2.com/[iTerm2] - Replacements for Terminal
+* https://asciinema.org/[asciinema] - Terminal Recorder
+* https://fig.io/[Fig] - IDE-Style Autocomplete for Terminal
+* https://github.com/waydabber/BetterDisplay[BetterDisplay] - Display Controller
+* https://github.com/jakehilborn/displayplacer[DisplayPlacer] - Dual Monitor Manager
+* https://pictogramapp.com/[Pictogram] or https://www.macenhance.com/iconchamp.html[IconChamp] - Custom App Icons
+* https://github.com/tale/iconset[IconSet] or https://www.macenhance.com/iconchamp.html[IconChamp] - Custom System Icons
+* https://github.com/neilsardesai/Manila[Manila] - Change Folder Colors
+* https://dynamicwallpaper.club/[Dynamic Wallpaper Club] - Dynamic Wallpaper App
+* https://github.com/mczachurski/wallpapper[wallpapper] - Dynamic Wallpaper Creator
+* https://github.com/sindresorhus/Plash[Plash] - Use Website as Wallpaper
+* https://github.com/bjdehang/100-macos-screensavers[100 macOS Screensavers] - Minimalist Screensavers
+* https://github.com/insidegui/DarkModeBuddy[DarkModeBuddy] or https://github.com/luckymarmot/ThemeKit[ThemeKit] - System Dark Mode Apps
+* https://bootcampdrivers.com/[Bootcamp Drivers] - Mac Bootcamp AMD Drivers
+* https://iina.io/[IINA] - Video Player
+* https://sindresorhus.com/gifski[Gifski] - Image to GIF Converter / https://github.com/sindresorhus/Gifski[GitHub]
+* https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746[Darkroom] - Image / Video Editor
+* https://github.com/wulkano/Kap[Kap] - Screen Recorder
+* https://apps.apple.com/us/app/garageband/id682658836?mt=12[Garageband] - Audio Editor
+* https://yoshimi.github.io/[Yoshimi] - Audio Synthesizer
+* https://eqmac.app/[EQMac] - Audio Equalizer
+* https://archive.org/details/conversationsnetwork_org-levelator[The Levelator] - Automatic Audio Level Adjustments
+* https://guitarix.org/[Guitarix] - Virtual Guitar Amplifier / https://github.com/brummer10/GxPlugins.lv2[Plugins]
+* https://sourceforge.net/projects/xld/[XLD] - Lossless Audio Transcoder
+* https://github.com/ExistentialAudio/BlackHole[BlackHole] - Pass Audio to Apps
+* https://apps.apple.com/us/app/mubert-ai-music-streaming/id1154429580[Mubert AI] - AI Music Radio
+* https://apps.apple.com/us/app/playlisty-the-playlist-tool/id1459275972[Playlisty] - Transfer Apple Music Playlists to Spotify
+* https://apps.apple.com/us/app/image-tricks-lite/id403735824?mt=12[Image Tricks Lite] or https://sourceforge.net/projects/seashore/[SeaShore] - Image Editors
+* https://imageoptim.com/mac[ImageOptim] - Image Optimization
+* https://github.com/feramhq/Perspec[Perspec] - Correct Perspective of Images
+* https://apps.apple.com/us/app/draw-things-ai-generation/id6444050820[Draw Things] - AI Image Drawing Tool
+* https://github.com/breadthe/sd-buddy[SD Buddy] or https://github.com/huggingface/swift-coreml-diffusers[Swift Core ML Diffusers] - Stable Diffusion Apps
+* https://colorslurp.com/[ColorSlurp] or https://github.com/BafS/Material-Colors-native[Material-Colors-native] - Color Picker
+* https://usecontrast.com/[Use Contrast] - Check Color Contrast Ratios
+* https://michelf.ca/projects/sim-daltonism/[Sim Daltoinism] - Color Blindness Simulator
+* https://www.animebox.es/[AnimeBox] - Booru Client
+* https://malupdaterosx.moe/hachidori/[Hachidori] - Automatically Update MAL/Anilist/Kitsu Lists
+* https://magit.vc/[Magit!] - Git Text-Based UI
+* https://github.com/corpnewt/ProperTree[ProperTree] - GUI Plist Editor
+* https://github.com/KhaosT/nhcalc[NHCalc] - Compute Image NeuralHash
+* https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX[AppleNeuralHash2ONNX] - Convert NeuralHash for CSAM Detection to ONNX / https://github.com/anishathalye/neural-hash-collider[Collision Finder]
+* https://isapplesiliconready.com/[Is Apple Silicon ready?] - M1 App Compatibility Chart
+* https://selfcontrolapp.com/[SelfControlApp] - Website Blocker
+* https://apps.apple.com/us/app/typist/id415166115?ign-mpt=uo%3D4&mt=12[Typist] - Typing Practice
+* https://apps.apple.com/us/app/comet-for-reddit/id1146204813[Comet] or https://github.com/Dimillian/RedditOS[RedditOS] - Reddit Client
+* https://github.com/hql287/Manta[Manta] - Invoice Manager
+* https://github.com/rkbhochalya/grayscale-mode[Grayscale Mode] - Grayscale Control
+* https://macosicons.com/[MacOSIcons] - Icons
+* https://equinux.github.io/[equinux] - OS X Certificate Fix
+* https://github.com/acidanthera/Lilu[Lilu] - Kext / Process Patcher
+* https://www.jenv.be/[JenV] - Java Environment Manager / https://github.com/jenv/jenv[GitHub]
+* https://topnotch.app/[TopNotch] - Remove The Notch
+
+'''
+
+== ▷ Software Sites
+
+* 🌐 *https://github.com/iCHAIT/awesome-macOS[Awesome MacOS]*, https://opensource.apple.com/[OpenSourceApple], https://github.com/jaywcjlove/awesome-mac[Awesome Mac] or https://github.com/serhii-londar/open-source-mac-os-apps[Awesome OS Apps] - FOSS App Indexes
+* 🌐 *https://macmenubar.com/[Mac Menu Bar]* - Menu Bar App Index
+* ⭐ *https://brew.sh/[Homebrew]* / https://corkmac.app/[GUI], https://www.munki.org/munki/[Munki] or https://aerolite.dev/applite/index.html[AppLite] - Package Managers
+* https://macintoshgarden.org/[Macintosh Garden]
+* https://www.macbed.com/[MacBed]
+* https://www.pure-mac.com/[Pure Mac]
+* https://www.macupdate.com/[Macupdate]
+* https://cmacked.com/[Cmacked]
+* https://www.torrentmac.net/[Mac Torrents]
+* https://allmacworlds.com/[AllMacWorlds]
+* https://insmac.org/[InsMac]
+* https://macx.ws/[MacX]
+* https://webcatalog.io/[WebCatalog]
+* https://thriftmac.com/[ThriftMac] - Freeware
+
+'''
+
+== ▷ Mac Gaming
+
+* ⭐ *https://forum.torrminatorr.com/[Torrminatorr]*
+* ⭐ *https://applegamingwiki.com/[AppleGamingWiki]* - Mac Game Fixes / Compatibility
+* ⭐ *https://github.com/inflation/goldberg_emulator[Goldberg]* - Steam Multiplayer Client Emulator
+* https://scnlog.me/[SCNLOG]
+* https://www.macsourceports.com/[Mac Source Ports] - Run Old Mac Games
+* https://heroicgameslauncher.com/[HeroicGamesLauncher] / https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher[GitHub] - Epic Games Launcher
+* https://archive.org/download/nNASOS1.8/nNASOS1.8.zip[NASOS] - Gamecube iso.dec to ISO Converter
+* https://github.com/lanylow/rbxfpsunlocker-osx[rbxfpsunlocker-osx] - Roblox FPS Unlocker
+* https://cemu.emiyl.com/[cemu.emiyl] - CEMU Compatibility List
+
+'''
+
+= ► Mac Adblock / Privacy
+
+* 🌐 *https://github.com/ashishb/osx-and-ios-security-awesome[Awesome OSX Security]* - Mac Security Resources
+* ↪️ *https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_two-factor_authentication[Mac 2FA]*
+* ⭐ *https://www.malwarebytes.com/mac-download[Malwarebytes]*, https://objective-see.org/products/blockblock.html[BlockBlock] or https://objective-see.org/products/knockknock.html[KnockKnock] - Antivirus
+* ⭐ *https://github.com/jetfir3/SpotX-Bash[SpotX-Bash]* or https://github.com/Devanshu-17/Mac_Spotify_Adblock[Mac_Spotify_Adblock] - Spotify Adblockers
+* https://apps.apple.com/us/app/ka-block/id1037173557[Ka-Block!], https://apps.apple.com/ca/app/blockbear/id1023924541[BlockBear] or https://gitlab.com/eyeo/adblockplus/adblock-plus-for-safari[Adblock Plus for iOS] - Safari Adblockers
+* https://github.com/drduh/macOS-Security-and-Privacy-Guide[MacOS Privacy Guide] - Mac Privacy & Security Guides
+* https://github.com/2ndalpha/gasmask[Gas Mask] - Block Ads via Host Files
+* https://1fichier.com/?ef26ks4abjzct7o1k8os[Adguard DNS] - DNS Adlocker
+* https://1blocker.com/[1Blocker] - DNS Adlocker
+* https://lockdownprivacy.com/[Lockdown Privacy] - Block Trackers / Ads
+* https://objective-see.org/products/lulu.html[LuLu] - Mac Firewall
+* https://github.com/manasecurity/mana-security-app[Mana] - App Security Monitor
+* https://objective-see.org/products/ransomwhere.html[RansomWhere?] - Ransomware Blocker
+* https://objective-see.org/products/oversight.html[OverSight] - Webcam / Mic Monitor
+* https://github.com/google/santa[Santa] - Binary Authorization System
+* https://objective-see.org/products/dhs.html[DHS] - Dylib Hijack Scanner
+* https://github.com/pstirparo/mac4n6[mac4n6] - Forensic Artifact Locations
+* https://objective-see.org/products/whatsyoursign.html[What's Your Sign?] - View File Cryptographic Signatures
+* https://rknight.me/apps/tracker-zapper/[Tracker Zapper] - Remove URL Tracking Elements
+* https://halo.github.io/LinkLiar/[LinkLiar] - Spoof MAC Address'
+* https://support.apple.com/en-us/HT204837[FileVault] - Mac Disk Encryption
+* https://www.code-signing.app/[Code Signing] - Validate Code Signature
+* https://objective-see.org/products/kextviewr.html[Kextviewr] - View All Kernel Modules
+* https://github.com/ydkhatri/mac_apt[mac_apt] - Artifact Parsing Tool
+* https://tunnelblick.net/[OpenVPN] or https://passepartoutvpn.app/[Passepartout] - VPN Tunnel
+* https://github.com/yanue/V2rayU[V2rayU] - DIY Privacy Network
+* https://apparition47.github.io/MailTrackerBlocker/[MailTrackerBlocker] - Privacy-Based Email Client
+* https://damus.io/[Damus] - Encrypted Messaging App

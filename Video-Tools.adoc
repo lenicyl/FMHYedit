@@ -1,0 +1,470 @@
+:doctype: book
+
+'''
+
+'''
+
+*https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index[◄◄ Back to Wiki Index]*
+_**
+**_
+
+= ► Video Tools
+
+* ⭐ *https://pixverse.ai/[PixVerse]* / https://discord.com/invite/MXHErdJHMg[Discord] or https://github.com/nateraw/stable-diffusion-videos[Stable Diffusion Videos] - AI Video Generators
+* ⭐ *https://github.com/k4yt3x/video2x/[Video2x]* or https://github.com/mafiosnik777/enhancr[Enhancr] - Video Upscalers
+* ⭐ *https://playphrase.me/[PlayPhrase]*, https://clipbase.xyz/[ClipBase], https://filmot.com/[Filmot] or https://yarn.co/[Yarn] / https://getyarn.io/[2] - Internet Clip Quote Search
+* https://github.com/camenduru/text-to-video-synthesis-colab[Synthesis Colab], https://text-to-video.vercel.app[text-to-video], https://github.com/Picsart-AI-Research/Text2Video-Zero[Text2Video-Zero], https://lensgo.ai/[LensGo], https://www.pika.art/[Pika Labs] or https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis[Damo] - Text to Video AIs
+* https://rollideo.com/[Rollideo] - Text to Subbed Video
+* https://replicate.com/nateraw/video-llava[Video Llava] - Video Description AI
+* https://kamua.com/tinyvid[TinyVid], https://www.videosmaller.com/[VideoSmaller], https://www.youcompress.com/[YouCompress], https://compress-video-online.com/[Compress Video Online], https://8mb.video/[8mb.video] or https://www.mp4compress.com/[MP4Compress] - Video Compressors
+* https://github.com/0x90d/videoduplicatefinder[videoduplicatefinder] - Duplicate Video Finder
+* https://github.com/neuralchen/SimSwap[SimSwap] or https://github.com/s0md3v/roop[Roop] - Video Face Swap Tools
+* https://scanner.deepware.ai/[deepware] - Detect Deepfake Videos
+* https://www.majorgeeks.com/files/details/imgburn.html[ImgBurn], https://www.dvdstyler.org/en/[DVDStyler], https://www.deepburner.com/[DeepBurner] or https://www.alcohol-soft.com/[Alcohol Soft] - CD / DVD Burning
+* https://www.makemkv.com/[MakeMKV] - Create MKV From Blu-ray / DVD
+* https://vidcoder.net/[VidCoder] or http://dvddecrypter.org.uk/[DVDDecrypter] - DVD / Blu-ray Ripping
+* https://www.rationalqm.us/dgdemux/dgdemux.html[DGDemux] - Blu-Ray/UHD Disk Demuxer
+* https://www.videohelp.com/software/PgcDemux[PgcDemux] - DVD Disk Demuxer
+* https://github.com/yaboy58/BatchGuy[BatchGuy] - Blu-Ray Ripping
+* https://github.com/oyvindln/vhs-decode[VHS Decode] - VHS Decoder
+
+'''
+
+== ▷ Video Hosting
+
+* ⭐ *https://doodstream.com/[doodstream]* - No Limit / 1080p / 60 Days
+* ⭐ *https://mixdrop.ag/[mixdrop]* - No Limit / 720p / 60 Days
+* ⭐ *https://voe.sx/[voe.sx]* - No Limit / 720p / 60 Days
+* ⭐ *https://catbox.moe/[catbox]* - 200MB
+* ⭐ *https://streamtape.com/[streamtape]* / https://streamtape.to/[2]
+* ⭐ *https://upstream.to/[upstream]*
+* https://www.vidyard.com/[vidyard] - No Limit / 25 Videos only
+* https://sendvid.com/[sendvid] - 1GB / 720p
+* https://vudeo.ws/[vudeo]
+* https://supervideo.cc/[supervideo]
+* https://youdbox.site/[youdbox]
+* https://powvideo.net/[powvideo]
+* https://abyss.to/[abyss]
+* https://videy.co/[videy]
+* https://wolfstream.tv/[wolfstream]
+* https://vidoza.net/[vidoza]
+* https://fileone.tv/[fileone]
+* https://uqload.co/[uqload]
+* https://media.cm/[media.cm] - 300mb / 720p
+* https://streamable.com/[streamable] - 250MB / 720p / 90 Days
+* https://filemoon.sx/[FileMoon] - 100MB
+* https://webmshare.com/[WebMShare] - WebM Hosting / 20MB
+* https://github.com/horahoradev/horahora[HoraHora] or https://sr.ht/~thecashewtrader/minv/[minv] - Self-Hosted
+
+'''
+
+== ▷ Screen Recording
+
+* ⭐ *https://obsproject.com/[OBS]*
+* ⭐ *https://gifcap.dev/[gifcap]* / https://github.com/joaomoreno/gifcap[GitHub], https://github.com/dergachev/screengif[screengif] or https://www.cockos.com/licecap/[licecap] - Turn Screencasts into GIFs
+* https://shinobi.video/[Shinobi] - Network Video Recorder
+* https://www.mythtv.org/[MythTV] - Digital Video Recorder (DVR)
+* https://tldv.io/[tldv] or https://github.com/kastldratza/zoomrec[ZoomRec] - Record Google Meets / Zoom Calls
+* https://ffmpeg.org/[FFmpeg]
+* https://lukasbach.github.io/vileo/[Vileo]
+* https://shar.ec/[Shar.ec]
+* https://github.com/akon47/ScreenRecorder[Screen Recorder]
+* https://screen-rec.vercel.app/[ScreenREC]
+* https://recordscreen.io/[RecordScreen]
+* https://github.com/vkohaupt/vokoscreenNG[vokoscreenNG]
+* https://github.com/MarcAnt01/Fluent-Screen-Recorder[Fluent Screen Recorder]
+* https://toolbox.googleapps.com/apps/screen_recorder/[Google Screen Recorder]
+
+'''
+
+== ▷ Convert / Encode
+
+* ⭐ *https://sometimes-archives-things.github.io/archived-things/[Encoding Guide]* / https://encoding-guide.neocities.org/[2], https://silentaperture.gitlab.io/mdbook-guide/[MDbook] or https://nullish.cat/blog/disc-rip[Disc Rip] / https://rentry.org/disc-rip[2] - Video Encoding / Ripping Guides
+* ⭐ *https://rentry.co/Remuxing[Basics to the Art of Remuxing]* or https://rentry.org/fs927[fs927] - Learn how to Remux Videos
+* ⭐ *https://mkvtoolnix.download/[MKVToolNix]* - MKV Editing Tools
+* ⭐ *https://handbrake.fr/[HandBrake]* / https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake[Guide]
+* ⭐ *https://github.com/FFmpeg/FFmpeg[FFmpeg]* or https://axiomui.github.io/[Axiomui]
+* ⭐ *FFmpeg Tools* - https://github.com/BtbN/FFmpeg-Builds[Autobuild], https://github.com/m-ab-s/media-autobuild_suite[2] / https://github.com/leandromoreira/ffmpeg-libav-tutorial[Guide], https://ffmpeg.guide/[2] / https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730[Cheat Sheet] / https://alfg.dev/ffmpeg-commander/[Commands], https://evanhahn.github.io/ffmpeg-buddy/[2] / https://argorar.github.io/WebMConverter/[WebM Converter] / https://ffmpeg.lav.io/[Preview Filters]
+* https://www.newgrounds.com/wiki/creator-resources/flash-resources/swivel[Swivel] - SWF to Video Converter
+* https://forum.doom9.org/showthread.php?t=183479[DDVT] - Dolby Vision RPU Demuxing / Injecting / Editing
+* https://github.com/yaser01/mkv-muxing-batch-gui[MKV Muxing Batch GUI] - Mux Videos
+* https://www.xmedia-recode.de/en/[XMedia Recode]
+* https://github.com/staxrip/staxrip/[staxrip] / https://telegra.ph/HEVC-Encoding-with-StaxRip-Settings-for-best-compression-included-05-12[Guide]
+* https://fastflix.org/[FastFlix]
+* https://github.com/Alkl58/NotEnoughAV1Encodes[NEAV1E]
+* https://www.video2edit.com/[Video2Edit]
+* https://winnydows.com/en/[Winnydows]
+* https://github.com/mdhiggins/sickbeard_mp4_automator[sickbeard_mp4_automator]
+* https://github.com/cdgriffith/FastFlix[FastFlix]
+* https://vc.germanov.dev/[Video Express Converter]
+* https://github.com/master-of-zen/Av1an[Av1an]
+* https://converter.sevenbytes.com/[Seven Converter] / https://github.com/SevenbytesSoftware/SevenConverter[GitHub]
+* https://github.com/n00mkrad/nmkoder[nmkoder]
+* https://videoconverter.com/[VideoConverter]
+* https://github.com/Kagami/boram/[Boram]
+* https://www.selur.de/[selur]
+* https://github.com/fraunhoferhhi/vvenc[vvenc], https://github.com/fraunhoferhhi/vvdec[vvdec], https://github.com/MartinEesmaa/VVCEasy[VVCEasy] - VVC Encode / Decode
+
+'''
+
+== ▷ Live Streaming
+
+* 🌐 *https://github.com/juancarlospaco/awesome-streaming-tools[Awesome Streaming]*, https://streamerfreebies.com/[StreamerFreebies] or https://vdo.ninja/[VDO Ninja] - Live Streaming Resources
+* 🌐 *https://gist.github.com/emilianavt/cbf4d6de6f7fb01a42d4cce922795794[Best VTuber]* or https://docs.google.com/spreadsheets/d/15UpI8GEqv22T45AD3L1EgcPB4l2Tvr64aDgLq7xZfMA/htmlview[VTuber References] - VTuber Tool Indexes
+* ⭐ *https://obsproject.com/[OBS]* - Live Stream Manager
+* ⭐ *OBS Tools* - https://obsproject.com/forum/resources/obs-virtualcam.949/[Virtual Cam] / https://discord.gg/CTT[Tweaks] / https://github.com/Xaymar/obs-StreamFX[Effects] / https://github.com/ThoNohT/NohBoard[Keyboard Visualiser] / https://github.com/occ-ai/obs-backgroundremoval[Background Remover] / https://github.com/Kounex/obs_blade[Phone Controller] / https://github.com/GRVYDEV/Project-Lightspeed[WebRTC Server]
+* https://streamelements.com/[Stream Elements] - Streaming Service Manager
+* https://github.com/stream-labs/desktop[Streamlabs-OBS] - Live Stream Manager
+* https://streamlabs.com/[SteamLabs] - Live Stream Manager
+* https://restream.io/[Restream] - Live Stream Manager
+* https://www.twitch.tv/broadcast/studio[Twitch Studio] - Live Stream Manager
+* https://fbx.gg/[FBX] - Live Stream Manager
+* https://www.xsplit.com/[XSplit] - Live Stream Manager
+* https://twitchat.fr/[TwitchChat] - Live Stream Manager / https://discord.com/invite/fmqD2xUYvP[Discord]
+* https://github.com/MrBrax/LiveStreamDVR[LiveStreamDVR] / https://github.com/MrBrax/twitch-vod-chat[Display Chat] - Live Stream Recorders
+* https://owncast.online/[Owncast] or https://openstreamingplatform.com/[OpenStreamingPlatform] - Self-Hosted Live Streaming
+* https://www.wdflat.com/[WDFlat] - Stream Elements
+* https://github.com/strem-app/strem[Strem] - Stream Automation
+* https://github.com/PubPub-zz/ppInk/[ppInk], https://github.com/geovens/gInk[glnk], https://annotatescreen.com/[Annotate Screen] or https://github.com/antfu/live-draw[Live Draw] - Screen Annotation
+* https://stream-pi.com/[StreamPi] or https://github.com/willianrod/ODeck[ODeck] - ElGato Streamdeck Alternatives
+* https://kyuppin.itch.io/vtuber-kit[VTuber Kit] or https://denchisoft.com/[Vtube Studio] - VTuber Apps
+* https://3d.kalidoface.com/[Kalidoface 3D], https://vroid.com/en/studio[VRoid], https://www.animaze.us/[Animaze] or https://girkovarpa.itch.io/transtube[TransTube] - VTuber Characters
+* https://github.com/alievk/avatarify-python[avatarify-python] or https://olmewe.itch.io/veadotube-mini[veadotube] - Video Call Avatars
+* https://github.com/wbt5/real-url[real-url] - Copy Live Stream URLs
+* https://github.com/xenova/chat-downloader[Chat-Downloader] - Retrieve Chat Messages from Livestreams
+
+'''
+
+= ► Video Players
+
+* 🌐 *https://github.com/krzemienski/awesome-video[Awesome Video]* - Video Streaming Resources
+* 🌐 *https://www.videohelp.com/software/sections/video-players?orderby=Rating[Video Help]* - Video Player Index
+* ⭐ *https://github.com/clsid2/mpc-hc/[MPC-HC]* or https://sourceforge.net/projects/mpcbe/[MPC-BE] - Video Player
+* ⭐ *https://mpv.io/[MPV]* / https://mpv-net.github.io/mpv.net-web-site/[2], https://github.com/422658476/MPV-EASY-Player[MPV-EASY-Player] - Video Player / https://github.com/mpvnet-player/mpv.net[GUI] / https://github.com/mpv-player/mpv/wiki/Applications-using-mpv[Frontends]
+* ⭐ *https://www.videolan.org/[VLC]* - Video Player
+* ⭐ *https://github.com/huynhsontung/Screenbox[Screenbox]* - Video Player
+* https://www.codecguide.com/[Video Player Codecs]
+* http://www.awesomevideoplayer.com/[AVPlayer] or https://github.com/vzhd1701/gridplayer[GridPlayer] - Multi-Video Players
+* https://www.splayer.org/[SPlayer] - Video Player w/ Smart Translation
+* https://potplayer.daum.net/[Pot Player] - Video Player
+* https://github.com/tsl0922/ImPlay[ImPlay] - Video Player
+* https://www.smplayer.info/[SMPlayer] / https://sourceforge.net/projects/smplayer/[2] - Video Player / https://www.smtube.org/[YouTube]
+* https://www.idruf.com/[uView] - Video Player
+* https://github.com/Rise-Software/Rise-Media-Player[Rise Media Player] - Video Player
+* https://github.com/SuRGeoNix/Flyleaf[Flyleaf] - Video Player
+* https://kikoplay.fun/[KikoPlay] - Video Player
+* https://greasyfork.org/en/scripts/381682-html5[HTML5 video player enhanced script]
+* https://plyr.io/[Plyr] - Online HTML5, YouTube and Vimeo Player / https://github.com/sampotts/plyr[GitHub]
+* https://github.com/LionelJouin/PiP-Tool[PiP-Tool] - Use Picture-in-Picture on All Videos
+* https://playvideos.pages.dev/[PlayVideo] - GDrive Video Players
+* https://omega.gg/MotionMonkey/[MotionMonkey] - Stream Online Videos in Player
+* https://streamlink.github.io/[StreamLink] - Extract Videos from Sites to Players / https://github.com/2bc4/streamlink-ttvlol[Twitch Adblock]
+* https://github.com/tor4kichi/Hohoema[Hohoema] - Nico Nico Video Player
+* https://polsy.org.uk/[polsy.org.uk] - Alt Players for Video Sites
+
+'''
+
+== ▷ Stream Sync
+
+* ⭐ *https://syncplay.pl/[SyncPlay]*
+* ⭐ *https://w2g.tv/[Watch2Gether]*
+* ⭐ *https://github.com/Semro/syncwatch[SyncWatch]*
+* ⭐ *https://kosmi.io/[Kosmi]*
+* ⭐ *https://neko.m1k1o.net/[neko]* / https://github.com/m1k1o/neko[GitHub]
+* https://hyperbeam.com/[HyperBeam] / https://greasyfork.org/en/scripts/457795[VIP]
+* https://trast.live/[Trast]
+* https://bear.cat/[bear.cat]
+* https://getmetastream.com/[Metastream]
+* https://caracal.club/[Caracal Club]
+* https://cytu.be/[CyTube]
+* https://2gether.video/en-us/[VideoTogether]
+* https://baked.live/[baked.live]
+* https://rave.io/[Rave.io]
+* https://twoseven.xyz/[twoseven]
+* https://watchpubs.com/[WatchPubs]
+* https://github.com/zorchenhimer/MovieNight[MovieNight] / https://discord.gg/F2VSgjJ[Discord]
+* https://www.watchparty.me/[WatchParty]
+* https://kast.gg/[Kast]
+* https://ba.net/screen/[Screen Share Party]
+* https://turtletv.app/[TurtleTV]
+* https://opentogethertube.com/[OpenTogetherTube]
+
+'''
+
+== ▷ MPV Tools
+
+* ↪️  *https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mpv_shaders[MPV Shaders]* -
+* http://thewiki.moe/tutorials/mpv/[MPV Config Guide], https://iamscum.wordpress.com/guides/videoplayback-guide/mpv-conf/[2], https://kokomins.wordpress.com/2019/10/14/[3], https://hooke007-github-io.translate.goog/unofficial/index.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp[4]
+* https://github.com/cyl0/ModernX[ModernX], https://github.com/Zren/mpv-osc-tethys[tethys] or https://github.com/tomasklaen/uosc[uosc] - Alt User Interfaces
+* https://github.com/open-dynaMIX/simple-mpv-webui[Simple MPV WebUI] - WebUI Controller
+* https://gitlab.com/carmanaught/mpvcontextmenu[MPV Context Menu]
+* https://github.com/mpv-player/mpv/wiki/User-Scripts[MPV Scripts] - Userscripts
+* https://github.com/Nudin/mplug[MPlug] - Plugin Manager
+* https://github.com/Ajatt-Tools/videoclip[VideoClip], https://github.com/f0e/mpv-cut[2] - Clip Tool
+* https://github.com/ekisu/mpv-webm[MPV WebM] - WebM Tool
+* https://greasyfork.org/en/scripts/416271[Play With MPV] or https://github.com/woodruffw/ff2mpv[ff2mpv] - Open Videos with MPV
+* https://github.com/noctuid/mpv-webtorrent-hook[MPV WebTorrent Hook] - Torrent Streamimg
+* https://github.com/joaquintorres/autosubsync-mpv[AutoSubSync MPV] - Sub Sync
+* https://github.com/po5/mpv_sponsorblock[MPV SponsorBlock], https://codeberg.org/jouni/mpv_sponsorblock_minimal[2] - SponsorBlock for MPV
+* https://github.com/po5/thumbfast[ThumbFast] - MPV Thumbnails
+
+'''
+
+== ▷ VLC Tools
+
+* 🌐 *https://github.com/mfkl/awesome-vlc[Awesome VLC]* - VLC Resources
+* https://github.com/exebetche/vlsub[VLSub] - Sub Downloader
+* https://rentry.co/VLC-skin[VLC Skin] - VLC Skins
+* https://redd.it/os6f1q[VLC Slow Seek Fix]
+
+'''
+
+= ► Media Servers
+
+* 🌐 *https://redd.it/hbwnb2[Auto Download Tool Index]*
+* ⭐ *https://www.plex.tv/[Plex]* - Media Server
+* ⭐ *https://jellyfin.org/[Jellyfin]* - Media Server
+* ⭐ *https://kodi.tv/[Kodi]* - Media Server
+* https://trash-guides.info/[TRaSH Guides] / https://discord.com/invite/4K2kdvwzFh[Discord] or https://redd.it/pqsomd[The Complete Guide] - Server Setup Guides
+* https://github.com/shyonae/selfhosted-anime/wiki[Self-hosted Anime] - Anime Server Setup Guides
+* https://github.com/Prowlarr/Prowlarr[Prowlarr], https://flexget.com/[FlexGet] or https://reddit.com/r/softwarr[/r/softwarr] - Autodownload Tools
+* https://github.com/causefx/Organizr[Organizr], https://github.com/aleksilassila/reiverr[Reiverr] or https://github.com/ajnart/homarr[Homarr] - Media Server Managers
+* https://github.com/sebgl/htpc-download-box[HTPC Download Box] - Media Server Automation
+* https://emby.media/[Emby] - Media Server
+* https://www.universalmediaserver.com/[Universal Media Server] - Media Server
+* https://osmc.tv/[OSMC] - Media Server
+* https://github.com/kanishka-linux/kawaii-player[Kawaii-Player] - Media Server
+* https://github.com/streamaserver/streama[Streama] - Media Server
+* https://gerbera.io/[Gerbera] - Media Server
+* https://github.com/ridhwaans/homehost[Homehost] - Media Server
+* https://github.com/Dusk-Labs/dim[Dim] - Media Server
+* https://github.com/ZorrillosDev/watchit-app[WatchIt] - Media Server
+* https://nmaier.github.io/simpleDLNA/[SimpleDLNA] - Media Server
+* https://github.com/ChocolateApp/Chocolate[Chocolate] - Media Server
+* https://github.com/Eleven-am/frames[Frames] - GDrive Server
+* https://ersatztv.org/[ErsatzTV] or https://github.com/vexorian/dizquetv[dizqueTV] - Live Channel Media Servers
+* https://github.com/jmbannon/ytdl-sub[YTDL-Sub] - Add YouTube Channels to Media Servers
+* https://github.com/xteve-project/xTeVe[xTeVe] - Plex / Emby M3U Proxy
+* https://github.com/Cloudbox/autoscan[Autoscan] - Real-Time Plex & Emby File Changes
+* https://github.com/Ombi-app/Ombi[Ombi] - Plex / Emby User Request Management
+
+'''
+
+== ▷ Plex Tools
+
+* https://www.plxplainers.xyz/[Plxplainers] or https://redd.it/ma1hlm[Reddit Guide] - Plex Setup Guides
+* https://tautulli.com/[Tautulli] - Server Monitor
+* https://discord.gg/8Jv792Rs7m[Free Plex Server]
+* https://normantheidiot.neocities.org/superplex/[SuperPlex] - Plex Plugins
+* https://github.com/pannal/Kitana[Kitana] - Plugin Frontend
+* https://github.com/plexdrive/plexdrive[PlexDrive] or https://docs.ultra.cc/books/rclone/page/rclone-vfs-and-mergerfs-setup[mergerfs] - Mount GDrive
+* https://synclounge.tv/[SyncLounce] - Media Sync
+* https://github.com/DEFENDORe/pseudotv[PseudoTV] - Create TV Channels
+* https://overseerr.dev/[Overseerr] - User Requests
+* https://www.pastatool.com/[Pasta Tool] - Audio / Sub Changer
+* https://github.com/itsToggle/plex_debrid[Plex Debrid] - Debrid for Plex
+
+'''
+
+== ▷ Jellyfin Tools
+
+* ⭐ *https://github.com/prayag17/JellyPlayer[JellyPlayer]* or https://github.com/jellyfin/jellyfin-media-player[jellyfin-media-player] - Desktop Clients
+* https://www.fuzzygrim.com/posts/media-server[Jellyfin Setup Guide]
+* https://youtu.be/F85qMyBeiDI[Jellyfin Customization Guide]
+* https://jellyfin.org/docs/general/clients/css-customization.html##community-themes[Jellyfin Themes]
+* https://www.reddit.com/r/JellyfinShares/[/r/JellyfinShares] - Server Sharing
+* https://github.com/Fallenbagel/jellyseerr[Jellyseerr] - User Requests
+* https://github.com/jellyfin-archive/jellyfin-plugin-anime[jellyfin-plugin-anime] - Anime Plugin
+
+'''
+
+== ▷ Kodi Tools
+
+* ⭐ https://redd.it/zzfdtb[Kodi Setup Guide]
+* https://rumble.com/c/EverythingKodi[EverythingKodi] - Kodi Addon Tutorials
+* https://kodiapps.com/builds-chart[Kodi Builds Chart]
+* https://www.reddit.com/r/Addons4Kodi/[r/Addons4Kodi] / https://kinkeadtech.com/best-kodi-streaming-addons/[Tracker] / https://kodiapps.com/addons-chart[Trending] - Kodi Addons
+* https://github.com/plexinc/plex-for-kodi[Plex For Kodi] or https://github.com/croneter/PlexKodiConnect[Plex Kodi Connect] - Plex Connect
+* https://quasar.surge.sh/[quasar] - Torrent Plugin
+* https://kodi.wiki/view/Add-on:PVR_IPTV_Simple_Client[IPTV Client]
+* https://simkl.com/[Simkl] - Media Tracker
+* https://elementum.surge.sh/[Elementum] - Trakt Sync
+* https://github.com/komet/mediaelch[mediaelch] - Media Manager
+
+'''
+
+= ► Video Download
+
+* ↪️ *https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders[YouTube Video Downloaders]*
+* ↪️ *https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_downloaders[Twitch Video Downloaders]*
+* ⭐ *https://www.downloadhelper.net/[Download Helper]*, https://addoncrop.com/v25/youtube-downloader/[AddonCrop Downloader], https://cococut.net/[Cococut], https://fetchv.net/[FetchV] or https://mpmux.com/[MPMux] - Extensions
+* ⭐ *https://github.com/yt-dlp/yt-dlp[YT-DLP]* - Multi-Site / https://github.com/kazukikasama/youtube-dlp-gui-installer[Easy Installer], https://github.com/StefanLobbenmeier/youtube-dl-gui[2]
+* ⭐ *https://cobalt.tools/[cobalt]* - Multi-Site
+* ⭐ *https://9xbuddy.xyz/[9xbuddy]*, https://9xbuddy.com/[2] - Multi-Site
+* ⭐ *https://github.com/iawia002/lux[Lux]* - Multi-Site
+* https://web.archive.org/web/20210102125108/https://www.reddit.com/r/Piracy/comments/kmodia/improved_text_video_tutorial_on_how_to_rip_from/[How-to Rip Videos from Amazon]
+* https://discord.gg/SYyvPxVyyW[CD(R)M-Project] - StreamFab Crack
+* https://github.com/KurtBestor/Hitomi-Downloader[Hitomi Downloader] - Multi-Site
+* https://ytdn.netlify.app/[ytDownloader] - Multi-Site
+* https://www.tubeoffline.com/[TubeOffline] - Multi-Site
+* https://www.videofk.com/[VideoFK] - Multi-Site
+* https://you-get.org/[you-get] - Multi-Site
+* https://yout.com/[Yout] - Multi-Site - Multi-Site
+* https://pastedownload.com/[pastedownload]
+* https://weibomiaopai.com/download-video-parser.php[weibomiaopai] - Multi-Site
+* https://github.com/AAndyProgram/SCrawler[SCrawler] - Multi-Site
+* https://github.com/jaysonlong/webvideo-downloader[webvideo-downloader] - Multi-Site
+* https://github.com/drawrowfly/tiktok-scraper[TikTok Scraper], https://myfavett.com/[myfaveTT], https://snaptik.app/[SnapTik], https://github.com/Dinoosauro/tiktok-to-ytdlp[tiktok-to-ytdlp] or https://github.com/Tomeriko96/urlescraper[urlescraper] - TikTok
+* https://dmvideo.download/[DMVideo] - DailyMotion
+* https://pincase.xyz/[PinCase] - Pinterest
+* https://www.videohelp.com/software/kmttg[kmttg] - TivoToGo Download Manager
+* https://github.com/puemos/hls-downloader[hls-downloader], https://webextension.org/listing/hls-downloader.html[hls extension] or https://www.hlsloader.com/[hlsloader.com] - HLS Downloaders
+* https://getwvkeys.cc/[GetWVKeys] - Send Widevine Requests / https://github.com/GetWVKeys/[GitHub]
+
+'''
+
+= ► Video Editing
+
+* 🌐 *https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md[Paper2GUI]* - AI Video Tools Index
+* 🌐 *https://www.reddit.com/r/VideoEditing/wiki/codecsandcontainers[Codecs and Containers]* or https://www.free-codecs.com/[Free-Codecs] - Video Editing Codecs
+* ⭐ *https://eycndy.co/[EyeCndy]* - Visual Technique Examples
+* https://www.motionfactory.io/[MotionFactory] - Video Editing Workflow Manager
+* https://forum.videohelp.com/forums/2-Video[VideoHelp Forum] - Video Editing Forums
+* https://movies.blainesville.com/p/wmm-60-on-windows-7.html[Blaine's Movie Maker Blog] - Windows Movie Maker Tutorials
+
+'''
+
+== ▷ Video Editors
+
+* ⭐ *https://www.blackmagicdesign.com/products/davinciresolve[DaVinci Resolve]* - Video Editor
+* ⭐ *https://shotcut.org/[Shotcut]* - Video Editor
+* https://auto-editor.com/[Auto-Editor] - CLI Editor
+* https://zulko.github.io/moviepy/[MoviePy] - Python Editor
+* https://github.com/dfaker/WebmGenerator[Webm Generator] - Webm Editor
+* http://avisynth.nl/index.php/Main_Page[avisynth] or https://www.vapoursynth.com/[VapourSynth] - Video Processors
+* https://store.steampowered.com/app/1840/Source_Filmmaker/[Source Filmmaker] - Steam Movie-Making Tool / https://sfmlab.com/[Resources]
+* https://github.com/AcademySoftwareFoundation/OpenRV[OpenRV] or https://www.dneg.com/xstudio/[xSTUDIO] - Image / Sequence Playback Review
+* https://www.remotion.dev/[Remotion]  - Video Editor
+* https://www.olivevideoeditor.org/[Olive] - Video Editor
+* https://sourceforge.net/projects/vdfiltermod/[VirtualDub2] - Video Editor
+* https://github.com/mifi/lossless-cut[LosslessCut] - Video Editor
+* https://www.ezvid.com/[EZVid] - Video Editor
+* https://www.openshot.org/[OpenShot] - Video Editor
+* https://kdenlive.org/en/[kdenlive] - Video Editor
+* https://lwks.com/[Lightworks] - Video Editor
+* https://www.videosoftdev.com/[VSDC] - Video Editor
+* https://avidemux.sourceforge.net/[avidemux] - Video Editor
+* https://www.pitivi.org/[Pitivi] - Video Editor
+* https://www.visla.us/[Visla] - Video Editor
+* https://www.majorgeeks.com/files/details/windows_movie_maker.html[Windows Movie Maker], https://archive.org/details/mm26enu_202002[2], https://archive.org/details/MM2.1And2.6_201903[3] - Video Editor
+* https://www.topazlabs.com/topaz-video-ai[Video Enhance AI] - Video Enhancement Tool
+* https://gyroflow.xyz/[Gyroflow] - Video Stabilization / https://github.com/gyroflow/gyroflow[GitHub]
+* https://nmkd.itch.io/flowframes[Flowframes] / https://kemono.party/patreon/user/19695417[Beta] or https://www.svp-team.com/[SVP] / https://www.svp-team.com/wiki/Manual:SVPcode[Guide] - Video Interpolation / Increase FPS
+* https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb[VideoColorizerColab] - Video Colorization Colab
+* https://opencolorio.org/[OpenColorIO] - Video Color Manager
+* https://freshluts.com/[FreshLUTs] - Free LUTs (Color Filters)
+* http://fixounet.free.fr/avidemux/[Avidemux] - Cut / Filter / Encode
+* https://github.com/ozmartian/vidcutter[vidcutter] - Cut / Trim Videos
+* https://www.opus.pro/[Opus] - Clip Creator
+* https://github.com/f0e/blur[blur] or https://github.com/couleur-tweak-tips/smoothie-rs[Smoothie] - Add Motion Blur to Videos / https://youtu.be/16-KU4r3BcA[Tutorial]
+* https://github.com/sczhou/ProPainter[ProPainter] - Video Inpainting
+* https://app.kurku.tech/[Kurku] or https://freemocap.org/[FreeMoCap] - Motion Tracking Tools
+* https://www.vseeface.icu/[VSeeFace] - Face / Hand Tracking VRM
+
+'''
+
+== ▷ Online Editors
+
+* ⭐ *https://mastershot.app/[Mastershot]*
+* https://videoinu.com/[VideoInu]
+* https://clideo.com/[Clideo]
+* https://www.kapwing.com/[Kapwing]
+* https://invideo.io/[InVideo]
+* https://panzoid.com/[Panzoid]
+* https://keepchangeit.com/[KeepChangeIt]
+* https://www.veed.io/tools/video-editor[veed.io]
+* https://convert2video.com/[Convert2Video]
+* https://video-cutter-js.com/[Video Cutter]
+* https://www.flexclip.com/[FlexClip]
+* https://vididoo.vercel.app/[Vididoo]
+* https://www.videotoolbox.com/[VideoToolbox]
+* https://videocandy.com/[VideoCandy]
+* https://animoto.com/[Animoto]
+* https://editor.flixier.com/[Flixier]
+* https://www.descript.com/[descript]
+* https://vidmix.app/[vidmix]
+* https://bwasti.github.io/mebm/[mebm]
+* https://crop-video.com/[Crop Video] - Crop Videos
+* https://loopvid.kastden.org/[LoopVid] - Loop Videos
+* https://crossfade.io/[Crossfade] - Video and Audio Crossfading
+* https://www.videolouder.com/[VidLouder] - Increase Video Volume
+
+'''
+
+== ▷ VFX Sites
+
+* ⭐ *https://www.downloadpirate.com/[Download Pirate]* / https://discord.gg/ucTvVtBz9Z[Discord]
+* https://footagecrate.com/[FootageCrate]
+* https://freevideoeffect.com/[FreeVideoEffect]
+* https://www.videocopilot.net/[VideoCoPilot]
+* https://www.vfxmed.com/[VFXmed]
+* https://t.me/flex_cg_vfx[flex_cg_vfx]
+* https://www.shareae.com/[ShareAE] - After Effects
+* https://hunterae.com/[HunterAE] - After Effects
+* https://aeriver.com/[AERiver] - After Effects
+* https://intro-hd.net/[Intro HD] - After Effects
+* https://aedownloadpro.com/[AEDownloadPro] - After Effects
+* https://rentry.co/FMHYBase64#adobe-after-effects-collection[Adobe After Effects Collection] - After Effects
+
+'''
+
+== ▷ Animation Tools
+
+* 🌐 *https://www.newgrounds.com/wiki/creator-resources/[Creator Resources]* - Art & Animation Resource Index
+* ⭐ *https://www.unrealengine.com/[Unreal Engine]*, https://openmoonray.org/[MoonRay], https://t.me/cgsoftbox[cgsoftbox], https://www.sketchup.com/[SketchUp] or https://www.twinmotion.com/en-US[Twinmotion] - 3D Creation Tools
+* ⭐ *https://www.leiapix.com/[LeiaPix]* - 2D Image to 3D Animation Tool
+* https://opentoonz.github.io/e/[OpenToonz], https://www.wickeditor.com/editor/[Wick Editor], https://calcium-chan.itch.io/clipnote[Clipnote Studio] or https://www.pencil2d.org/[Pencil2D] - Animation Tools
+* https://www.animaker.com/[Animaker] - Animated Video Creator
+* https://t.me/CG_Hacker[CG_Hacker], https://t.me/cg_tuts[cg_tuts] or https://t.me/cgreferenceshub[cgreferenceshub] - CG Tutorials
+* https://www.amv101.com/[AMV101] - Animated Music Video-Making Guides
+* https://quixel.com/megascans[Mega Scans] - 3D Scans
+* https://quixel.com/mixer[Mixer] - 3D Texture Creation Tool
+* https://planetside.co.uk/[PlanetSide] - CG Environment Generator
+* https://t.me/cgplugdump[cgplugdump] - CG Software Plugins
+* https://physicallybased.info/[Physically Based] - RGB Values of Elements
+* https://github.com/AnimeEffectsDevs/AnimeEffects[AnimeEffects], https://maurycyliebner.github.io/[enve], https://www.expressivesuite.com/[Expressive], https://cavalry.scenegroup.co/[Cavalry], https://tupitube.com/[TupiTube] or https://www.synfig.org/[Synfig] - 2D Animation Tools
+* https://scribblediffusion.com/[ScribbleDiffusion] - Turn Doodles into Artwork
+* https://monstermash.zone/[MonsterMash] - Sketch-Based Modeling & Animation Tool
+* https://wonderunit.com/storyboarder/[Storyboarder] - Quickly Visualize & Test Animations / https://github.com/wonderunit/storyboarder[GitHub]
+* https://luxcorerender.org/[LuxCoreRender] - Rendering Engine
+* https://morevnaproject.org/renderchan/[RenderChan] - 2D Animation Render Manager
+* https://mandelbulber.com/[Mandelbulber] or https://github.com/3Dickulus/FragM[FragM] - Fractal Rendering Software / https://mb3d.overwhale.com/[3D]
+* https://jwildfire.overwhale.com/[JWildfire], https://github.com/bezo97/IFSRenderer[IFSRenderer] or http://fractorium.com/[Fractorium] - Flame Fractal Rendering Software
+* https://bestsnip.com/animation/[BestSnip], https://sketchmachine.net/[Sketch Machine], https://plask.ai/[Plask] or https://rive.app/[Rive] - Online Animation Tools
+* https://libresprite.github.io/[LibreSprite], https://makham.itch.io/pixel-composer[Pixel Compresor], https://emad.itch.io/jpixel[JPixel] or https://encelo.itch.io/spookyghost[SpookyGhost] - Pixel Art Animation Tools
+* https://sketch.metademolab.com/[Animated Drawings], https://fairanimateddrawings.com/site/home[FAIR Animated Drawings] or https://motorpen.com/[MotorPen] - Animate Drawings
+* https://flipanim.com/[FlipAnim] - Create Animated Flipbooks
+* https://picrew.me/[Picrew] - Animated Character Maker
+* https://www.mixamo.com/[Mixamo] or https://cascadeur.com/[Cascadeur] - 3D Character Animation Tools
+* https://github.com/open-mmlab/mmhuman3d[MMHuman3D] - 3D Human Model Creator
+* https://github.com/saba99/Talking_Face_Avatar[Talking Face Avatar] - Talking Avatar Generator
+* https://youtube.com/playlist?list=PLav47HAVZMjnTFVZL-aImCQIC0uLZtNCz[Blender Open Movies] - CGI Assets
+
+'''
+
+== ▷ Stock Videos
+
+* 🌐 *https://github.com/neutraltone/awesome-stock-resources#videos[Awesome Stock Resources]* or *https://cutestockfootage.com/free/video[CuteStockFootage]* - Stock Video Indexes
+* ⭐ *https://www.vidsplay.com/[VidsPlay]* - Stock Videos
+* https://4kmedia.org/[4K Media] - 4K Stock Videos
+* https://dareful.com/[Dareful] - 4K Stock Videos
+* https://www.monzoom.com/[Monzoom] - 4K Stock Videos
+* https://www.beachfrontbroll.com/[BeachFrontBroll] - Stock Videos
+* https://www.videvo.net/[Videvo] - Stock Videos
+* https://www.veed.io/videos[veed.io] - Stock Videos
+* https://mitchmartinez.com/free-4k-red-epic-stock-footage/[MitchMartinez] - Stock Videos
+* https://mixkit.co/[MixKit] - Stock Videos
+* https://ineedfx.com/[ineedfx] - Stock Videos
+* https://www.motionplaces.com/[MotionPlaces] - Worldwide Stock Videos
+* https://dronestock.com/[DroneStock] - Drone Video Footage
+* https://movietools.info/[MovieTools] - Video Loops

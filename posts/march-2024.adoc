@@ -1,0 +1,47 @@
+= Wiki Updates
+:aside: left
+:date: 2024-03-01
+:description: March 2024 Updates
+:doctype: book
+:footer: true
+:next: false
+:prev: false
+:sidebar: false
+
+* Added custom search engines (CSE) for https://cse.google.com/cse?cx=f7a118c70d0804fc4[Courses] and https://cse.google.com/cse?cx=82154ebab193e493d[Fonts].
+* Added section for https://fmhy.net/miscguide#productivity-tools[Productivity Tools] in Useful Sites.
+* Added section for https://fmhy.net/file-tools#file-recovery[File Recovery] in File Tools.
+* Added section for https://fmhy.net/adblockvpnguide#fingerprinting-tracking[Fingerprinting / Tracking] in Privacy.
+* Added sections for https://fmhy.net/gamingpiracyguide#mario-kart-tools[Mario Kart] + https://fmhy.net/gamingpiracyguide#geometry-dash-tools[Geometry Dash] in Gaming.
+* Added section for https://fmhy.net/miscguide#crypto-bitcoin[Crypto / Bitcoin] in Career.
+* Added section for https://fmhy.net/linuxguide#raspberry-pi[Raspberry Pi] in Linux.
+* Added sections for https://fmhy.net/img-tools#design-apps[Design Apps] + https://fmhy.net/img-tools#free-assets[Design Assets] in Image Tools.
+* Our Minecraft Server is now live. Click *https://fmhy.net/posts/minecraft-server[here]* to join.
+* Moved `fmhy.tk` to `old.fmhy.net`
+
+'''
+
+= Stars Added ⭐
+
+* Starred https://fmhy.net/audiopiracyguide#audio-downloading[yet another music server] in Audio Downloading. Multi-site DDL (deezer, qobuz, tidal, spotify, youtube, FLAC.)
+* Starred https://fmhy.net/ai#online-chatbots[wrtn] in Online Chatbots. No limit GPT-4, tell it to always talk in english.
+* Starred https://fmhy.net/videopiracyguide#streaming-sites[M4UFree + YesMovies] in Streaming. Both have huge libraries, fast 1080p, and have been around for over a decade.
+* Starred https://fmhy.net/ai#online-generators[Poe] in Image Generators. 100 SDXL and 100 Playground Gens.
+* Starred https://fmhy.net/storage#minecraft-optimization-mods[Simply Optimized] in Minecraft Optimization. Some prefer this to Fabulously Optimized.
+* Starred https://fmhy.net/torrentpiracyguide#aggregators[SolidTorrents] in Torrent Aggregators.
+* Starred https://fmhy.net/videopiracyguide#live-tv-sports[MrGamingStreams] in Live TV. Fast streams, nice UI, no ads.
+* Starred https://fmhy.net/videopiracyguide#sports-streaming[720pier] in Sports Streaming. Sport replay torrents.
+* Starred https://fmhy.net/social-media-tools#youtube-customization[Enhancer for YT] in YouTube Customization. YouTube enhancement extension.
+* Starred https://fmhy.net/videopiracyguide#tracking-discovery[RatS] in Tracking / Discovery. Sync media ratings between sites.
+
+'''
+
+= Things Removed
+
+* Removed Vendetta from Android as the devs have https://i.imgur.com/F4o2ela.png[shut it down].
+* Removed TTV LOL as it stopped working.
+* Unstarred  bypass.vip and FastForward as they https://i.imgur.com/EMRcqX6.png[don't work as well] as they used to.
+* Unstarred claude in chatbots as it requires email + phone number and doesn't give as good results as it used to.
+* Unstarred Harmonoid as its not longer being updated and has 100+ issues on github.
+
+'''

@@ -1,0 +1,56 @@
+= How-to Search FMHY
+:aside: left
+:date: 2023-01-07
+:description: Various tools to help you query FMHY.
+:footer: true
+:next: false
+:prev: false
+:sidebar: false
+
++++<Post authors="['nbats']">++++++</Post>+++
+
+=== https://fmhy-search.streamlit.app/[FMHY-Search]
+
+Search engine hosted on Streamlit
+
+'''
+
+=== link:/[FMHY.pages Search]
+
+Search engine hosted on FMHY.pages
+
+'''
+
+=== https://www.fmhy.tk/search[FMHY.tk Search]
+
+Search engine hosted on FMHY.tk
+
+'''
+
+=== https://github.com/nbats/FMHY/search?q=&type=wikis[GitHub Search]
+
+GitHub page search engine
+
+'''
+
+=== https://github.com/Rust1667/a-FMHY-search-engine[Python Script]
+
+Search markdown via python script
+
+'''
+
+=== https://raw.githubusercontent.com/nbats/FMHYedit/main/single-page[Raw Markdown]
+
+Search markdown manually (ctrl+f)
+
+'''
+
+=== https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_search_tools[Google CSEs]
+
+Multi-site search engines
+
+'''
+
+=== https://gitlab.com/cevoj/fmhy-dupe-checker[Dupe Checker]
+
+FMHY Dupe Check Tool

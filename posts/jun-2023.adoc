@@ -1,0 +1,85 @@
+= Monthly Updates [June]
+:aside: left
+:date: 2023-06-01
+:description: June 2023 updates.
+:footer: true
+:next: false
+:prev: false
+:sidebar: false
+
++++<Post authors="['nbats']">++++++</Post>+++
+
+*Wiki Updates*
+
+* Added a
+link:/gamingpiracyguide/#chess--checkers[Chess / Checkers]
+section to Browser Games.
+* Added a link:/ai/#stable-diffusion[Stable Diffusion]
+section to Artificial Intelligence.
+* Added qualities (720p, 1080p, 4k) to
+link:/videopiracyguide/#download-sites[Video Download]
+sites.
+* Created a https://github.com/fmhy[Git Organization] and combined all FMHY
+related projects into it.
+* Updated the https://rentry.org/Piracy-BG[Beginners Guide] with new links, a
+FAQ section and more.
+* Imgur is removing everything not tied to an account, so we've gone through and
+replaced all our images with ImgBB.
+* Added https://ibb.co/HCB7BS9[Friend Wiki's] to our sidebar.
+
+'''
+
+*Stars Added* ⭐
+
+* Starred link:/storage/#game-download-cse[Rezi] in Gaming
+Sites. Multi-site game download search.
+* Starred https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi[Guanaco],
+https://callannie.ai/[Call Annie], https://chatbot.theb.ai[BAI] and
+https://chat.lmsys.org/[LMSYS] in AI Chatbots.
+* Starred https://zoo.replicate.dev/[Zoo] and
+https://huggingface.co/spaces/DeepFloyd/IF[DeepFloyd IF] in Image
+Generators.
+* Starred link:/ai/#chatgpt-prompts[Prompt Engineering Guide]
+in ChatGPT prompts.
+* Starred link:/ai/#text-to-speech[Bark] in Text to Speech.
+* Starred
+link:/audiopiracyguide/#download-apps[Firehawk52 Guide] in
+Audio Downloading.
+* Starred link:/downloadpiracyguide/#freeware-sites[store.rg]
+in Freeware Sites.
+* Starred link:/toolsguide/#tweaking[f.lux] in System
+Tweaking.
+* Starred link:/android-iosguide/#android-tools[MacroDroid]
+in Android Tools.
+* Starred https://www.ratingraph.com/[Rating Graph] and
+https://deepsearch.mycelebs.com/movie[DeepSearch] in Tracking / Discovery.
+* Starred
+link:/devtools/#learning--cheat-sheets[Programming Learning Resources]
+in Dev Tools.
+* Starred
+link:/audiopiracyguide/#ambient--relaxation[CityHop] in
+Ambient / Relaxation.
+* Starred link:/miscguide/#chat--forums[Knockout] in Chat /
+Forums. Made by members of facepunch forums after it shut down.
+
+'''
+
+*Things Removed*
+
+* Removed and unstarred RARBG as they have decided to
+https://ibb.co/zxcLTpq[call it quits].
+* Unstarred Mullvad in VPNs as they are
+https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/[removing support for port forwarding].
+* Unstarred Patoghu in Download Sites. They've added
+https://ibb.co/2SjzZb1[persian captchas] to their downloads, making the site
+useless to english users.
+* Unstarred MagicBrush in AI Image Generators. Not quite as good as other free
+options now.
+* Unstarred Authy in Privacy Tools as its not open-source.
+* Unstarred Awesome ChatGPT as its no longer updated.
+* Bromite doesn't seem to be maintained anymore, so we've replaced the main repo
+with an link:/android-iosguide/[autobuild] for now.
+
+'''
+
+'''

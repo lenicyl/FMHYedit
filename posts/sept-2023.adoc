@@ -1,0 +1,108 @@
+= Monthly Updates [September]
+:aside: left
+:date: 2023-09-01
+:description: September 2023 updates.
+:footer: true
+:next: false
+:prev: false
+:sidebar: false
+
++++<Post authors="['nbats']">++++++</Post>+++
+
+*Wiki Updates*
+
+* Split Linux Tools into subcategories:
+link:/linuxguide/#linux-system[System],
+link:/linuxguide/#linux-apps[Apps],
+link:/linuxguide/#linux-internet[Internet],
+link:/linuxguide/#terminal--shell[Terminal / Shell] and
+link:/linuxguide/#customization[Customization].
+* NSFW has been link:/nsfwpiracy/[overhauled] with a bunch of
+new sites and sections.
+* Added Z-Libs new
+link:/readingpiracyguide/#reading-sites[Desktop App / Extension]
+in Reading Sites.
+* Replaced 9anime with
+link:/videopiracyguide/#anime-streaming[AniWave] as they've
+https://torrentfreak.com/9anime-rebrands-to-aniwave-citing-legal-troubles-230802/[rebranded]
+to avoid blocking.
+* Replaced link to IDM in Download Managers with
+link:/storage/#file-download-managers[activation script].
+* Replaced /r/VPN with https://www.reddit.com/r/vpns/[/r/VPNs] in our sidebar,
+as it allows users to discuss providers.
+
+'''
+
+*Stars Added* ⭐
+
+* Starred SusFlix and The Movie Archive in
+link:/videopiracyguide/#multi-server[Streaming Sites]. Big
+libraries, 4K quality.
+* Starred link:/videopiracyguide/#drives--directories[Dhokla]
+in video downloading. Big drive, fast downloads.
+* Starred
+https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md[Awesome Free ChatGPT]
+in AI Chatbots. Huge list of free chatbots.
+* Starred link:/storage/#compression-programs[NanaZip] in
+File Archivers. Open-source, modern design, preferred over 7-Zip by some.
+* Starred link:/torrentpiracyguide/#torrent-clients[Deluge]
+in Torrent Clients. Open-source client with many useful
+https://dev.deluge-torrent.org/wiki/Plugins[plugins].
+* Starred link:/android-iosguide/#android-audio[InnerTune] in
+Android Audio. Open-source YouTube Music client.
+* Starred APKPure and UpToDown in
+link:/android-iosguide/#untouched-apks[Untouched APKs].
+* Starred EverythingMoe and Ripped in
+link:/miscguide/#indexes[Indexes]. Solid Piracy Indexes.
+* Starred
+link:/readingpiracyguide/#comic-sites[ReadAllComics] in
+Comics. Big library, no captcha.
+* Starred
+link:/videopiracyguide/#sports-streaming[WatchWrestling24]
+in Sports Streaming. Good video hosts, quick uploads.
+* Starred link:/adblockvpnguide/#antivirus[Sandboxie Plus] in
+Antivirus. User-friendly software sandbox /
+https://rentry.co/sandboxie-guide[Guide].
+* Starred link:/miscguide/#shopping[DarkPatternsTipline] in
+Shopping. Deceptive Service Design Tipline.
+* Starred link:/storage/#package-managers[Scoop] in Package
+Managers. Command-line installer for Windows.
+* Starred link:/toolsguide/#file-tools[SA Drive] in File
+Tools. Google Service Account Drive Manager.
+* Starred link:/storage/#image-upscalers[OpenModelDB] in
+Image Upscaling. Upscaling Model Database.
+* Starred link:/toolsguide/#video-tools[EyeCndy] in Video
+Tools. Camera technique library.
+
+'''
+
+*Things Removed*
+
+* We've stopped accepting and started removing all AI tools that require paid
+API keys to function.
+* Removed FileCR as they've been
+https://rentry.co/filecr_malware[caught with malware], and still haven't
+removed it.
+* Removed AnonFiles as they've decided to quit due to people
+https://i.imgur.com/lXoEqAV.png[abusing the site].
+* Unstarred WinRar in File Archivers. People feel its not as useful anymore
+given open-source options like 7-Zip / NanaZip.
+* Removed RVX from ReVanced section as its been
+https://github.com/inotia00/revanced-documentation/wiki/Announcement[discontinued].
+* Removed PDF Drive in PDF Sites as downloads no longer work.
+* Removed TronScript in Debloaters. Some people consider it
+https://i.imgur.com/K5hf5Bu.png[overkill].
+* Removed Poe in AI Chatbots as its now limited to 10 daily messages (or 100 in
+some countries.)
+* Removed the "Everything I Know" wiki from Indexes as they've gone
+https://i.imgur.com/ig8jPGL.jpg[paid]. You can get around it by blocking the
+overlay, but we're not interested in sending traffic their way anymore.
+* Unstarred 1337x and added https://pastebin.com/Rc9MYMZ7[warning] to avoid
+software / games, as they've had issues with malware, including a torrent that
+was up for days after being reported. They did remove it eventually, and
+https://i.imgur.com/ij4CXIm.png[respond] to the situation, so we feel it
+would be unfair to remove their site entirely. Our hope is that 1337x acts
+quicker in the future, avoids situations like this, and begins to earn trust
+back from people over time.
+
+'''

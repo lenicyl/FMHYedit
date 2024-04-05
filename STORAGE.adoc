@@ -1,0 +1,1200 @@
+'''
+
+'''
+
+*https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index[◄◄ Back to Wiki Index]*
+_**
+**_
+
+== 3D Modeling Apps
+
+* ⭐ *https://www.blender.org/[Blender]*
+* ⭐ *https://github.com/openai/shap-e[Shap-e]*
+* ⭐ *Blender Tools* - https://github.com/agmmnn/awesome-blender[Resources] / https://www.3dbestie.com/[Tutorials] / https://github.com/carson-katri/dream-textures[Textures] / https://github.com/prman-pixar/RenderManForBlender[Renderer] / https://t.me/geometrynodes[3D Nodes] / https://t.me/blenderplugs[Plugins] / https://github.com/benrugg/AI-Render[AI Render]
+
+https://www.meshy.ai/[Meshy.ai] / https://discord.com/invite/KgD5yVM9Y4[Discord], https://spline.design/[Spline], https://www.anim8or.com/[Anim8or], http://www.wings3d.com/[Wings 3D], https://justsketch.me/[JustSketchMe], https://www.tinkercad.com/[Tinkercad], https://github.com/itta611/ChokokuCAD[ChokokuCAD], https://www.povray.org/[POV-Ray], https://www.freecad.org/[FreeCAD], https://www.vectary.com/[Vectary], https://librecad.org/[LibreCAD], https://aoi.sourceforge.net/[Art of Illusion], https://brlcad.org/[BRL-CAD], https://get.posturize-app.com/[Posturize], https://studio.morflax.com/[Morflax], https://poly.cam/[Polycam]
+
+'''
+
+== 3D Models
+
+* ⭐ *https://www.thingiverse.com/[Thingiverse]*
+
+https://clara.io/library[Clara.io], https://sketchfab.com/[Sketchfab], https://grabcad.com/[GrabCAD], https://www.3dcu.com/[3DCU], https://3dru.net/[3DLOAD], https://cgdownloads.com/[CGdownloads], https://p3dm.ru/[Pack 3d models], https://3d-load.net/[3DLOAD], https://www.cgtrader.com/free-3d-models[cgtrader], https://free3d.com/[Free3D], https://vrmodels.store/[VRModels], https://www.cadnav.com/[CadNav], https://www.blender-models.com/[Blender 3D Models], https://render-state.to/[Render-State], https://open3dmodel.com/[Open3dModel], https://kicad.github.io/[KiCad], https://archive3d.net/[Archive3D], https://topgfx.info/index.php[TopGFX], https://3dexport.com/free-3d-models[3DExport], https://shop3dmili.com/free[3DMili Free Shop], https://archibaseplanet.com/[ArchibasePlanet], https://cults3d.com/[Cults], https://3dsky.org/[3dsky], https://www.turbosquid.com/Search/3D-Models/free[TurboSquid], https://3dwarehouse.sketchup.com/[3D Warehouse], https://www.blenderkit.com/[BlenderKit], https://3dmili.com/[3DMili], https://poly.pizza/[poly.pizza], https://rigmodels.com/[RIGModels], https://www.printables.com/[Printables], https://thangs.com/[Thangs], https://pinshape.com/[Pinshape], https://nasa3d.arc.nasa.gov/models/printable[NASA 3D Resources], https://t.me/cgworld_1[CG World], https://t.me/blender_addon[Blender Add-on], https://www.3dfindit.com/en/[3D Find It], https://free3dbase.com/[free3dbase], https://open3dlab.com/[open3dlab], https://3dpirate.net/[3dpirate], https://www.blendswap.com/[blendswap], https://polyhaven.com/[PolyHaven]
+
+'''
+
+== Alternative Search Engines
+
+* ⭐ *https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines[Privacy Focused Engines]*
+* ⭐ *https://yandex.com/[Yandex]*
+* ⭐ *https://www.ecosia.org/[Ecosia]* - https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/[Firefox] / https://chromewebstore.google.com/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk[Chrome]
+* 🌐 *https://www.faganfinder.com/[Fagan Finder]*, http://www.directsearch.net/[DirectSearch.Net], https://www.searchenginecolossus.com/[Search Engine Colossus] or https://start.me/p/wM7y15/search-engine[Search-Engine] - Search Engine Indexes
+* https://leta.mullvad.net[Leta] - Mullvad VPN required
+* https://you.com/[You] - https://you.com/search?q=who+are+you&fromSearchBar=true&tbm=youchat[AI Search]
+* https://mwmbl.org/[MWMBL] - https://github.com/mwmbl/mwmbl[GitHub]
+* https://presearch.com/[Presearch] - https://github.com/presearchofficial[GitHub]
+
+https://www.bing.com/[Bing], https://www.lycos.com/[Lycos], https://www.webcrawler.com/[WebCrawler], https://millionshort.com/[Million Short], https://andisearch.com/[Andi], https://search.excite.com/[Excite], https://www.metacrawler.com/[Metacrawler], https://www.entireweb.com/[entireweb], https://search.carrot2.org/#/web[Carrot2], https://www.4search.com/[4Search], https://www.info.com/[Info.com], https://www.yahoo.com/[Yahoo], http://frogfind.com/[FrogFind!], https://search.visymo.com/[Visymo Search], https://search.aol.com/[AOL], https://all-io.net/[All in One], https://www.alltheinternet.com/[All the Internet], https://www.etools.ch/[eTools.ch], https://biznar.com/biznar/desktop/en/search.html[BizNar], https://worldwidescience.org/[WorldWideScience], https://github.com/zincsearch/zincsearch[ZincSearch], https://benbusby.com/projects/whoogle-search/[Whoogle Search], https://www.infospace.com/[infospace], https://www.2lingual.com/[2lingual], https://www.alexandria.org/[alexandria.org]
+
+'''
+
+== Alternative Software / App Sites
+
+* ⭐ *https://alternativeto.net/[AlternativeTo]*
+
+https://ethical.net/[Ethical], https://www.slant.co/[Slant], https://www.saashub.com/[SaaSHub], https://switching.software/[switching.software], https://alternative.me/[Alternative.me], https://www.topbestalternatives.com/[Top Best Alternatives], https://gitlab.com/curlycrixus/gofoss[gofoss.net], https://www.opensourcealternative.to/[Open Source Alternative To], https://topalter.com/[TopAlter.com], https://www.listalternative.com/[ListAlternative], https://notabug.org/jyamihud/FreeCompetitors[Free Competitors], https://appmus.com/[AppMus]
+
+'''
+
+== Android Audio Players
+
+* ⭐ *https://forum.mobilism.org/search.php?keywords=poweramp&sr=topics&sf=titleonly[Poweramp]*
+* ⭐ *https://www.aimp.ru/?do=download&os=android[AIMP]*
+* ⭐ *https://krosbits.in/musicolet/[Musicolet Music Player]*
+* ⭐ *https://www.revdl.com/blackplayer-ex-apk-download.html/[BlackPlayer EX]*
+* ⭐ *https://github.com/zyrouge/symphony[Symphony]*
+* https://github.com/jmshrv/finamp[Finamp] - Jellyfin Music Player
+* https://gitlab.com/ultrasonic/ultrasonic[Ultrasonic] or https://github.com/TaylorKunZhang/SubTune[SubTune] - Subsonic Clients
+
+https://play.google.com/store/apps/details?id=com.piyush.music[Oto Music], https://harmonoid.com/[Harmonoid], https://www.videolan.org/vlc/download-android.html[VLC for Android], https://github.com/mpv-android/mpv-android[mpv-android], https://www.foobar2000.org/apk[Foobar2000], https://vanilla-music.github.io/[Vanilla Music], https://github.com/MuntashirAkon/Metro[Metro], https://retromusic.app/[Retro Music Player], https://github.com/OxygenCobalt/Auxio/[Auxio], https://github.com/nuclearfog/Apollo-Music[Apollo Music Player], https://github.com/enricocid/Music-Player-GO[Music Player GO], https://play.google.com/store/apps/details?id=com.awedea.nyx[Nyx Music Player], https://github.com/google/ExoPlayer[ExoPlayer], https://github.com/farshed/SoundSpice-mobile[SoundSpice], https://github.com/moritz-weber/mucke[mucke], https://github.com/chr56/Phonograph_Plus[Phonograph Plus], https://github.com/TheMusicmax/Musicmax[Musicmax], https://github.com/tearone/tearmusic[Tear Music], https://play.google.com/store/apps/details?id=com.hardcodecoder.pulse[Pulse Music], https://github.com/pakka-papad/Zen[Zen Music Player], https://martinmimigames.github.io/projects/little-music-player/[Little Music Player], https://github.com/lighttigerXIV/SimpleMP-Compose[SimpleMP-Compose], https://github.com/vhaudiquet/BladePlayer[BladePlayer]
+
+'''
+
+== Android Browsers
+
+* ⭐ *https://www.mozilla.org/[Firefox]* - https://f-droid.org/packages/org.mozilla.fennec_fdroid/[F-Droid] / https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/[Focus]
+* ⭐ *https://github.com/Tobi823/ffupdater[FFUpdater]* - Multi-Browser Updater
+
+https://github.com/fork-maintainers/iceraven-browser[Iceraven Browser], https://kiwibrowser.com/[Kiwi Browser], https://play.google.com/store/apps/details?id=net.onecook.browser[Stargon Browser], https://play.google.com/store/apps/details?id=jp.ejimax.berrybrowser[Berry Browser], https://play.google.com/store/apps/details?id=com.ecosia.android[Ecosia], https://alohabrowser.com/[AlohaBrowser], https://play.google.com/store/apps/details?id=mark.via.gp[Via Browser], https://play.google.com/store/apps/details?id=com.xpp.floatbrowser[Float Browser], https://github.com/Slion/Fulguris[Fulguris]
+
+=== Privacy Based
+
+* 🌐 *https://divestos.org/pages/browsers[Privacy Browser Comparisons]*
+* ⭐ *http://gitlab.com/divested-mobile/mull-fenix[Mull]*
+* ⭐ *https://tb-manual.torproject.org/mobile-tor/[Tor]* - Onion-Routed Browser
+* https://duckduckgo.com/app[DuckDuckGo Privacy Browser] - Webview Browser
+* https://www.stoutner.com/privacy-browser-android/[Privacy Browser] - Webview Browser
+
+'''
+
+== Android Note Apps
+
+https://fossdroid.com/a/markor.html[Markor], https://sunilpaulmathew.github.io/sNotz/[sNotz], https://play.google.com/store/apps/details?id=com.google.android.keep[Google Keep], https://play.google.com/store/apps/details?id=com.xaviertobin.noted[Bundled Notes], https://www.colornote.com/[ColorNote], https://www.notion.so/[Notion], https://joplinapp.org/[Joplin], https://standardnotes.com/[Standard Notes], https://www.zoho.com/notebook/[Notebook], https://play.google.com/store/apps/details?id=com.getupnote.android[UpNote], https://support.microsoft.com/en-us/office/microsoft-onenote-for-android-46b4b49d-2bef-4746-9c30-6abb5e20b688[OneNote], https://github.com/appml/neutrinote[neutriNote], https://play.google.com/store/apps/details?id=co.easy4u.writer[Writer Plus], https://github.com/orgzly-revived/orgzly-android-revived[Orgzly], https://justnote.cc/[Justnote], https://play.google.com/store/apps/details?id=com.makenotetoself[Note to Self], https://github.com/alialbaali/Noto[Noto], https://github.com/jpkhawam/Nabu[Nabu], https://obsidian.md/mobile[Obsidian], https://github.com/adil192/saber[Saber], https://quillpad.github.io/[Quillpad], https://juniorise.github.io/spooky-mb/[Spooky], https://memos.moe/[Moe Memos], https://github.com/hashemi-hossein/ara-note[Ara Note], https://github.com/OmGodse/Notally[Notally], https://omninotes.app/[Omni Notes], https://play.google.com/store/apps/details?id=app.walling.mandroid[Walling], https://play.google.com/store/apps/details?id=com.orion.notein.global[Orion], https://memos.moe/[memos], https://github.com/jecelyin/920-text-editor-v2[920 Text Editor], https://github.com/Yanndroid/NotiNotes[NotiNotes]
+
+=== To-Do Apps
+
+* https://tasks.org/[Tasks] - Sync Supported
+* https://www.any.do/[Any.do] - Sync Supported
+* https://doable.at/[doable] - Sync Supported / Extensions
+* https://github.com/orgzly-revived/orgzly-android-revived[Orgzly-revived] - Sync Supported
+* https://organice.200ok.ch/[organice] - Sync Supported / Account Required
+* https://github.com/thatsmanmeet/Tasky[Tasky]
+* https://github.com/igorescodro/alkaa[Alkaa]
+* https://github.com/vishal2376/snaptick[SnapTick]
+* https://everydaytasks.jepfa.de/[EverydayTasks]
+* https://taskito.io/[Taskito]
+
+'''
+
+== Android Video Players
+
+* ⭐ *https://github.com/moneytoo/Player[Just Player]*
+* https://rentry.co/FMHYBase64#mx-player[MX Player] / https://github.com/USBhost/MX_FFmpeg[Codec]
+
+https://www.videolan.org/vlc/download-android.html[VLC], https://github.com/mpv-android/mpv-android[mpv-android], https://github.com/nova-video-player[Nova Video Player], https://github.com/AndreyPavlenko/Fermata[Fermata Media Player], https://github.com/google/ExoPlayer[ExoPlayer], https://github.com/nova-video-player/aos-AVP[Aos AVP], https://splayer.dev/[SPlayer], https://github.com/anilbeesetti/nextplayer[Next Player], https://github.com/realOxy/M3UAndroid[M3UAndroid] / https://t.me/m3u_android[Telegram]
+
+'''
+
+== Browser eBook Readers
+
+* ⭐ *https://webextension.org/listing/chrome-reader-view.html[Reader View]*, https://mybrowseraddon.com/reader-view.html[2]
+
+https://www.fviewer.com/[Online Cloud File Viewer], https://www.loudreader.com/[Ebook Reader for web], https://readwok.com/[Readwok], https://www.ofoct.com/viewer/epub-reader-online.html[ePub Reader Online], https://reader.ttsu.app/manage[Ebook Reader], https://github.com/johnfactotum/foliate-js[epub.js]
+
+'''
+
+== Browser Startpages
+
+* ⭐ *https://weboasis.app/[WebOasis]*, https://ndsamuelson.github.io/weboas-is/[2], https://behu.io/[3] / https://pastebin.com/CczqreS4[Source Code]
+* ⭐ *https://www.monknow.com/[MONKNOW]*
+
+https://www.8bitdash.com/[8bitdash], https://8bitdashboard.com/[8 Bit Dashboard], https://startpages.github.io/[Startpage Emporium], https://github.com/jnmcfly/awesome-startpage[Awesome Startpage], https://github.com/Paul-Houser/StartTree[StartTree], https://www.clippingmini.com/[Clippingmini], https://draggo.com/[Draggo], https://www.pearltrees.com/[Pearltrees], https://apps.nextcloud.com/apps/bookmarks[Nextcloud], https://cling.com/[Cling], https://www.symbaloo.com/[Symbaloo], https://tixio.io/[Tixio], https://github.com/migueravila/Bento[Bento], https://ez.lol/[ez.lol], https://github.com/damnitharshit/nightly[nightly], https://www.protopage.com/[Protopage], https://github.com/xvvvyz/tilde[tilde], https://github.com/PrettyCoffee/fluidity[Fluidity], https://allmyfaves.com/[AllMyFaves]
+
+*Customizable New Tab Page*
+
+* ⭐ *https://pastebin.com/tApHRJDv[Tabiverse]* - Universe New Tab Page / https://discord.gg/MUgRGwE[Discord]
+* ⭐ *https://www.withaview.co/ext/[Tab with A view]* - Virtual Sights New Tab Page
+* ⭐ *https://github.com/sawyerpollard/MineWeather[MineWeather]* - Weather-Based Minecraft New Tab Page
+* https://www.tabwave.app/[TabWave] - Minimal / Productivity New Tab
+
+https://github.com/deepjyoti30/startpage[Minimal Startpage], https://github.com/zombieFox/nightTab[nightTab], https://github.com/zombieFox/hexagonTab[hexagonTab], https://www.carettab.com/[CaretTab], https://mesmerized.me/[mesmerized], https://bonjourr.fr/[Bonjourr], https://github.com/perfect-things/perfect-home[Perfect Home], https://github.com/conceptualspace/yet-another-speed-dial[Yet Another Speed Dial], https://tabliss.io/[Tabliss], https://github.com/Alexays/Epiboard[Epiboard], https://en.infinitynewtab.com/[Infinity New Tab], https://d3ward.github.io/b2ntp/[b2ntp], https://github.com/midnitefox/Nord-Theme-Ports-and-Assets/tree/main/custom-start-page[Terminal-style new tab page]
+
+'''
+
+== CLI Cheat Sheets
+
+* ⭐ *https://linuxcommandlibrary.com/[Linux Command Library]*
+
+https://github.com/sheepla/awesome-for-oneliner[awesome-for-oneliner], https://github.com/you-dont-need/You-Dont-Need-GUI[You Don't Need GUI], https://helpmanual.io/[Helmanual], https://www.commandlinefu.com/[CommandlineFU], https://github.com/santinic/how2[how2], https://guide.bash.academy/[Bash Academy], https://ss64.com/bash/[ss64 Bash], https://github.com/onceupon/Bash-Oneliner[Bash Oneliner]
+
+'''
+
+== Coding Tutorials
+
+* ⭐ *https://www.geeksforgeeks.org/[GeeksforGeeks]*
+* ⭐ *https://www.w3schools.com/[W3Schools]* - https://github.com/Ja7ad/W3Schools[Offline Version]
+* ⭐ *https://github.com/codecrafters-io/build-your-own-x[Build your own X]*
+
+https://riptutorial.com/[RIP Tutorial], https://www.programiz.com/[Programiz], https://pythontutor.com/[Python Tutor], https://calmcode.io/[calmcode], https://tuts4you.com/[Tuts 4 You], https://codelabs.developers.google.com/[Codelabs], https://ebookfoundation.github.io/free-programming-books/[Free Ebook Foundation], https://www.nayuki.io/[Nayuki], https://zetcode.com/[ZetCode], http://xahlee.info/index.html[Xah Code], https://hackr.io/[Hackr.io], https://www.guru99.com/[Guru99], https://usemynotes.com/[Use My Notes], https://www.codebreakthrough.com/ultimate-programming-all-in-one-tutorials?coupon=LEARNFORFREE[Ultimate Programming All-in-One Tutorials], https://github.com/practical-tutorials/project-based-learning[Project Based Learning], https://www.javatpoint.com/[Javatpoint], https://technosmarter.com/[Techno Smarter], https://www.tutorialkart.com/[tutorialkart]
+
+'''
+
+== Collaboration Platforms
+
+https://doozy.live/[Doozy], https://zulip.com/[Zulip], https://lucidspark.com/[LucidSpark], https://miro.com/[Miro], https://mattermost.com/[Mattermost], https://twake.app/[Twake], https://asana.com/[Asana], https://freedcamp.com/[Freedcamp], https://www.lumeer.io/[Lumeer], https://slab.com/[Slab], https://www.focalboard.com/[Focalboard], https://wekan.github.io/[WeKan], https://kanboard.org/[Kanboard], https://www.mural.co/[Mural], https://www.dendron.so/[Dendron], https://www.lucidchart.com/[Lucidchart], https://trello.com/[Trello], https://planka.app/[Planka], https://github.com/JordanKnott/taskcafe[Taskcafe], https://room.sh/[Room], https://www.atlassian.com/[Atlassian], https://linear.app/[linear], https://screenrec.com/[ScreenRec]
+
+'''
+
+== Copy Google Drives
+
+https://github.com/jsmsj/GdriveCloneWeb[GdriveCloneWeb], https://github.com/ericyd/gdrive-copy[Google Drive Copy Folder], https://github.com/jagrit007/Telegram-CloneBot[Telegram-CloneBot], https://chromewebstore.google.com/detail/copy-folder/kfbicpdhiofpicipfggljdhjokjblnhl[Copy Folder], https://github.com/alx-xlx/gdrive-clone[gdrive-clone], https://jsmsj.github.io/GdriveCloneBot/[Google Drive Clone Bot]
+
+'''
+
+== Command Line Shells
+
+* ⭐ *https://www.zsh.org/[zsh]*
+* ⭐ *zsh Tools* - https://github.com/unixorn/awesome-zsh-plugins[Plugins] / https://github.com/zsh-users/zsh-autosuggestions[Auto Suggest] / https://ohmyz.sh/[Customization] / https://github.com/romkatv/powerlevel10k[Theme] / https://github.com/gustavohellwig/gh-zsh[Auto Setup] / https://github.com/sorin-ionescu/prezto[Rich Framework] / https://github.com/zsh-users/zsh-syntax-highlighting[Syntax Highlighting]
+* ⭐ *https://www.gnu.org/software/bash/[bash]* - Pre-Installed on Most Distros
+
+https://fishshell.com/[fish], https://elv.sh/[Elvish], https://wryun.github.io/es-shell/[Es], https://gitlab.redox-os.org/redox-os/ion[Ion], https://xon.sh/[Xonsh], https://www.nushell.sh/[Nushell], https://github.com/oh-my-fish/oh-my-fish[oh-my-fish]
+
+'''
+
+== Covers / Posters
+
+* ⭐ *https://bendodson.com/projects/itunes-artwork-finder/[Ben Dodson]*, https://bendodson.com/projects/apple-tv-movies-artwork-finder/[2]
+* https://bigboxcollection.com/[BigBoxCollection] - 3D Game Boxes
+
+https://theposterdb.com/[The Poster Database], https://www.covercentury.com/[Cover Century], https://www.covrik.com/[covrik], https://www.dvd-covers.org/[DVD Covers], https://coveraddictvip.xyz/[Cover Addict VIP], https://www.gamingalexandria.com/[Gaming Alexandria], https://postercollector.co.uk/[The Poster Collector], https://www.moviepostersgallery.com/[Movie Posters Gallery], https://www.filmonpaper.com/blog/[Film on Paper], https://www.gametdb.com/[GameTDB], https://www.joblo.com/movie-posters/[JoBlo], https://www.reddit.com/r/MoviePosterPorn/[/r/MoviePosterPorn], http://www.impawards.com/[IMP Awards], https://fanart.tv/[Fanart], https://www.thecoverproject.net/[The Cover Project], https://www.covercity.net/[covercity]
+
+=== Album Art
+
+* ⭐ *https://covers.musichoarders.xyz[Cover Search Engine]*
+
+https://sourceforge.net/projects/album-art/[Album Art Downloader], https://github.com/sdushantha/kunst[kunst], https://github.com/bunnykek/Apple-Music-Animated-Artwork-Fetcher[Apple-Music-Animated-Artwork-Fetcher], https://www.classic-rock-covers.com/[Classic Rock Covers]
+
+'''
+
+== Data Visualization Tools
+
+* ⭐ *https://app.rawgraphs.io/[RAWGraphs]* - https://github.com/rawgraphs/rawgraphs-app[GitHub]
+* ⭐ *https://datavizcatalogue.com/[DataVizCatalogue]* - Data Visualization Wiki
+* https://flowchart.fun/[flowchart fun] - Generate Flowchart From Text / https://github.com/tone-row/flowchart-fun[GitHub]
+* https://piechartmaker.co/[Pie Chart Maker] - Create Pie Charts
+* https://www.bargraphmaker.net/[Bar Graph Maker] - Create Bar Graphs
+* https://maltsev.github.io/vinnslu/[Vinnslu] - Tabular Data Parser
+
+https://datagifmaker.withgoogle.com/[Data GIF Maker], https://flourish.studio/[Flourish], https://www.datawrapper.de/[Datawrapper], https://www.chartd.co/[chartd], https://timqian.com/chart.xkcd/[Chart.xkcd], https://quickchart.io/[QuickChart], https://percival.ink/[Percival], https://live.amcharts.com/[amCharts], https://acme.com/chartmaker/[ACME Chartmaker], https://www.paraview.org/[ParaView], https://www.drawio.com/[Draw] / https://github.com/jgraph/drawio[GitHub], http://dia-installer.de/[Dia], https://rawgraphs.io/[RawGraphs], https://www.yworks.com/yed-live/[yEd Live], https://mermaid.live/[Mermaid], https://linegraphmaker.co/[LineGraphMaker], https://swimlanes.io/[SwimLanes], https://q.uiver.app/[Quiver], https://gephi.org/[Gephi], https://graphviz.org/[Graphviz] / https://edotor.net/[Editor], https://graphonline.ru/en/[graphonline], https://diagramify.agiliq.com/[Diagramify], https://charts.hohli.com/[Charts Builder], https://www.eraser.io/diagramgpt[diagramgpt]
+
+'''
+
+== Design Resources
+
+* ⭐ *https://rentry.co/dt92f[Design Resources]*
+
+https://github.com/bradtraversy/design-resources-for-developers[design-resources-for-developers], https://freebies.bypeople.com/[Freebies.ByPeople], https://www.imcreator.com/free[IM Creator], https://designbundles.net/free-design-resources[Design Bundles], https://designresourc.es/[Design Resources], https://psddd.co/[PSDDD.co], https://www.graphicsfuel.com/[GraphicsFuel], https://www.pixeden.com/[Pixeden], https://sketchrepo.com/[Sketch Repo], https://interfacer.xyz/[Interfacer], https://freebiesbug.com/[Freebiesbug], https://www.sketchappsources.com/[Sketch App Sources], https://freebiesui.com/[FreebiesUI], https://t.me/Envato_Download_Bot[Envato Elements Downloader], https://www.creativefabrica.com/freebies/[Creative Fabrica], https://www.toools.design/[Toools.design], https://www.evernote.design/[Evernote.Design], https://www.gfxtra31.com/[GFXTRA], https://xsgames.co/devassets/[XSGames], https://design.dev/[design.dev], https://www.uistore.design/[UI STORE DESIGN], https://www.charco.design/[Charco], https://craftwork.design/downloads/category/freebies/[Craftwork], https://pixelbuddha.net/[Pixelbuddha], https://t.me/squaxassets[squax], https://t.me/designlabb[𝖌𝖗𝖕𝖍𝖈 𝖉𝖘𝖌𝖓 𝖇𝖆𝖈𝖐𝖚𝖕], https://t.me/all4designer[all 4 designer], https://discord.gg/bMmqQdXAhp[Kropes Leaking Server], https://gift4designer.net/[Gift4Designer], https://gfxmountain.com/[GFXMountain], https://buckets-of-bookmarks.daniebeler.com/[Buckets Of Bookmarks], https://www.degreeless.design/[degreeless]
+
+'''
+
+== DNS Filters
+
+* ⭐ *https://o0.pages.dev/[1Hosts]*
+* ⭐ *https://oisd.nl/[OISD]*
+* ⭐ *https://github.com/hagezi/dns-blocklists[Hagezi]* / https://pastebin.com/9dA8fnC1[Note]
+
+https://github.com/hectorm/hblock[hBlock], https://someonewhocares.org/hosts/[someonewhocares], https://winhelp2002.mvps.org/hosts.htm[MVPS HOSTS], https://github.com/StevenBlack/hosts[Hosts File Aggregator], https://www.spamhaus.org/[Spamhaus], https://github.com/anudeepND/blacklist[Anudeep's Blacklist], https://www.github.developerdan.com/hosts/[Lightswitch05], https://github.com/T145/black-mirror[black-mirror], https://github.com/durablenapkin/scamblocklist[Scam Blocklist], https://hblock.molinero.dev/[hBlock], https://github.com/DRSDavidSoft/additional-hosts[Additional Undesired Hosts], https://github.com/neodevpro/neodevhost[neodevhost], https://github.com/piperun/iploggerfilter[Piperun's IP-Logger Filter], https://jerryn70.github.io/GoodbyeAds/[GoodbyeAds], https://github.com/mullvad/dns-blocklists[mullvad blocklists], https://github.com/blocklistproject/Lists##the-block-list-project[The Block List Project]
+
+'''
+
+== Domain Info Tools
+
+* https://dnstwist.it/[DNSTwist] or https://dnstwister.report/[DNSTwister] / https://github.com/elceef/dnstwist[Github]
+
+https://whoisrequest.com/[WhoisRequest], https://rankchart.org/[Rankchart], https://hakin9.org/harpoon-osint-cli-tool/[Harpoon], https://mxtoolbox.com/DNSLookup.aspx[MXToolBox], https://whois.domaintools.com/[Whois Lookup], https://whois.ipip.net/[IPIP.NET], https://webstatsdomain.org/[WebStatsDomain], https://atsameip.intercode.ca/[AtSameIP], https://dnslytics.com/[DNSlytics], https://analyzeid.com/[AnalyzeID], https://accentusoft.com/[LinkScope]
+
+'''
+
+== DOS Games
+
+https://www.dosgamesarchive.com/[DOS Games Archive], https://www.dosbox.com/[DOSBox], https://www.doshaven.eu/[DOS HAVEN], https://archive.org/details/softwarelibrary_msdos[The Software Library], https://www.bestoldgames.net/[Best Old Games], https://dosgames.com/[DOSGames], https://www.playdosgames.com/[PlayDOSGames], https://www.classicdosgames.com/[RGB Classic Games], https://www.abandonwaredos.com/[Abandonware DOS], https://dos.zczc.cz/[Online DOS games], https://classicdosgames.com/[Classic Games]
+
+'''
+
+== Down Site Checkers
+
+* ⭐ *https://downforeveryoneorjustme.com/[Down for Everyone or Just Me]*
+* ⭐ *https://www.isitdownrightnow.com/[Is It Down Right Now]*
+
+https://istheservicedown.com/[Is The Service Down?], https://down.com/[Down.com], https://downdetector.com/[Downdetector], http://www.websitedown.info/[websitedown], https://updownradar.com/[UpDown Radar], https://lychee.cli.rs/#/[lychee], https://www.deadlinkchecker.com/[Dead Link Checker], https://brokenlinkcheck.com/broken-links.php[Online Broken Link Checker], https://www.drlinkcheck.com/[Dr. Link Check], https://httpstatus.io/[HTTPStatus]
+
+'''
+
+== Email Aliasing
+
+* ⭐ *https://simplelogin.io/[SimpleLogin]*
+* ⭐ *https://addy.io/[addy.io]*
+* ⭐ *https://duckduckgo.com/email/[DuckDuckGo Email Protection]*
+* https://mailvelope.com/[Mailvelope] - Extension
+
+https://relay.firefox.com/[Firefox Relay], https://burnermail.io/[Burner Mail], http://scr.im/[scr.im], https://mailsac.com/[Mailsac], https://altmails.com/[altmails], https://mail.cx/[Mail.cx], https://yopmail.com/en/[YOPmail], https://mailgw.com/[Mailgw], https://erine.email/[erine.email], https://33mail.com/[33mail], https://shitmail.org/[shitmail], https://0wx.org/0wx/?show=email[0wx], https://github.com/forwardemail/forwardemail.net[forwardemail], https://github.com/anonaddy/anonaddy[anonaddy]
+
+'''
+
+== Email Clients
+
+* ⭐ *https://www.betterbird.eu/[Betterbird]*
+* ⭐ *https://www.thunderbird.net/en-US/[Thunderbird]* - https://github.com/Ximi1970/systray-x[Tray Icon]
+* ⭐ *https://getmailspring.com/[Mailspring]* - https://github.com/topics/mailspring-theme[Themes]
+* https://outlook.live.com/owa/[Outlook]
+
+https://github.com/vladimiry/ElectronMail[ElectronMail], https://www.claws-mail.org/[Claws Mail], https://www.emclient.com/[eM Client], https://www.rainloop.net/[RainLoop], https://roundcube.net/[Roundcube], https://www.spikenow.com/[Spike], https://canarymail.io/[Canary], https://www.twobird.com/[Twobird], https://kanmail.io/[Kanmail], https://www.winomail.app/[Wino]
+
+'''
+
+== Encrypted Android Messengers
+
+* ⭐ *https://signal.org/#signal[Signal]*
+* ⭐ *https://briarproject.org/[Briar]*
+
+https://status.im/[Status], https://play.google.com/store/apps/details?id=cm.confide.android[Confide], https://ballinger.io/apps/chatsecure/[ChatSecure], https://snikket.org/[Snikket], https://retroshare.cc/[RetroShare], https://bip.com/en/[BiP], https://olvid.io/en/[Olvid], https://berty.tech/[Berty], https://www.openkeychain.org/[OpenKeychain], https://newnode.com/[NewNode], https://www.kontalk.org/[Kontalk], https://wire.com/en/download/[Wire]
+
+*Video / Text*
+
+https://jami.net/[Jami], https://syphon.org/[Syphon], https://play.google.com/store/apps/details?id=com.mesibo.mesiboapplication[Mesibo], https://github.com/ouchadam/small-talk[SmallTalk], https://schildi.chat/android/[Element] / https://play.google.com/store/apps/details?id=im.vector.app[2]
+
+'''
+
+== Encrypted Messengers
+
+* ⭐ *https://matrix.org/[Matrix]*, https://cinny.in/[Cinny], https://schildi.chat/[SchildiChat], https://fluffychat.im[Fluffy] or https://www.dittochat.org/[Ditto] - Matrix Client / https://github.com/matrix-org/mjolnir[Mod Tools]
+* ⭐ *https://signal.org/[Signal]*
+
+https://wiki.bitmessage.org/Main_Page[Bitmessage], https://speek.network/[Speek], https://retroshare.cc/[Retroshare], https://otr.cypherpunks.ca/[Off-the-Record Messaging], https://getsession.org/[Session], https://www.demonsaw.com/[Demonsaw], https://enigma-reloaded.github.io/enigma-reloaded[Enigma], https://github.com/mirukana/mirage[Mirage], https://keybase.io/[Keybase], https://cwtch.im/[Cwtch], https://bip.com/en/[BiP], https://simplex.chat/[SimpleX], https://emberclear.io/[emberclear], https://commune.chat/[Commune], https://mesh.im/[Mesh], https://coy.im/[CoyIM], https://www.ricochetrefresh.net/[RicochetRefresh]
+
+=== Matrix Home Servers
+
+* ⭐ *https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html[List of Matrix servers]*, https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html[2]
+
+https://gitlab.com/famedly/conduit[Conduit], https://joinmatrix.org/servers/[Public Matrix Homeservers], https://archive.md/4xZE4[Public Matrix Homeservers Archive], https://wiki.asra.gr/en:public_servers[Public Servers]
+
+'''
+
+== Encrypted XMPP Servers
+
+https://xmpp.404.city/[Server List], https://www.hot-chilli.eu/jabber/[Hot Chilli], https://xmpp.jp/[XMPP.jp] / https://xmpp.is/[xmpp.is], https://dismail.de/[dismail], https://blah.im/[blah], https://404.city/[404.city]
+
+'''
+
+== Fun Indexes
+
+https://neal.fun/[Neal.fun], https://oimo.io/works[Oimo], https://aidn.jp/[AIDN], https://codepen.io/neave[Neave] / https://neave.com/[2], https://boredhumans.com/[BoredHumans], https://sandwichpuissant.net/[puissant], https://www.thisismywebsitenow.com/[ThisIsMyWebsiteNow], https://mrdoob.com/[Mr.doob], https://in.bimble.space/toys[Bimble Space], https://creativetechguy.com/[Creative Tech Guy], https://justforfun.io/[Just For Fun], https://andrewmarsh.com/software[Andrew Marsh], https://jenniferdewalt.com/[JenniferDewalt], https://experiments.withgoogle.com/collection/chrome[Chrome Experiments], https://0x2a.re/[0x2a], https://yezi.itch.io/[yezi], https://topster.net/[topster], https://experiments.p5aholic.me/[p5aholic], https://vole.wtf/[vole.wtf], https://williamhoza.com/misc/[WilliamHoza], http://www.rinkworks.com/[Rinkworks], https://orteil.dashnet.org/[Orteil], https://funwebsite.fun/[funwebsite]
+
+'''
+
+== Free DNS Servers
+
+* ⭐ *https://quad9.net/[Quad9]* - Malware, Phishing, Spyware & Botnet DNS Protection
+* https://dnsforfamily.com/
+* https://www.opennic.org/
+* https://www.publicdns.xyz/
+* https://gernot-walzl.at/Miscellaneous/wikileaks_alternative_dns.html
+* https://wikileaks.org/wiki/Alternative_DNS
+* https://www.cloudns.net/
+* https://dns.he.net/
+* https://www.dnspod.com/
+* https://acavalin.com/p/free_dns
+* https://www.luadns.com/
+* https://www.dns0.eu/
+* https://dynu.com/
+* https://blog.uncensoreddns.org/dns-servers/
+* https://publicdnsserver.com/
+* https://1984.is/product/freedns/
+* https://www.namecheap.com/domains/freedns/
+* https://zilore.com/en/dns
+* https://docs.glauca.digital/hexdns/
+* https://www.zoneedit.com/free-dns/
+* https://www.dnsabr.com/
+* https://dns.sb/
+* https://www.bestdns.org/
+* https://public-dns.info/
+
+'''
+
+== Free VPN Configs
+
+* https://www.racevpn.com/
+* https://www.greenssh.com/
+* https://cyberssh.com/vpn/config
+* https://vpn.fail/
+* https://www.vpnjantit.com/
+* https://pisovpn.com
+* https://www.lionssh.com/
+* https://www.sshocean.com/
+* https://www.freevpn.us/
+* https://www.sshocean.net/
+* https://www.cloudssh.us/
+* https://starssh.com/
+* https://www.goodssh.com/
+* https://sshkit.com/
+* https://www.jagoanssh.com/
+* https://dewassh.net/
+* https://www.speedssh.com/
+* https://www.fastssh.com/
+* https://www.mytunneling.com/
+* https://createssh.net/
+* https://opentunnel.net/
+* https://howdy.id/
+
+'''
+
+== Free Webhosting Sites
+
+* ⭐ *https://www.netlify.com/[netlify]*
+* ⭐ *https://pages.github.com/[GitHub Pages]*
+* ⭐ *https://surge.sh/[surge]*
+* ⭐ *https://firebase.google.com/products/hosting[firebase]*
+* ⭐ *https://workers.cloudflare.com/[workers.dev]*
+* ⭐ *https://srht.site/[sourcehut pages]*
+* ⭐ *https://pages.cloudflare.com/[pages.cloudflare]*
+* https://www.is-a.dev/[is-a.dev] - Developer Homepages
+
+https://profreehost.com/[profreehost], https://www.000webhost.com/[000webhost], https://infinityfree.net/[infinityfree], https://www.redhat.com/en/technologies/cloud-computing/openshift[openshift], https://vercel.com/[vercel], https://www.cloudaccess.net/[cloudaccess], https://docs.gitlab.com/ee/user/project/pages/index.html[Gitlab Pages], https://glitch.com/[glitch], https://www.biz.nf/[biz.nf], https://coolify.io/[coolify], https://www.wix.com/[wix], https://byet.host/free-hosting[byet.host], https://www.webs.com/[webs], https://www.weebly.com/in[weebly], https://www.yola.com/[yola], https://wordpress.com/[WordPress] / https://wordpress.org/[2], https://www.jimdo.com/[jimdo], https://www.awardspace.com/[awardspace], https://www.pythonanywhere.com/[pythonanywhere], https://droppages.com/[droppages], https://cheapskatesguide.org/articles/zeronet-site.html[Zeronet], https://zeronet.io/docs/site_development/getting_started/[Zeronet 2], https://www.ibm.com/cloud/free[ibm cloud], https://zotlabs.org/page/zotlabs/home[hubzilla], https://www.site123.com/[site123], https://hostbreak.com/web-hosting/free[hostbreak], https://tilda.cc/[tilda], https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/[BitBucket], https://render.com/[render], https://fleek.co/[Fleek], https://www.stormkit.io/[stormkit], https://freehosting.host/[freehosting], https://www.freewebhostingarea.com/[freewebhostingarea], https://freenom.com/[freenom], https://milkshake.app/[milkshake], https://www.ikoula.com/[ikoula], http://www.fanspace.com/[fanspace], https://dotera.net/[dotera], https://web.fc2.com/en/[fc2], https://www.w3schools.com/spaces/[w3schools], https://www.freehostia.com/[freehostia], https://www.olitt.com/[olitt], https://www.uhostfull.com/[uhostfull], https://x10hosting.com/[x10hosting], https://lenyxo.com/freehosting/[lenyxo], https://yunohost.org/[yunohost], https://www.1freehosting.net/[1freehosting], http://www.5gb.club/free-hosting.php?i=1[5gb.club], https://ultifreehosting.com/[ultifreehosting], https://aeonfree.com/[aeonfree], https://www.bravenet.com/[bravenet], https://www.atspace.com/[atspace], https://aava.dy.fi/[aava], https://netlib.re/[netlib], https://www.unison.cloud/[unison]
+
+'''
+
+== FMovies Clones
+
+* https://flixhq.bz/[FlixHQ]
+* https://fbox.to/[FBox]
+* https://movies7.to/[Movies7]
+* https://myflixer.nl/[myflixer]
+* https://bflixz.to/[BFlix], https://hd.bflix.to/[2]
+* https://swatchseries.mx/[swatchseries.mx]
+
+'''
+
+== Game Engines
+
+* ⭐ *https://github.com/collections/game-engines[Game Engine Collection]*
+* ⭐ *https://www.unrealengine.com/[Unreal Engine]* / https://github.com/20tab/UnrealEnginePython[Python] / https://gamefromscratch.com/getting-started-with-unrealclr/[C#] / https://quixel.com/megascans[3D Scans] / https://github.com/4sval/FModel[File Explorer], https://fmodel.app/[2] / https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm[Console Unlocker]
+* ⭐ *https://godotengine.org/[Godot]* / https://github.com/godotengine/awesome-godot[Resources] / https://github.com/Orama-Interactive/Keychain[Input Actions]
+* https://rpgplayground.com/[RPG Playground] - Simple RPG Creator
+* https://springrts.com/[Spring RTS] - 3D RTS Game Engine
+* https://playerio.com/[Playerio] - Online Game Engine
+* https://www.stencyl.com/[stencyl] - Codeless Game Engine
+
+=== 2D / 3D Engines
+
+https://unity.com/products/unity-personal[Unity] / https://github.com/NaomiLe1811/Unity_Cheat_Sheet[Cheat Sheet] / https://github.com/BepInEx/BepInEx[Patcher], https://defold.com/[Defold], https://bevyengine.org/[Bevy Engine], / https://bevy-cheatbook.github.io/setup/unofficial-plugins.html[Extensions], https://www.ursinaengine.org/[ursina engine], https://www.stride3d.net/[stride3d] / https://github.com/stride3d/stride[GitHub], https://www.cocos.com/en/[cocos] / https://github.com/cocos2d/cocos2d-x[GitHub], https://microstudio.itch.io/microstudio[microStudio]
+
+=== 2D Engines
+
+https://github.com/TorqueGameEngines/Torque2D[Torque2D] / https://discord.com/invite/qdAZxT4[Discord], https://gamua.com/starling/[starling] / https://github.com/Gamua/Starling-Framework[GitHub], https://haxeflixel.com/[HaxeFlixel], https://www.gbstudio.dev/[GB Studio] / https://github.com/chrismaltby/gb-studio[GitHub] / https://www.reddit.com/r/gbstudio[Reddit] / https://discord.com/invite/bxerKnc[Discord], https://flame-engine.org/[Flame], https://gamemaker.io/[GameMaker] / https://yellowafterlife.github.io/GMEdit/[Online], https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer[Arcade Game Designer] / https://jonathan-cauldwell.itch.io/arcade-game-designer[2]
+https://pixwlk.itch.io/pixelbox[Pixelbox], https://charliezip.itch.io/pq93[PQ93], https://4ian.itch.io/gdevelop[GDevelop] / https://gdevelop.io/[2], https://make.bitsy.org/[Bitsy], https://script-8.github.io/[Script 8], https://tic80.com/[Tic80], https://www.byond.com/[Byond], https://love2d.org/[LÖVE], https://scratch.mit.edu/[Scratch]
+
+=== 3D Engines
+
+https://unidaystudio.itch.io/cave-engine[Cave Engine], https://github.com/OpenXRay[OpenXRay] / https://discord.com/invite/sjRMQwv[Discord], https://www.cryengine.com/[cryengine] / https://discord.com/invite/cryengine[Discord], https://armory3d.org/[armory3d] / https://github.com/armory3d/armory[GitHub], https://torque3d.org/[torque3d] / https://github.com/TorqueGameEngines/Torque3D[GitHub] / https://discord.com/invite/qdAZxT4[Discord], https://www.panda3d.org/[Panda3D]
+
+'''
+
+== GDrive File Sharing
+
+* https://new1.gdtot.cfd/
+* https://appdrive.me/
+* https://sharer.pw/
+* https://yushare.my.id/
+* https://yamidrive.com/
+
+'''
+
+== Geometry Dash Demon Lists
+
+* ⭐ *https://pointercrate.com/demonlist/[Original Demon List]*
+* https://challengelist.gd/challenges/[Challenge List]
+* https://udl.pages.dev/#/[Unrated Demons List]
+* https://aredl.pages.dev/[Rated Extremes List]
+* https://www.demonlist.com/[Demon List]
+* https://docs.google.com/document/d/1byBf60vW_Tq7TjQPyniBxQ1Iw9CtSURJU4_Cl1IziqY/edit[Impossible Levels List]
+* https://sites.google.com/view/nine-circles-demonlist/main-list[Nine Circles List]
+* https://mobilepointercrate.com/[HRR Mobile List]
+* https://sites.google.com/view/gd-mobile-lists/top-100-demons-completed?authuser=0[60hz Mobile List]
+
+'''
+
+== Git Projects
+
+* https://evanli.github.io/Github-Ranking/[GitHub Rankings] - Git Project Rankings
+* https://techgaun.github.io/active-forks/[Active GitHub Forks] - List of Active GitHub Forks
+* https://github.com/musically-ut/lovely-forks[Lovely Forks] - View Repository Forks
+
+https://www.gitlogs.com/[git:logs], https://github.com/felipefialho/awesome-made-by-brazilians[Awesome Made by Brazilians], https://github.com/unicodeveloper/awesome-opensource-apps[awesome-opensource-apps], https://hot.opensauced.pizza/[opensauced], https://www.libhunt.com/[LibHunt], https://bestofjs.org/[bestofjs]
+
+'''
+
+== Google Piracy Discussion Groups
+
+* https://techy-transistor.notion.site/Team-drives-ab7ebffc1e5040b5b5362e9d70fca4d5
+* https://groups.google.com/g/torrent-drive
+* https://groups.google.com/forum/#!forum/sammytorrents
+* https://groups.google.com/g/team-drive99
+* https://groups.google.com/g/rdrivelinks
+* https://groups.google.com/g/mirrordrive-index
+* https://groups.google.com/g/torrentleech-gdrive
+* https://groups.google.com/g/monarch-cloud
+
+'''
+
+== Image Download Extensions
+
+https://add0n.com/save-images.html[Download all Images], https://github.com/Dezaimasu/cute-button[Cute Save Button], https://chromewebstore.google.com/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppoken[DownAlbum], https://github.com/belaviyo/save-images/[Save Images], https://svgexport.io/[svgexport], https://chromewebstore.google.com/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg[svg-grabber], https://github.com/rossmoody/svg-gobbler[SVG Gobbler], https://github.com/eight04/image-picka[Image Picka]
+
+'''
+
+== IPTV Tools
+
+https://iptv.community/[Forum] / https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players[Players] / https://cabernetwork.github.io/[Manager] / https://rentry.co/fmhybase64#iptv-playlists[Playlists] / https://www.foodieguide.com/iptvsearch/[Search] / https://siptv.eu/converter/[m3u to txt] / https://m3u4u.com/[M3U Editor] / https://github.com/nilaoda/N_m3u8DL-RE[M3U Downloader] / https://github.com/yurividal/dummyepgxml[Dummy EPG] / https://nilaoda.github.io/N_m3u8DL-CLI/[CLI] / https://github.com/peterpt/IPTV-CHECK[List Checker]
+
+'''
+
+== Language Learning Networks
+
+* ⭐ *https://discord.gg/jxcVmHJ[The Language Exchange Network]* / https://redd.it/5m5426[2] / https://docs.google.com/document/d/14is9MfGfKC-ptDhXGWLQFYSAaWTJSnUxj6zK0RGqNIk/[3]
+
+https://www.interpals.net/[InterPals], https://www.tandem.net/[Tandem], https://www.conversationexchange.com/[Conversation Exchange], https://rhinospike.com/[RhinoSpike], https://www.conversly.ai/[Conversly], https://lang-8.com/[Lang-8]
+
+'''
+
+== LibGen Mirrors
+
+* https://libgen.rs/ - main
+* https://libgen.is/ - main
+* https://libgen.st/ - main
+* https://libgen.li/ - clone
+* https://libgen.gs/ - clone
+* https://libgen.vg/ - clone
+* https://libgen.pm/ - clone
+* https://rentry.co/fmhy-libgen - Differences between the mirrors
+
+'''
+
+== LibGen Tools
+
+https://wiki.mhut.org/software:libgen_desktop[Desktop] / https://github.com/manuelvargastapia/libgen_mobile_app[Mobile], https://github.com/FunkyMuse/Aurora[2] / https://chromewebstore.google.com/detail/libgen-search/cbcehgllfaddbjidleabcdjpldlognad[Search Extension] / https://phillm.net/libgen-seeds-needed.php[Need Seeds] / https://t.me/amazingbookdownloaderbot[Telegram Bot] / https://github.com/VikParuchuri/libgen_to_txt[Convert to Text] / https://redd.it/edwi9b[Backup] / https://reddit.com/r/libgen[/r/libgen]
+
+'''
+
+== Linux Themes
+
+https://www.gnome-look.org/[Gnome-Look], https://github.com/themix-project/themix-gui[Themix], https://github.com/jnsh/arc-theme[Arc], https://github.com/numixproject/numix-gtk-theme[Numix], https://github.com/andreisergiu98/arc-flatabulous-theme[Flatablous Arc], https://github.com/material-ocean/material-ocean[Material Ocean], https://github.com/EliverLara/Ant[Ant], https://www.xfce-look.org/[xfce-look], https://discord.gg/unixporn[UnixPorn]
+
+'''
+
+== Live Webcams
+
+https://www.earthcam.com/[EarthCam], https://explore.org/[Explore], http://www.opentopia.com/[Opentopia], https://www.webcamgalore.com/[WebcamGalore], https://www.webcamtaxi.com/en/[WebcamTaxi], https://worldcams.tv/[WorldCams], https://worldcam.eu/[WorldCam], https://balticlivecam.com/[BalticLiveCam], https://www.skylinewebcams.com/en.html[SkylineWebcams], https://camstreamer.com/live[CamStreaner], https://reddit.com/r/controllablewebcams[/r/controllablewebcams] / https://discord.gg/wdjtevG[Discord], https://www.pictimo.com/[PicTimo], https://wxyzwebcams.com/[WXYZWebcams] https://www.snoweye.com/[snoweye], https://www.camscape.com/[camscape], https://www.whatsupcams.com/[whatsupcams], https://www.worldcam.pl/[worldcam], https://www.webcamhopper.com/[webcamhopper], https://explore.org/livecams[explore.org], https://www.windy.com/-Webcams/webcams[Windy Webcams], http://www.insecam.org/en/[Insecam], https://airportwebcams.net/[Airport Webcams] (Airports), https://www.tfljamcams.net/[TFLJamCams], https://www.seattlesouthside.com/plan-your-trip/webcams/[seattlesouthside], https://www.portugal-live.net/en/webcams.html[portugal-live], https://www.livecamcroatia.com/en[livecamcroatia], https://www.myrtlebeach.com/webcams/[myrtlebeach], https://www.sootoday.com/webcams[sootoday], https://www.interlochen.org/webcasts/live-webcams[interlochen], https://whitehouse.gov1.info/webcam/[whitehouse cam], https://www.nps.gov/yell/learn/photosmultimedia/webcams.htm[yellowstone cam], https://www.carowinds.com/live-video[carowinds], https://www.zellamsee-kaprun.com/en/live/webcams[zellamsee], https://www.wpri.com/live-cams/[wpri], https://hdontap.com/[hdontap], https://floridakeyswebcams.tv/[floridakeyswebcams], https://www.earthtv.com/en[earthtv], https://www.geocam.ru/en/[geocam], https://livefromiceland.is/[livefromiceland], https://en.world-cam.ru/[world-cam], https://www.mangolinkworld.com/[mangolinkworld], https://www.mylivestreams.com/live-streaming-cams/[mylivestreams], https://www.spain-grancanaria.com/en/images-videos/webcams.html[spain-grancanaria], https://www.visitlondon.com/things-to-do/sightseeing/london-attraction/webcams-of-london[visitlondon], https://www.ctsfl.us/cams/[ctsfl], https://www.aruba.com/us/live-webcams-and-channels[aruba], https://www.fogcam.org/[fogcam], https://bigrigtravels.com/[bigrigtravels], https://www.lochness.co.uk/livecam/[lochness], https://www.abbeyroad.com/crossing[abbeyroad], https://www.camsecure.co.uk/Camsecure_Live_Demo_Index.html[camsecure], https://www.nasa.gov/multimedia/nasatv/iss_ustream.html[ISS]
+
+=== Animal Cams
+
+* https://meow.camera/[meow.camera] - Cat Cams / https://discord.com/invite/QmHWpZF9cP[Discord]
+* https://visdeurbel.nl/en/the-fish-doorbell/[The Fish Doorbell] - Help Fish Migrate
+
+https://www.montereybayaquarium.org/animals/live-cams[Monterey Bay Aquarium], https://zoo.sandiegozoo.org/live-cams[San Diego Zoo], https://www.zoo.org/webcams[Zqoo.org], https://animalslife.net/[AnimalsLife], https://www.africam.com/wildlife/live-african-wildlife-safari-streams[Africam], https://nationalzoo.si.edu/webcams[NationalZoo], https://birdcams.live/[BirdCams], https://critteryard.com/[CritterYard], https://www.aquariumofpacific.org/exhibits/webcams[AquariumOfPacific], https://curlie.org/en/Computers/Internet/On_the_Web/Webcams/Animals[Curlie Webcam Animals]
+
+'''
+
+== M3U Players
+
+* ⭐ *https://www.microsoft.com/store/productId/9WZDNCRDPQSX[Best Player]* / https://rentry.co/paidAppsMsStore[Unlock]
+* ⭐ *https://github.com/fredolx/open-tv[Open TV]*
+
+https://github.com/Isayso/PlaylistEditorTV[PlaylistEditorTV], https://github.com/interlark/ustvgo-iptv[ustvgo-iptv], https://livepush.io/hls-player/index.html[LivePush]
+
+'''
+
+== M4UFree Clones
+
+https://ww1.m4ufree.tv/[M4uFree], https://streamm4u.ws/[Streamm4u], https://m4ufree.to/[m4ufree.to], https://m4uhd.tv/[m4uhd] / https://m4uhd.cc/[2], https://m4umv.org/[m4umv]
+
+'''
+
+== Magic / Esoteric Telegram Ebooks
+
+* https://t.me/magZtore
+* https://t.me/ocultarias
+* https://t.me/WonderlandLibraryOfMagicBooks
+* https://t.me/spiritualbooks
+* https://t.me/spiritualitybooks
+* https://t.me/synchroncity1111
+
+'''
+
+== Manga Downloaders
+
+* ⭐ *https://hakuneko.download/[HakuNeko] / https://github.com/manga-download/hakuneko[Github]*
+
+https://github.com/Girbons/comics-downloader[Comics Downloader], https://github.com/Xonshiz/comic-dl[Comic-DL], https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md[work_crawler], https://mangabot.github.io/[MangaBot], https://www.redsquirrel87.altervista.org/doku.php/manga-downloader[Manga Downloader], https://github.com/HDoujinDownloader/HDoujinDownloader[HDoujinDownloader], https://github.com/dazedcat19/FMD2[FMD2], https://github.com/darylhjd/mangadesk[mangadesk], https://github.com/KevCui/manga2mobi[manga2mobi], https://github.com/Akianonymus/mangadl-bash[Akianonymus], https://github.com/liamtoaldo/mangodl[mangodl], https://github.com/vrienstudios/anime-dl[anime-dl], https://github.com/manga-py/manga-py[manga-py], https://github.com/metafates/mangal[mangal]
+
+'''
+
+== Manga Readers
+
+* ⭐ *https://github.com/Suwayomi[Suwayomi]*
+* ⭐ *Suwayomi Tools* - https://github.com/keiyoushi/extensions[Extensions], https://discord.gg/3FbCpdKbdY[2] / https://github.com/Suwayomi/Tachidesk-Server[Desktop Client]
+
+https://allmangasreader.com/[AllMangasReader], https://houdoku.org/[Houdoku], https://github.com/AdollaApp/Adolla[Adolla], https://github.com/ollm/OpenComic[OpenComic], https://github.com/Suwayomi/Tachidesk-Sorayomi[Tachidesk-Sorayomi], https://gitgud.io/Nagru/Manga-Organizer[Manga-Organizer], https://github.com/TagoDR/MangaOnlineViewer[MangaOnlineViewer], https://github.com/Difegue/LANraragi[LANraragi], https://github.com/kodjodevf/mangayomi[Mangayomi], https://github.com/JiPaix/Fukayo/[Fukayo]
+
+=== Self-Hosted
+
+https://happypandax.github.io/[HappyPanda X], https://github.com/Tenma-Server/Tenma[Tenma], https://www.kavitareader.com/[KavitaReader], https://faldez.github.io/tanoshi/[Tanoshi], https://komga.org/[Komga] / https://github.com/gotson/komga[GitHub] / https://discord.gg/TdRpkDu[Discord], https://atsumeru.xyz/[atsumeru]
+
+'''
+
+== Minecraft Mods
+
+* ⭐ *https://github.com/weebi/fabric-modlist[Fabric Modlist]*
+* ⭐ *https://github.com/TheUsefulLists/UsefulMods[UsefulMods]*
+* ⭐ *https://modrinth.com/[Modrinth]* / https://github.com/devBoi76/modrinthify[Redirector]
+
+https://www.planetminecraft.com/[Planet Minecraft], https://mcarchive.net/[MC Archive], https://microcontrollersdev.github.io/Alternatives/[Alternatives], https://modbay.org/[ModBay]
+
+'''
+
+== Minecraft Optimization Mods
+
+* ⭐ *https://modrinth.com/modpack/sop[Simply Optimized]*
+* ⭐ *https://github.com/Fabulously-Optimized/fabulously-optimized[Fabulously Optimised]*
+* https://modrinth.com/mod/sodium[Sodium] / https://github.com/comp500/Indium/[Indium] / https://modrinth.com/mod/sodium-extra[Extra] / https://github.com/MCRcortex/nvidium[Nvidia Rendering]
+
+https://optifine.net/[OptiFine], https://modrinth.com/mod/phosphor[Phosphor], https://modrinth.com/mod/ferrite-core[Ferrite Core], https://github.com/CaffeineMC[Caffeine], https://modrinth.com/mod/lithium[Lithium], https://www.aresclient.com/[Ares], https://minecrafttweaker.net/[MinecraftTweaker], https://github.com/xCollateral/VulkanMod[VulkanMod]
+
+'''
+
+== Minecraft Servers
+
+* https://colab.research.google.com/github/thecoder-001/MineColab/blob/master/MineColab.ipynb[MineColab] - https://github.com/thecoder-001/MineColab[GitHub]
+* https://playit.gg/[Playit.gg] - https://discord.gg/AXAbujx[Discord]
+* https://freemcserver.net/[FreeMCServer] - https://pastebin.com/C2aiXG8p[uBO Filter]
+
+https://minefort.com/[MineFort], https://minehut.com/[Minehut], https://aternos.org/[Aternos], https://cuberite.org/[Cuberite], https://github.com/Myuui/Free-Minecraft-Hosts[Free-Minecraft-Hosts], https://github.com/pufferfish-gg/Pufferfish[Pufferfish], https://papermc.io/software/paper[Paper], https://www.setup.md/guides/oracle-cloud[oracle-cloud]
+
+'''
+
+== Modded Minecraft Launchers
+
+* ⭐ *https://prismlauncher.org/[PrismLauncher]* / https://github.com/PrismLauncher/PrismLauncher[GitHub] / https://rentry.co/Prism4Free[Free Method] / https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass[Offline Bypass] - Feature-rich Launcher
+* ⭐ *https://skmedix.pl/[SkLauncher]* - User-friendly Launcher
+* ⭐ *https://atlauncher.com/[ATLauncher]* - Modpack Launcher
+* https://github.com/MCMrARM/mc-w10-version-launcher[MC Version Launcher] - Multi-Version Launcher
+* https://cheatbreaker.net/[CheatBreaker] - Anti-Cheat / FPS Boost / https://github.com/CheatBreakerNet[GitHub]
+
+https://github.com/fn2006/PollyMC[PollyMC], https://github.com/UltimMC/Launcher[UltimMC], https://multimc.org/[MultiMC], https://www.badlion.net/[Badlion], https://tlaun.ch/[Legacy Launcher] https://lln4.ru/en[2], https://github.com/HMCL-dev/HMCL[HMCL] / https://hmcl.huangyuhui.net/[2], https://www.technicpack.net/[TechnicPack], https://www.labymod.net/[LabyMod], https://crystal-launcher.net/[Crystal Launcher], https://gdlauncher.com/[GDLauncher], https://xmcl.app/[X Minecraft Launcher], https://www.salwyrr.com/[Salwyrr Launcher]
+
+'''
+
+== Multi-Console Browser Emulators
+
+* ⭐ *https://eclipseemu.me/play/[Eclipse]*
+* ⭐ *https://archive.org/details/consolelivingroom[Console Living Room]*
+* ⭐ *https://www.myabandonware.com/[My Abandonware]*
+
+https://www.webrcade.com/[WebRCade], https://www.retrogames.cz/[RetroGames], https://www.retrogames.cc/[retrogames.cc], https://classicreload.com/[ClassicReload], https://retrogamesbot.com/[Retro Games Bot], https://www.vizzed.com/[Vizzed], https://www.free80sarcade.com/[Free80sArcade], https://www.retrouprising.com/[Retro Uprising], https://www.retrogames.onl/[Retro Games], https://playclassic.games/[Play Classic Games], https://www.classicgames.me/[ClassicGames], https://www.emugames.net/[Emulator.Games], https://www.gamulator.com/ROMs[GamulatoR], https://afterplay.io/[AfterPlay], https://skitty.xyz/aurora/[Aurora]. http://emulator.online/[Emulator.online], https://online.oldgames.sk/[Online.OldGames], https://www.playretrogames.com/[Retro Games Online], https://playemulator.online/[PlayEmulator], https://www.playemulator.io/games/[2], https://gamesfrog.com/[Emulator Games Online], https://virtualconsoles.com/[Virtual Consoles], https://oldgameshelf.com/[OldGameShelf], https://emulatoronline.com/[Emulator Online], https://playretrogames.net/[PlayRetroGames], https://myemulator.online/[MyEmulator], https://retrogamesfree.com/[Retro Games Free], https://playretrogames.com/[PlayRetroGames], https://piepacker.com/[Piepacker], https://floooh.github.io/tiny8bit/[Tiny8bit], https://www.classicgame.com/[ClassicGame], https://classicgamesarcade.com/[ClassicGamesArcade], https://www.radyolojinet.com/retro/[Radyolojinet], https://www.weplayold.com/[WePlayOld]
+
+'''
+
+== Multi Image Tool Sites
+
+https://weboasis.app/editors/[WebOasis Editors], https://hotpot.ai/[HotPot], https://redketchup.io/[RedKetchup], https://vertexshare.com/[VertexShare], https://imageconvert.org/[ImageConvert], https://www.myphotofilter.com/[MyPhotoFilter], https://www.img2go.com/[Img2Go], https://brandfolder.com/workbench-suite[BrandFolder], https://fffuel.co/[fffuel], https://imglarger.com/[ImgLarger], https://convert-my-image.com/[Convertmyimage], https://mara.photos/[Mara], https://www.jdeploy.com/~stitchtool[StitchTool] / https://github.com/Aeonss/StitchTool/[GitHub], https://en.bloggif.com/video[Bloggif], https://batchwatermark.com/[BatchWatermark], https://www.faststone.org/index.htm[FastStone], https://convertimage.net/[ConvertImage], https://picwish.com/[PicWish], https://onlinejpgtools.com/[onlinejpgtools], https://onlinepngtools.com/[OnlinePNGTools], https://imageamigo.com[imageamigo], https://ailab.wondershare.com/tools/[AI Lab], https://clipdrop.co/tools[clipdrop], https://photoaid.com/en/tools/[photoaid], https://imagestool.com/[ImageTool]
+
+'''
+
+== Multireddits
+
+* ⭐ *https://www.reddit.com/r/multihub/top/?sort=top&t=all[Explore All Multireddits]*
+
+https://www.reddit.com/user/nbatman/m/piracy/[Piracy] / https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/[2] / https://www.reddit.com/user/nanomuto/m/piracyhub/[3] / https://www.reddit.com/user/goretsky/m/piracy_counterfeit_goods/[4], https://www.reddit.com/user/nbatman/m/random/[Random] / https://www.reddit.com/user/nbatman/m/random2/[2], https://www.reddit.com/user/nbatman/m/streaming/[Streaming], https://www.reddit.com/user/efidol/m/cordfreetv/[Cord Free TV], https://www.reddit.com/user/nbatman/m/leaks/[Piracy Leaks], https://www.reddit.com/user/nbatman/m/news/[News], https://old.reddit.com/user/goretsky/m/win_itpro/[Tech], https://www.reddit.com/user/nbatman/m/left/[Left] / https://www.reddit.com/user/nbatman/m/left_2/[2], https://www.reddit.com/user/nbatman/m/mysteries/[Mysteries], https://www.reddit.com/user/nbatman/m/aliens/[Aliens], https://www.reddit.com/user/nbatman/m/paranormal/[Paranormal], https://www.reddit.com/user/nbatman/m/metaphysics/[Metaphysics], https://www.reddit.com/user/rainbowlemon/m/minimalist_lifestyle/[Minimalism], https://www.reddit.com/user/sneaky5erpent/m/countries/[Countries] / https://www.reddit.com/user/sneaky5erpent/m/countries2/[2], https://www.reddit.com/user/sneaky5erpent/m/ask_people_nationality/[International AskARedditor], https://www.reddit.com/user/aokaga/m/stories[Text Only], https://www.reddit.com/user/korfor/m/chess/[Chess], https://www.reddit.com/user/nbatman/m/engineering/[Engineering]
+
+'''
+
+== Multi Dev Tool Sites
+
+* ⭐ *https://jetbrains.com/[JetBrains]* - https://github.com/crazy-max/docker-jetbrains-license-server[License Server]
+* ⭐ *https://free-for.dev/[Free for Developers]*
+
+https://devtoys.app/[DevToys], https://smalldev.tools/[SmallDev.tools], https://webdevhome.github.io/[WebdevHome], https://www.eclipse.org/[Eclipse Foundation], https://intab.io/resources/[DevBox], https://freestuff.dev/[Free Developer Stuff], https://tinytools.directory/[Tiny Tools], https://www.cleancss.com/[Clean CSS], https://devresourc.es/[Dev Resources], https://freeformatter.com/[FreeFormatter.com], https://utilities-online.info/[Utilities and Tools Online], https://online-toolz.com/[Free Online Tools for Everyone], https://onlinestringtools.com/[Online String Tools], https://www.coderstool.com/[Coders Tool], https://prototypr.io/toolbox/page/1[Prototypr], https://appdevtools.com/[AppDevTools], https://it-tools.tech/[IT Tools], https://toolkit.addy.codes/[Addy], https://omatsuri.app/[Omatsuri], https://devina.io/[devina], https://openutils.org/[OpenUtils], https://wangchujiang.com/tools/[wangchujiang], https://tools.quickso.cn/[quickso]
+
+'''
+
+== Multi Tool Sites
+
+* ⭐ *https://mrfreetools.com/[Mr Free Tools]*
+* ⭐ *https://libreops.cc/[LibreOps]*, https://catgirl.cloud/[catgirl.cloud] or https://aluigi.altervista.org/[Luigi Auriemma] - Open-Source Tools
+
+https://pinetools.com/[PineTools], https://123apps.com/[123Apps], http://itools.com/[iTools], https://framasoft.org/[Framasoft], https://www.browserling.com/tools/[Browserling Tools], https://www.danstools.com/[Dan's Tools], https://webbrowsertools.com/[WebBrowserTools], https://manytools.org/[ManyTools], https://commentpicker.com/other-tools.php[Comment Picker], https://www.osintcombine.com/tools[OSINT Combine], https://mxtoolbox.com/NetworkTools.aspx[MxToolbox], https://rumkin.com/tools/[Rumkin], https://sumo.app/[Sumo], https://melobytes.com/en[Melobytes], https://unitpedia.com/[UnitPedia], https://prepostseo.com/[prepostseo], https://wiki.digitalmethods.net/Dmi/ToolDatabase[Digital Methods], https://www.flippity.net/[Flippity], https://appscyborg.com/[AppsCyborg], https://jnckmedia.com/[JNCK Media], https://www.blackhost.xyz/[BlackHost], https://bfotool.com/[BfoTool], https://seomagnifier.com/[SeoMagnifier], https://freetoolonline.com/[FreeToolOnline], https://10015.io/[10015.io], https://tools.jmmgc.com/[JMMG Tools], https://www.0wx.org/[0wx.org], https://tinywow.com/[tinywow], https://www.selfpublishingtitans.com/[Self Publishing Titans], https://inettools.net/[Inettools], https://www.tucktools.com/[TuckTools], https://iancoleman.io/[Ian Coleman], https://www.media.io/[Media.io], https://url-decode.com/cat/all[URL Decode], https://entraide.chatons.org/en/[ChatONS], https://freetoolonline.com/tags.html[FreeToolOnline], https://goonlinetools.com/[goonlinetools], https://www.garyshood.com/[garyshood], https://randomtools.io/[RandomTools], https://www.toptal.com/utilities-tools[Toptal], https://www.piliapp.com/[piliapp], https://www.kodytools.com/[KodyTools], https://aruljohn.com/[aruljohn], https://argyle.geopjr.dev/[Argyle], https://toolki.com/[Toolki], https://aionlinetools.com/[aionlinetools], https://trom.tf/[Trom], https://www.madza.dev/code[madza.dev], https://onlinetools.com/[onlinetools], https://www.a.tools/[a.tools]
+
+'''
+
+== MPV Shaders
+
+* https://gist.github.com/agyild/82219c545228d70c5604f865ce0b0ce5[FSR]
+* https://github.com/bjin/mpv-prescalers/[NNEDI / Ravu]
+* https://github.com/igv/FSRCNN-TensorFlow/[FSRCNNX]
+* https://github.com/Artoriuz/glsl-chroma-from-luma-prediction[CFL]
+* https://github.com/Artoriuz/glsl-joint-bilateral[JointBilateral]
+* https://gist.github.com/igv/a015fc885d5c22e6891820ad89555637[KrigBilateral]
+* https://github.com/Artoriuz/ArtCNN[ArtCNN]
+* https://github.com/Artoriuz/ArtCNN/tree/main/Chroma[ArtCNN Chroma]
+* https://gist.github.com/igv/2364ffa6e81540f29cb7ab4c9bc05b6b[SSimSuperRes]
+* https://gist.github.com/igv/36508af3ffc84410fe39761d6969be10[SSimDownscaler]
+* https://github.com/Artoriuz/glsl-pixel-clipper[Pixel Clipper]
+* https://gist.github.com/igv/8a77e4eb8276753b54bb94c1c50c317e[adaptive-sharpen]
+
+'''
+
+== MSX Games
+
+https://msxgamesworld.com/index.php[MSXGamesWorld], https://www.msx.org/[MSX Resource Center], https://www.generation-msx.nl/[Generation MSX], https://www.file-hunter.com/[File Hunter], https://download.file-hunter.com/[download.file-hunter], https://msxabandonware.com/en/home[MSXAbandonware]
+
+'''
+
+== Open Directory Search String Builder
+
+https://strixx.vercel.app/[strixx], http://lendx.org/[lendx], https://www.eyeofjustice.com/od/[eyeofjustice], https://lumpysoft.com/[lumpysoft], https://opendirsearch.abifog.com/[opendirsearch], https://ewasion.github.io/opendirectory-finder/[Ewasion], https://doyou.needmorehdd.space/#[doyouneedmorehdd], https://open-directories.reecemercer.dev/[Reecemercer], https://odfinder.github.io/[odfinder], https://thuvien.com/[thuvien]
+
+'''
+
+== Open Source Intelligence Indexes
+
+* ⭐ *https://github.com/jivoi/awesome-osint[Awesome OSINT]*
+* ⭐ *https://start.me/p/b5Aow7/asint_collection[AsINT_Collection]*
+* ⭐ *https://analystresearchtools.com/[Analyst Research Tools]*
+* https://www.osintracker.com/[Osintracker] - OSINT Investigations Tracker
+
+https://start.me/p/0PwOGl/osint-all[OSINT All], https://www.osintessentials.com/[OSINT Essentials], https://github.com/Ph055a/OSINT_Collection[OSINT Collection], https://github.com/imuledx/OSINT_sources[OSINT Sources], https://start.me/p/gyaOJz/investigator-tools[Investigator Tools], https://start.me/p/W1kDAj/geoint[geoint], https://start.me/p/wMdQMQ/tools[OSINT Tools], https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list[Nixintel's OSINT], https://www.uk-osint.net/index.html[UK-OSINT], https://osintgeek.de/tools[OSINTGeek], https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT[Awesome-Telegram-OSINT], https://www.hackers-arise.com/osint[Hackers Arise OSINT], https://www.osinttechniques.com/osint-tools.html[osinttechniques], https://securitytrails.com/blog/what-is-osint-how-can-i-make-use-of-it[whatisosint], https://www.osintdojo.com/resources/[osintdojo], https://300m.com/osint/[300m], https://www.einvestigator.com/open-source-intelligence-tools/[einvestigator], https://researchclinic.net/[researchclinic], https://www.toddington.com/resources/free-osint-resources-open-source-intelligence-search-tools-research-tools-online-investigation/[toddington], https://rr.reuser.biz/[reuser], https://booleanstrings.com/tools/[booleanstrings], https://www.coreysdigs.com/take-action/must-have-tools-for-digging-videos-podcasts/[coreysdigs], https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/[Bellingcat], https://discord.gg/projectowl[cProject Owl], https://github.com/J0hnbX/RedTeam-Resources[RedTeam-Resources], https://github.com/ivbeg/awesome-forensicstools[Awesome Forensics Tools], https://rentry.co/o89dd[OSINT Collection], https://github.com/cipher387[cipher387], https://start.me/p/L1rEYQ/osint4all[osint4all], https://pastebin.com/CJ9ExTn5[OSINT Tools], https://bin.disroot.org/?191675922ac1cbac##Dc6GZQUviM5mfQhoUsYhaBykx9RQAJkDp8yDAe8QqB1m[osint], https://bin.disroot.org/?5524218c228099ec##G6BxBj17tFtZhhGuYBfSRceFppigZyt8abJtqVceMgcN[asint_collection], https://start.me/p/ZME8nR/osint[dig intel], https://inteltechniques.com/tools/Communities.html[inteltechniques], https://start.me/p/4K0DXg/social-media[Social Media], https://midasearch.org/[midasearch], https://start.me/p/1kAP0b/osint-resources[osint-resources], https://map.malfrats.industries/[Malfrat's Industries Map], https://ohshint.gitbook.io/oh-shint-its-a-blog/[OSHINT], https://github.com/cipher387/osint_stuff_tool_collection[osint_stuff_tool_collection]
+
+'''
+
+== Password Data Breach Check
+
+⭐ *https://haveibeenpwned.com/Passwords[HaveIBeenPwned PW]*
+
+https://intelx.io/[Intelligence X], https://psbdmp.ws/[psbdmp], https://dehashed.com/[Dehashed], https://spycloud.com/[Spycloud], https://t.me/PasswordSearchBot[PasswordSearchBot], https://scatteredsecrets.com/[ScatteredSecrets]
+
+'''
+
+== Periodic Tables
+
+* ⭐ *https://ptable.com/[Ptable]*
+
+https://periodictableofchemicalelements.com/[The Periodic Table Of Elements], https://periodic-table.io/[Periodic Table], https://images-of-elements.com/[Images-Of-Elements], https://graphoverflow.com/graphs/3d-periodic-table.html[Graph Overflow], https://artsexperiments.withgoogle.com/periodic-table/[3D Periodic Table], https://periodictableapp.com/[PeriodicTableApp], https://www.periodic-table.org/[Periodic Table], https://www.webelements.com[WebElements], http://www.elementsdatabase.com/[Elements Database]
+
+'''
+
+== Piracy Site Proxies
+
+* ⭐ *https://unblockit.asia/[Unblockit]* / https://www.reddit.com/r/Unblockit/[/r/Unblockit]
+
+https://knaben.info/[Knaben's Proxy List], https://unblockninja.com/[unblockninja], https://uproxy.to/[uProxy], https://unblocktorrent.com/[unblocktorrent], https://unblock.soy/[unblock.soy] / https://en-proxy.com/[2] / https://unb.how/[3] / https://unblockedscene.com/[4], https://piracyproxy.page/[piracyproxy], https://unblocksource.top/[unblocksource], https://dirproxy.cc/[dirproxy], https://proxyninja.org/[ProxyNinja], https://ninjaproxy1.com/[ninjaproxy1], https://abcproxy.org/[ABCProxy], https://immortalproxy.com/[immortalproxy]
+
+'''
+
+== Poll Sites
+
+https://pollcode.com/[PollCode], https://www.yopolls.com/[YoPolls], https://polls.fr/[Polls.fr], https://minipoll.co/[minipoll], https://pickvote.web.app/[PickVote], https://strawpoll.com/[StrawPoll], https://framadate.org/[framadate], https://quick.mobpoll.org/[mobpoll], https://www.polltab.com/[polltab], https://xoyondo.com/polling-app[polling-app], https://poal.me/[poal.me], https://poll.ly/[poll.ly], https://www.matepoll.com/index.html[matepoll], https://typeform.com/examples/polls/[typeform]
+
+=== Live Polling
+
+https://www.slido.com/[slido], https://www.feedbackr.io/[Feedbackr], https://trypingo.com/[Trypingo]
+
+'''
+
+== Presentation Tools
+
+* https://maaslalani.com/slides/[Slides] / https://github.com/maaslalani/slides[GitHub] - Terminal-Based Presentation Tool
+* https://github.com/AmNotAGoose/Python-PPTX-ChatGPT-Presentation-Generator[PPTX] - AI Presentation Generator
+* https://github.com/vilmacio/gslides-maker[GSlides Maker] - Turn Wiki Pages into Google Slides
+
+https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit[ZoomIt], https://presentator.io/[Presentator], https://hiroppy.github.io/fusuma/[Fusuma], https://pitch.com/[Pitch], https://www.zoho.com/show/[Zoho Show], https://webslides.tv/[Webslides], https://freeshow.app/[FreeShow], https://play.presenta.cc/[Presenta], https://www.openelearning.org/[OpenLearning], https://www.slideshare.net/[Slideshare] / https://www.slidesdownloader.com/[Downloader]
+
+=== Presentation Templates
+
+https://slidesgo.com/[SlidesGo], https://www.showeet.com/[Showeet], https://www.slidescarnival.com/[Slides Carnival], https://www.presentationgo.com/[PresentationGO], https://ensa.io/[ensa.io], https://thepopp.com/[ThePOPP]
+
+'''
+
+== Proxy Lists
+
+⭐ *https://github.com/TheSpeedX/PROXY-List[PROXY List]*
+
+https://free-proxy-list.net/[Free-Proxy-List], https://www.cool-proxy.net/[Cool-Proxy], https://github.com/proxy4parsing[Proxy4Parsing] / https://t.me/proxy4parsing[Telegram], https://github.com/roosterkid/openproxylist[OpenProxyList], https://www.proxyscrape.com/free-proxy-list[ProxyScrape], https://github.com/mmpx12/proxy-list[proxy-list], https://hidemy.name/en/proxy-list/[hide.my proxy list], https://www.freeproxylists.net/[FreeProxyLists], https://www.proxynations.com/[ProxyNations], https://spys.one/en/free-proxy-list/[spys.one], https://cyber-gateway.net/get-proxy/free-proxy[cyber-gateway], https://free-proxy-list.net/web-proxy.html[ree-proxy-list], https://geonode.com/free-proxy-list/[geonode], https://freeproxyupdate.com/[freeproxyupdate], https://proxypedia.org[proxypedia], https://www.proxydocker.com/en/proxylist/[proxydocker], https://proxyhub.me/[proxyhub], https://proxy-list.download/[proxy-list], https://free-proxy-list.com/[free-proxy-list], https://proxydb.net/[proxydb], https://premiumproxy.net/[premiumproxy], https://advanced.name/freeproxy[advanced.name], https://github.com/monosans/proxy-list[monosans list], https://github.com/jetkai/proxy-list[jetkai list], https://www.megaproxylist.net/[megaproxylist], https://freeproxy.world/[freeproxy]
+
+'''
+
+== qBitorrent Tools
+
+* https://github.com/qBitMF/qBitMF[Multi-Connection] / https://i.ibb.co/pj9LrT1/6623c6638f4a.png[Screenshot]
+* https://github.com/qbittorrent/search-plugins##search-plugins[Plugins]
+* https://github.com/c0re100/qBittorrent-Enhanced-Edition[Enhanced]
+* https://github.com/jagannatharjun/qbt-theme[Themes] / https://draculatheme.com/qbittorrent[Dark Theme]
+* https://github.com/ntoporcov/iQbit/[iOS Theme]
+* https://github.com/linuxserver/docker-qbittorrent[Docker Build], https://github.com/binhex/arch-qbittorrentvpn[2]
+* https://github.com/sobuj53/web_qbittorrent[Web Client], https://github.com/WDaan/VueTorrent[2]
+* https://github.com/Yash-Garg/qBittorrent-Manager[Mobile Controller], https://github.com/Bartuzen/qBitController[2]
+* https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent_MEGA.ipynb[Mega Upload]
+* https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb[Gdrive Upload]
+* https://rentry.co/qBitEndpoints[API Endpoints]
+
+'''
+
+== Quotes
+
+* ⭐ *https://en.wikiquote.org[Wikiquote]*
+
+http://www.wisdomofchopra.com/[Wisdom of Chopra], https://www.searchquotes.com/[SearchQuotes], https://stoic-quotes.com/[Stoic Quotes], http://www.quotationspage.com/[QuotationsPage], https://www.brainyquote.com/[BrainyQuote], https://www.azquotes.com/[AZQuotes], https://www.quotegarden.com/[QuoteGarden], https://redd.it/dlao3b[Quote Collections], https://theotherpages.org/quote.html[TheOtherPages]
+
+'''
+
+== Radio Streaming Sites
+
+=== Live Radio
+
+* ⭐ *https://en.wikipedia.org/wiki/List_of_Internet_radio_stations[List of Internet Radio Stations]*
+* ⭐ *https://www.radio-browser.info/users[Radio Browser]* - Radio App / Site Index
+
+https://www.iheart.com/[iHeartRadio], https://onlineradiobox.com/[OnlineRadioBox], https://liveonlineradio.net/[LiveOnlineRadio], http://www.websdr.org/[WebSDR], https://fulldecent.github.io/system-bus-radio/[System Bus Radio], https://mytuner-radio.com/[myTuner], https://www.radio-browser.info/[Radio Browser], https://zeno.fm/[Zeno], https://tuneyou.com/[TuneYou], https://tvradiotuner.com/[Tvradiotuner], https://instant.audio/[Instant.audio], https://www.radiodeck.com/[Radiodeck], https://www.akouradio.com/[VRadio], https://worldradiomap.com/[WorldRadioMap], https://streema.com/[Streema], https://vtuner.com/setupapp/guide/asp/BrowseStations/startpage.asp[vTuner], https://www.radio.net/[Radio.net], https://theonestopradio.com/[TheOneStopRadio], https://www.radioguide.fm/[Radio Guide], https://dir.xiph.org/[Xiph], https://raddio.net/[raddio]
+
+=== Internet Radio
+
+https://deep-cut.fm/[deep-cut.fm], https://coreradio.online/listen[CoreRadio], https://radioparadise.com/[RadioParadise], https://www.indieshuffle.com/[IndieSHuffle], https://www.you42.com/[You42], https://www.jango.com/[Jango], https://www.radiotunes.com/[RadioTunes], https://live365.com/[Live365], https://www.accuradio.com/[AccuraRadio], https://radio.dubbeh.net/[Radio.dubbeh], https://tilderadio.org/[Tilderadio], https://anonradio.net/[AnonRadio], https://upbeatradio.net/[UpBeat] / https://upbeat.pw/discord[Discord], https://radios.yt/[Radios.yt], https://somafm.com/[SomaFM], https://directory.shoutcast.com/[ShoutCast], https://internet-radio.com/[Internet-Radio], https://radiolise.gitlab.io/[Radiolise], https://jetsetradio.live/[JetSetRadio], https://chiru.no/[Chiru.no], https://radio.uwu.network/[radio.uwu]
+
+'''
+
+== Random Generators
+
+https://www.coolgenerator.com/[Cool Generator], https://theonegenerator.com/[The One Generator], https://random-ize.com/[Random-Ize], https://www.random.org/[RANDOM], https://www.bestrandoms.com/[BestRandoms], https://randommer.io/[Randommer], https://generatorfun.com/[GeneratorFun], https://www.springhole.net/writing_roleplaying_randomators/index.html[Springhole], https://wiizard-generator.neocities.org/[Wiizard Generator], https://github.com/m-i-n-a-r/randomix[randomix], https://numbergenerator.org/[NumberGenerator], https://www.randomlists.com/[Random Lists], https://randomuser.me/[Random User Generator]
+
+=== Random Image Sites
+
+https://r.sine.com/index[r.sine.com], https://cvines528.github.io/Pretty-Flix/[Pretty Flix], https://cameron.red/imgur/[Cameron.Red], https://funnyjunk.com/[Funnyjunk], https://f0ck.me/[f0ck], https://imgflip.com/[ImgFlip], https://9gag.com/[9Gag], https://thread-puller.party/[Thread-Puller], https://www.iwastesomuchtime.com/[IWasteSoMuchTime], https://ifunny.co/[iFunny], https://kongoucheats.com/[KongouCheats], https://randomwaffle.gbs.fm/[RandomWaffle], https://www.wimp.com/[Wimp.com], https://www.heahy.com/[Heahy], https://z0r.de/[z0r]
+
+=== Random Sites
+
+https://www.boredbutton.com/[BoredButton], https://sharkle.com/[Sharkle!], https://theuselessweb.com/[The Useless Web] / https://theuselessweb.site/[2], https://jumpstick.app/[JumpStick], https://openbulkurl.com/random/[OpenBulkURL], https://theforest.link/[The Forest], http://random.whatsmyip.org/[WhatsMYIP], https://random-website.com/[Random-Website], https://wilderness.land/[Wilderness Land], https://cloudhiker.net/[CloudHiker], https://moonjump.app/[Moonjump]
+
+'''
+
+== Read Paywalled Articles
+
+* 🌐 *https://www.archivebuttons.com/[Archive Buttons]* - Paywall Bypass Tools
+* 🌐 *https://paywallhub.com/[PaywallHub]* - Paywall Bypass Tools
+* ⭐ *https://wallabag.nixnet.services/[wallabag]* / https://github.com/FahadBinHussain/wallabot[Discord Bot]
+* ⭐ *https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean[Bypass Paywalls Firefox Clean]* / https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/master/[2]
+* ⭐ *https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean[Bypass Paywalls Chrome Clean]*
+* https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters[Bypass Paywalls Clean filters]
+* https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents[Bypass paywalls for scientific documents] - Bypass Scientific Document Paywalls
+* https://unpaywall.org/[unpaywall] - Bypass Scholarly Article Paywalls
+* https://scribe.rip/[Scribe], https://freedium.cfd/[freedium] or https://medium-forall.vercel.app/[medium-forall] - Medium Paywall Bypass
+* https://greasyfork.org/en/scripts/39936[PressReader] - Bypass PressReader Paywall
+* https://github.com/everywall/ladder[Ladder] - Self-Hosted
+
+https://burles.co/en/[Burles], https://redd.it/rs9ej1[Paywall Bypass Index], https://github.com/iamadamdev/bypass-paywalls-chrome##bypass-paywalls[bypass-paywalls], https://getpocket.com/[pocket], https://1ft.io/[1ft.io], https://github.com/nathan-149/hover-paywalls-browser-extension[Hover Paywalls], https://github.com/und3fined/medium-unlocker[medium-unlocker], https://openaccessbutton.org/[OpenAccessButton], https://www.removepaywall.com/[RemovePaywalls], https://github.com/SybronH/PaywallBypasser[PaywallBypasser], https://12ft.io/[12ft.io], https://www.smry.ai/[Smry.ai], https://sugoidesune.github.io/readium/[Readium], https://www.shacklefree.in/[shacklefree]
+
+'''
+
+== Remove Vocals
+
+* ⭐ *https://mvsep.com/[mvsep]*
+
+https://colab.research.google.com/github/jarredou/MVSEP-MDX23-Colab_v2/blob/v2.3/MVSep-MDX23-Colab.ipynb[MDX23], https://vocalremover.org/[VocalRemover] / https://github.com/Anjok07/ultimatevocalremovergui[GUI] / https://github.com/Anjok07/ultimatevocalremovergui/tree/v5-beta-cml[2], https://phonicmind.com/[PhonicMind], https://colab.research.google.com/github/NaJeongMo/Colaboratory-Notebook-for-Ultimate-Vocal-Remover/blob/main/Vocal%20Remover%205_arch.ipynb[Ultimate Vocal Remover], https://x-minus.pro/ai[x-minus], https://www.notta.ai/en/tools/online-vocal-remover[online-vocal-remover], https://www.remove-vocals.com/[Remove Vocals], https://vocali.se/en[vocali], https://voxremover.com/[voxremover], https://www.mazmazika.com/[mazmazika], https://demixor.com/[demixor], https://humtools.com/karaoke-maker/[karaoke-maker], https://huggingface.co/spaces/TheStinger/Ilaria_UVR[Ilaria_UVR]
+
+'''
+
+== Royalty Free Music
+
+* ⭐ *https://studio.youtube.com/[YouTube Studio]* - Click Audio Library
+
+https://freemusicarchive.org/[Free Music Archive], https://www.joshwoodward.com/[joshwoodward], https://wowsound.com/[wowsound], https://www.epidemicsound.com/[epidemicsound], https://pixabay.com/music/[Pixabay Music], https://www.audiomicro.com/[audiomicro], https://starfrosch.com/[Starfrosch], https://mubert.com/[Mubert], https://cchound.com/[ccHound], https://www.musicscreen.org/[MusicScreen], https://filmmusic.io/[FilmMusic], https://icons8.com/music[Fugue], https://edmroyaltyfree.net/[EDMRF], https://www.chosic.com/free-music/all/[chosic], https://www.gamedev.net/news/2000-instrumental-pieces-released-by-anttis-instrumentals-r1135/[Anttis Instrumentals] / https://drive.google.com/open?id=0ByvAPNATAYsBR0FUczYzWHk3NEU[Torrent], https://open.sampld.app/[Sampld], https://bluefoxmusic.com/[BLueFoxMusic], https://www.scottbuckley.com.au/library/[ScottBuckley], https://jazz.mixremix.cc/[Creative Commons Jazz], https://tunetank.com/[tunetank], https://www.audiolibrary.com.co/[audiolibrary], https://www.purple-planet.com/[purple-planet], https://www.freemusicpublicdomain.com/[freemusicpublicdomain], https://cctrax.com/[cctrax]
+
+'''
+
+== Satellite & Street View Maps
+
+* ⭐ *https://organicmaps.app/[OrganicMaps]*
+* ⭐ *https://duckduckgo.com/?q=maps&ia=web&iaxm=maps[DDG Maps]*
+* ⭐ *https://soar.earth/[Soar]*
+
+https://yandex.com/maps/[Yandex], https://www.google.com/maps/[Google], https://satellites.pro/[Satellites.pro], https://www.bing.com/maps[Bing], https://wego.here.com/[Wego.Here], http://www.terrafly.com/[Terrafly], https://earthexplorer.usgs.gov/[EarthExplorer], https://search.earthdata.nasa.gov/search[EarthData], https://portaldemapas.ibge.gov.br/portal.php##homepage[PortalDeMapas], https://www.qwant.com/maps/[Qwant], https://www.city2map.com/[city2map], https://www.mapquest.com/[MapQuest], https://www.instantstreetview.com/[InstantStreetView], https://showmystreet.com/[ShowMyStreet]
+
+'''
+
+== Scan Files
+
+* ⭐ *https://www.virustotal.com/[VirusTotal]* / https://github.com/VirusTotal/vt-cli[CLI], https://virustotal.github.io/vt-cli/[2] / https://t.me/virus_total_scan_bot[Telegram Bot] / https://github.com/SamuelTulach/VirusTotalUploader[Uploader] / https://www.virustotal.com/old-browsers/[Lite Version]
+* ⭐ *https://hybrid-analysis.com/[Hybrid-Analysis]*
+
+https://any.run/[Any.Run], https://tria.ge/[Triage], https://www.winitor.com/[Malware Initial Assessment], https://analyze.intezer.com/[Intezer Analyze], https://cuckoo.cert.ee/[Cuckoo], https://www.virscan.org/[VirSCAN], https://www.joesandbox.com/[Joe Sandbox], https://metadefender.opswat.com/?lang=en[MetaDefender], https://www.fortiguard.com/faq/onlinescanner[Fortiguard], https://virusscan.jotti.org/en[Jotti], https://opentip.kaspersky.com/[Virus Desk], https://www.antiscan.me/[Antiscan], https://www.malshare.com/[MalShare], https://sandbox.pikker.ee/[Cuckoo]
+
+'''
+
+== Scene Release Trackers
+
+* https://www.reddit.com/r/CrackWatch/[/r/CrackWatch]
+* https://crackwatcher.com/[CrackWatcher]
+* https://www.reddit.com/r/dailyreleases/[/r/dailyreleases]
+* https://reddit.com/r/RepackWorld[/r/RepackWorld]
+* https://gamestatus.info/[GameStatus]
+* https://t.me/fitgirl_repack[fitgirl_repack]
+
+'''
+
+== Send Anonymous Emails
+
+https://www.secure-email.org/[secure-email], https://www.5ymail.com/[5ymail], https://anonymousemail.me/[anonymousemail], http://anonymouse.org/anonemail.html[anonymouse], http://www.sendanonymousemail.net/[sendanonymousemail], https://send-email.org/[send-email], https://gilc.org/speech/anonymous/remailer.html[gilc], https://remailer.paranoici.org/index.php[Remailer], https://mixmaster.sourceforge.net/[MixMaster], https://www.mailfreeonline.com/home[mailfreeonline]
+
+'''
+
+== SFlix Clones
+
+* https://himovies.sx/
+* https://solarmovies.win/
+* https://huramovies.to/
+* https://solarmovie.pe/
+* https://www2.6movies.net/
+* https://gomovies.sx/
+* https://theflixer.se/
+* https://www2.movieorca.com/
+* https://swatchseries.is/
+* https://www1.freemoviesfull.com/
+* https://www.actvid.rs/
+* https://hdtoday.to/
+* https://moviesjoy.plus/
+* https://dopebox.to/
+* https://fboxtv.com/
+* https://movies2watch.cc/
+* https://movies2watch.tv/
+* https://watchseriestv.top/
+* https://hdtoday.cc/
+* https://tinyzonetv.se/
+* https://www6.f2movies.to/
+* https://2kmovie.cc/
+* https://goku.sx/
+* https://bingewatch.to/
+* https://www.divicast.com/
+* https://theflixertv.to/
+* https://myflixer.pw/
+* https://myflixertv.to/
+* https://www3.f2movies.to/
+* https://flixhd.cc/
+* https://www3.musichq.net/
+* https://zoechip.org/
+* https://zoechip.cc/
+* https://www3.zoechip.com/
+* https://123moviestv.net/
+* https://moviecracker.net/
+* https://moviesjoy.is/
+* https://tinyzonetv.cc/
+* https://www.showboxmovies.net/
+* https://www.watch4freemovies.com/
+* https://www2.filmlicious.net/
+* https://www.moviekids.tv/
+* https://yesmovies.mn/
+* https://fmovie.ws/
+* https://cataz.to
+* https://fmovies.hn/
+
+'''
+
+== Sheet Music Sites
+
+* ⭐ *https://musescore.org/en[musescore]* + https://github.com/LibreScore/dl-librescore[Downloader]
+* https://music-reader.com/[Music Reader] - Practice Reading Sheet Music
+* https://sheet.host/[SheetHost] - Publish Sheet Music
+* https://www.vgleadsheets.com/[VGLeadSheets] or https://www.gamemusicthemes.com/[GameMusicThemes] - Video Games
+* https://www.flutetunes.com/[FluteTunes] or https://drive.google.com/drive/folders/1WMtVRNqLFdEQ4X39Dpof9o5aWGJsdtFe?usp=sharing[Flue Music] - Flute
+
+https://imslp.org/wiki/Main_Page[IMSLP], https://github.com/ad-si/awesome-sheet-music[awesome-sheet-music], https://reddit.com/r/sheetmusic[/r/sheetmusic], https://www.8notes.com/[8notes], https://www.mutopiaproject.org/[mutopiaproject], https://sheetmusiceden.com/[sheetmusiceden], https://musopen.org/[musopen], https://sheetmusicinternational.com/[Sheet Music International], https://1230james.xyz/music/[1230james], http://waltercosand.com/CosandScores/[CosandScores], https://m.free-scores.com/[Free Scores], https://torbybrand.com/sheet-music/[torbybrand], https://sheetmusicforfree.com/[SheetMusicForFree], https://www.bateristaspt.com/membros/drumscores/[bateristaspt], https://www.daev.ca/tchunes/[tchunes], https://notes-box.com/[Notes Box], https://urresearch.rochester.edu/viewInstitutionalCollection.action?collectionId=63[urresearch], https://escholarship.org/uc/uclamusicscores[escholarship], https://dlib.indiana.edu/variations/scores/[dlib], https://www.diamm.ac.uk/[diamm], https://www.themorgan.org/music[themorgan], https://dc.lib.unc.edu/cdm/landingpage/collection/sheetmusic[unc], https://digital.library.ucla.edu/sheetmusic/[ucla], https://library.brown.edu/cds/sheetmusic/afam/about.html[brown], https://dme.mozarteum.at/DME/nma/nmapub_srch.php?l=2[mozarteum], https://www.sfsma.org/[sfsma], https://digital.library.unt.edu/explore/collections/VRBR/browse/[digital.library], https://chopin.lib.uchicago.edu/[chopin], https://drive.google.com/drive/folders/0BxkQJMTuId4dfkxiM01GYnFBUFdDVmRHMGREM1JKYVdBajJtV2pVSExrS2txT1BOdXlfMUE?resourcekey=0-4uwizkHnsGLakmC-cA173A[Piano Sheet Music Drive] / https://drive.google.com/drive/folders/1-hieArroBCq1x6z4GQ_gdFuyEz_Ftvxg[2], https://drive.google.com/drive/folders/0B2k9HIXzBEfMVlgxTlhNWThzZkk?resourcekey=0-q0RdwD55Az5S3NigaliZEA[Anime Sheet Music Drive], https://www.cpdl.org/wiki/index.php/Main_Page[cpdl], https://ichigos.com/[Ichigos], https://www.free-scores.com/free-sheet-music.php[free-scores], https://bandmusicpdf.org/[bandmusicpdf], https://www.publicdomainsherpa.com/free-sheet-music.html[publicdomainsherpa], http://en.scorser.com/D/Sheet+music.html[scorser]
+
+'''
+
+== Site Legitimacy Check
+
+* ⭐ *https://www.urlvoid.com/[URL Void]*
+
+https://www.threatstop.com/check-ioc[ThreatStop], https://urlscan.io/[urlscan.io], https://www.scamadviser.com/[Scamadviser], https://www.islegitsite.com/[IsLegitSite], https://scanurl.net/[scanurl], https://transparencyreport.google.com/safe-browsing/search[Google Safe Browsing]
+
+'''
+
+== SMS Verification Sites
+
+https://www.2ndline.co/[2ndline], https://www.textnow.com/[TextNow], https://www.smspool.net/free-sms-verification[smspool], https://www.afreesms.com/[AFreeSMS], https://sms-online.co/[SMS Online], https://getfreesmsnumber.com/[GetFreeSMSNUmber], https://sms-receive.net/[SMS Receive], https://www.receivesmsonline.net/[Receive SMS Online], https://receivesmsonline.in/[receivesmsonline], https://1s2u.com/[1s2u], https://www.mytrashmobile.com/[My Trash Mobile], https://globfone.com/[GlobFone], http://freesmsverification.com/[freesmsverification], https://countrycode.org/[countrycode], https://temp-sms.org/[temp-sms], https://temporary-phone-number.com/[temporary-phone-number], https://www.spoofbox.com/en/tool/trash-mobile/number[spoofbox], https://www.receive-sms-online.info/[receive-sms-online], https://smsfinders.com/[smsfinders], https://mfreesms.com/[mfreesms], https://yunjisms.xyz/[yunjisms], https://smscodeonline.com/[smscodeonline], https://mianfeijiema.com/[mianfeijiema], https://jiemahao.com/[jiemahao], https://www.storytrain.info/[storytrain], https://temp-number.com/[Temp Number], https://www.sms24.me/[sms24], https://receive-smss.com[receive-smss], https://freesmscenter.com/[freesmscenter], https://receive-sms.cc/[receive-sms], https://spytm.com/[spytm], https://receive-sms-free.cc/[receive-sms-free], https://sms-activation-service.com/[sms-activation-service], https://www.burnerapp.com/[burnerapp], https://tempsmss.com/[tempsmss], https://quackr.io/[quackr], https://smsnator.online/[smsnator], https://inboxsms.me/[InboxSMS], https://anonymsms.com/temporary-phone-number/[anonymsms], https://onlinesim.io/[onlinesim], https://receive-a-sms.com/[ReceiveaSMS], http://receivefreesms.com/[Receive SMS Online Free], https://sms-activate.org/en/freeNumbers[sms-activate], https://proovl.com/numbers[proovl], http://receivefreesms.net/[receivefreesms], http://receivesmsonline.in/[receivesmsonline], http://hs3x.com/[hs3x], http://receiveonlinesms.biz/[receiveonlinesms], http://freereceivesmsonline.com/[freereceivesmsonline], https://www.shejiinn.com/[shejiinn], https://www.jiemadi.com/en[jiemadi], https://freephonenum.com/[freephonenum], https://receivesmsonline.me/[receivesmsonline], https://freereceivesmsonline.com/[freereceivesmsonline], https://7sim.pro/[7sim], https://www.jiemagou.com/en[jiemagou], https://yunjiema.net/[yunjiema], https://supercloudsms.com/en[supercloudsms], https://us-phone-number.com/[us-phone-number], https://lothelper.com/en/shownumber[shownumber], https://receivesmsverification.com/[receivesmsverification], https://yunduanxin.net/[yunduanxin], https://bestsms.xyz/[bestsms], https://pingme.tel/receive-sms-online[pingme], https://114sim.com/[114sim], https://smsget.net/[smsget]
+
+=== No CC Required Trial Sites
+
+https://burstsms.com.au/[burstsms], https://www.directsms.com.au/[directsms], https://www.vumber.com/[vumber]
+
+'''
+
+== Steam Workshop Downloaders
+
+=== Websites
+
+* ⭐ *https://ggntw.com/steam[ggntw]*
+* http://steamworkshop.download/[Steamworkshop.download], https://steam-workshop-downloader.com[steam-workshop-downloader.com], https://steamworkshopdownloader.ru[steamworkshopdownloader.ru], https://greasyfork.org/en/scripts/449046[Workshop Script]
+
+=== Programs
+
+* ⭐ *https://github.com/imwaitingnow/WorkshopDL[WorkshopDL]*
+* ⭐ *https://rentry.co/FMHYBase64#mod-authority[Mod Authority]*
+* https://github.com/NethercraftMC5608/NetherWorkshopDownloader[NetherWorkshopDownloader] / https://discord.com/invite/bs9TMxMJk9[Discord]
+* https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2[SCMD], https://github.com/shadoxxhd/steamworkshopdownloader[steamworkshopdownloader]
+
+'''
+
+== Survival
+
+* ⭐ *https://www.survivorlibrary.com/[Survivor Library]*
+* https://ligi.de/[SurvivalManual] / https://github.com/ligi/SurvivalManual[GitHub]
+* https://t.me/PrepperCollective[PrepperCollective] / https://t.me/PrepperCollectiveIndex[Index]
+
+https://t.me/offgriddownload[OffGridDownload], http://www.exploremarmaris.com/read/Survival/[ExploreMarMaris], https://reddit.com/r/PrepperFileShare[/r/PrepperFileShare], https://redd.it/muc9ff[The Preparedness Encyclopedia]
+
+'''
+
+== Switch ROMs
+
+* https://romslab.com/[ROMSLAB]
+* https://nxbrew.com/[NXBrew] (Scroll past Download Setup buttons)
+* https://nsw2u.com/[nsw2u], https://nsw2u.net/[2]
+* https://nswrom.com/[NswRoms]
+* https://romsim.com/[ROMSim] / https://discord.gg/Zgdhq7xDcd[Discord]
+* https://taodung.com/[taodung]
+
+'''
+
+== Tab Managers
+
+https://www.one-tab.com/[OneTab], https://framagit.org/ariasuni/tabcenter-reborn[Tab Center Reborn], https://github.com/drive4ik/simple-tab-groups[Simple Tab Groups], https://github.com/jdhayford/acid-tabs-extension[Acid Tabs], https://josh-berry.github.io/tab-stash/[Tab Stash], https://tabbutler.netlify.app/[Tab Butler], https://www.onetab.group/[One Tab Group], https://github.com/piroor/treestyletab[TreeStyleTabs]
+
+'''
+
+== Temp Email Sites
+
+* ⭐ *https://smailpro.com/[smailpro]* (gmail)
+* ⭐ *https://www.emailnator.com/[Emailnator]* (gmail)
+* ⭐ *https://zemail.me/mailbox[Zemail]* (gmail)
+* ⭐ *https://mail.tm/en[Mail.tm]*
+* ⭐ *https://inboxes.com/[inboxes]*
+* ⭐ *https://www.guerrillamail.com/[Guerillamail]*
+
+https://adguard.com/en/adguard-temp-mail/overview.html[Adguard Temp Mail], https://temp-mail.org/en/10minutemail[10 Minute Mail], https://tmail.io/[tmail], https://temp-mail.org/[Temp Mail], https://maildrop.cc/[maildrop], https://www.mailinator.com/[mailinator], https://mailnesia.com/[mailnesia], https://anonbox.net/[anonbox], https://generator.email/[Generator.email], https://m.kuku.lu/[kuku], https://www.emailondeck.com/[Email on Deck], https://www.mohmal.com/en[Mohmal], https://temporarymail.com/[temporarymail], https://www.fakemailgenerator.com/[FakeMailGenerator], https://emailfake.com/[emailfake], https://tempmailo.com/[tempmailo], https://10minutesemail.net/[10minutesemail], https://tempm.com/[tempm], https://tempail.com/[tempail], https://www.eyepaste.com/[eyepaste], https://www.mintemail.com/[mintemail], https://www.sharklasers.com/[sharklasers], https://www.yopmail.com/en/[yopmail], https://mail.td/[mail.td], https://dropmail.me/en/[dropmail], https://cryptogmail.com/[cryptogmail], https://inboxkitten.com/[inboxkitten], https://anonymmail.net/[anonymmail], https://tmailweb.com/[tmailweb], https://one-off.email/[one-off], https://www.another-temp-mail.com/[another-temp-mail], https://tempr.email/en/[tempr], https://www.fakemail.net/[fakemail], https://yopmail.com/en/email-generator[email-generator], https://www.moakt.com/[moakt], https://www.linshi-email.com/en[linshi-email], https://www.disposablemail.com/[disposablemail], https://trashmail.ws/[trashmail], https://fakermail.com/[fakermail], http://10minutesmail.com/[10minutesmail], https://mailtemp.top/[mailtemp], https://temporary-email.com/[temporary-email], https://tempmail.plus/en/[tempmail.plus], https://mail-temp.com/[mail-temp], https://www.easytrashmail.com/[easytrashmail], https://www.1secmail.com/[1secmail], https://fex.plus/en/[fex], https://email-fake.com/[email-fake], https://luxusmail.org/[luxusmail], https://tempmail.zone/[tempmail], https://spambox.xyz/[spambox], https://tempmails.net/[tempmails], https://www.receivemail.org/[receivemail], https://rainmail.xyz/[rainmail], https://tempemail.co/[tempemail], https://burner.kiwi/[burner], https://tempmail.altmails.com/[tempmail.altmails], https://instant-email.org/[instant-email], https://temp-mail.io/[temp-mail.io], https://temp-inbox.com/[temp-inbox], https://tempmaili.com/[tempmaili], https://minuteinbox.com/[minuteinbox], https://emailtemp.org/[emailtemp], https://tempmailid.com/[tempmailid], https://www.emaildrop.io/[emaildrop], https://10minutemail.net/[10minutemail], https://temprmail.com/[temprmail], https://10minemail.com/[10minemail], https://tempmail.email/[tempmail.email], https://temps-mail.com/[temps-mail.com], https://www.tempinbox.xyz/[tempinbox], https://yopmail.com/[yopmail], https://tmailor.com/[tmailor], https://temp-mailbox.com/[temp-mailbox], https://bottlemail.org/[bottlemail], https://internxt.com/temporary-email[internxt], https://tmail.gg/en[tmail.gg], https://gettempemail.com/[gettempemail], https://www.dispostable.com/[dispostable], https://www.lite14.us/10minutemail/[10minutemail], https://mailsweat.shop[mailsweat.shop], https://trashmail.com/[trashmail], https://10minutemail.com/[10minutemail.com], https://email.ml/[email.ml], https://edumail.icu/[edumail], https://www.snapmail.cc/[snapmail], http://mailcatch.com/[mailcatch], https://email1.io/[email1], https://cs.email/[cs.email], https://haribu.net/[haribu]
+
+=== Telegram Temp Mail Bots
+
+https://github.com/etaxi341/TrashMailClient-TelegramBot[Trashmail], https://t.me/trashemail_bot[TrashEmail], https://t.me/smtpbot[smtpbot], https://t.me/smtpbot[smtpbot], https://t.me/DropmailBot[DropmailBot], https://t.me/fakemailbot[fakemailbot]
+
+=== Temp Mail Extensions
+
+https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/[Bloody Vikings!]
+
+'''
+
+== Telegram Anime Downloads
+
+* https://t.me/Anime_Ocean_Backup
+* https://t.me/Anime_Gallery
+* https://t.me/anidlws
+* https://t.me/AnimeCrunch
+* https://t.me/Anime_Library
+* https://t.me/for_otaku
+* https://t.me/Any_Animebot
+* https://t.me/Anime_World_1
+* https://t.me/Hd_Anime_Series
+* https://t.me/myanimetvbot
+* https://t.me/Anime_Flix_Pro
+* https://t.me/Ongoing_animes
+
+'''
+
+== Telegram eBook Download
+
+* https://t.me/Books_worldd
+* https://t.me/NovelsArchive
+* https://t.me/free_ebooks_pdfs
+* https://t.me/booksmania
+* https://t.me/joinchat/RGzvjJF-0op3SRR1
+* https://t.me/yourlibraries
+* https://t.me/Dao_Qigong_Taiji_TCM_ebooks
+* https://t.me/lib_of_dos_old_vk
+* https://duckduckgo.com/?q=site%3At.me+books&ia=web[More Telegram eBook Channels]
+
+'''
+
+== Text Adventures
+
+https://www.ifiction.org/[iFiction] (Index), https://ifdb.org/[IFDB] (Index), https://ifarchive.org/if-archive/games/[Ifarchive] (drive), http://www.pactxt.com/[Pac-Txt], https://play.aidungeon.io/main/landing[AI Dungeon], https://adarkroom.doublespeakgames.com/[A Dark Room], https://www.sir-toby.com/extend-a-story/story-1/code/read.php[The Never Ending Quest], https://kevan.org/wikitext/[The Text Adventure], https://philome.la/johnayliff/seedship/play/index.html[Seedship], http://textadventures.co.uk/[TextAventures], https://www.web-adventures.org/[Web Adventures], https://writtenrealms.com/[WrittenRealms], http://www.mudii.co.uk/[MUDII], https://doublespeak.chat/[doublespeak], https://www.genesismud.org/[Genesis], https://fateful.quest/[Fateful Quest], https://nroutasuo.github.io/level13/[Level 13]
+
+'''
+
+== Torrent to GDrive
+
+*Note* - Use throwaway accounts with these
+
+=== Collab
+
+* ⭐ *https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb[OneClickRun]* / https://github.com/biplobsd/OneClickRun[GitHub]
+
+https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb[QBit to Gdrive] / https://github.com/xavy-13/qbittorrent[GitHub] / https://rentry.co/TorrentColab[How-To], https://colab.research.google.com/github/FKLC/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader.ipynb[Torrent_To_Google_Drive_Downloader], https://github.com/shirooo39/MiXLab[MiXLab] / Use Throwaways
+
+=== Telegram Bots
+
+* https://t.me/+qkrAOiq7k7ozNzRk
+* https://t.me/torrent_2_drive
+* https://t.me/torrentbcloudnew
+* https://t.me/slfilmtv
+* https://t.me/torrent_uploader
+* https://t.me/Punisherdiscussion
+* https://t.me/gtorr
+* https://t.me/yamb_mirror_bot
+* https://github.com/yash-dk/TorToolkit-Telegram
+* https://t.me/TorrentBots (List)
+* https://t.me/TorrentLeechingGroup (list)
+* https://t.me/MirrorBots (list)
+
+'''
+
+== Udemy Coupons
+
+* *Note* - If you're in the US you should be able to access Udemy courses for free using your library and looking for "Gale Presents Udemy."
+
+'''
+
+* ⭐ *https://coursevania.com/[Coursevania]* / https://t.me/Coursevania[Telegram]
+* ⭐ *https://couponscorpion.com/[CouponScorpion]*
+* ↪️ *https://rentry.co/FMHYBase64#udemy-course-drives[Udemy Course Megadrives]*
+* https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE[Automatic-Course-Enroller] or https://github.com/techtanic/Discounted-Udemy-Course-Enroller[Udemy-Course-Enroller] - Auto Course Enrollment
+* https://t.me/GUdemyBot[GUdemyBot], https://github.com/gautamajay52/UdemyBot[UdemyBot], https://t.me/UdemyScrapperZBot[UdemyScrapperZBot] or https://github.com/dylannalex/UdemyPy[UdemyPy] - Udemy Course Bots
+* https://gigacourse.com/[Giga Course] - Udemy Courses / Torrent
+* https://github.com/Puyodead1/udemy-downloader[udemy-downloader] - Udemy Downloader
+* https://docs.google.com/document/d/1W91OS9rj7h9DBp5UwR68lA2zMEtqNmxdGaNVmBktIaw/[Udemy Download Guide] - https://discord.gg/tMzrSxQ[Discord]
+
+https://www.discudemy.com/[discudemy], https://bestcouponhunter.com/[bestcouponhunter], https://baronip-coupons.blogspot.com/[BARONIP COUPONS], https://freebiesglobal.com/[freebiesglobal], https://www.onlinecourses.ooo/[onlinecourses], https://cursosdev.com/[cursosdev], https://100offdeal.online/[100offdeal], https://t.me/udemyking1[UdemyKing], https://t.me/udemycoursesfree[CourseArray]
+https://downloadr.in/[Downloadr], https://gigacourse.com/[Giga Course], https://udemy24.com/[Udemy 24], https://freecourseweb.com/[FreeCourseWeb], https://www.howtofree.org/[Download Online Tutorials Free], https://udemyfreecourses.org/[UdemyFreeCourses], https://studybullet.com/[Study Bullet] / https://telegram.me/joinchat/AAAAAFdxBDqPv7ZzVoUASw[Telegram], https://tutsnode.org/[TutsNode], https://reddit.com/r/udemyfreebies[/r/udemyfreebies], https://comidoc.net/[Online Courses Tracker], https://www.techlinks.in/udemy-free-coupons[Techlinks], https://www.real.discount/[Real.Discount], https://www.onlinetutorials.org/[OnlineTutorials]
+
+=== Udemy TG Channels
+
+* https://t.me/freecourseweb[freecourseweb]
+* https://t.me/udemyforu[udemyforu]
+* https://t.me/CGPERS[CGPERS]
+* https://t.me/Udemy_Courses_Free_Daily[Udemy_Courses_Free_Daily]
+
+'''
+
+== URL Unshorteners
+
+* ⭐ *https://urlex.org/[urlex]*
+* ⭐ *https://checkshorturl.com/[CheckShortURL]*
+
+https://www.expandurl.net/[ExpandURL], https://unshorten.it/[Unshorten.it], https://wheregoes.com/[WhereGoes], http://urlxray.com/[urlxray], https://unshorten.me/[unshorten]
+
+'''
+
+== Website Creators
+
+https://vitepress.dev/[vitepress], https://retype.com/[retype], https://codeberg.page/[codeberg], https://gohugo.io/[GoHugo], https://soupault.app/[SouPalt], https://github.com/charludo/barely[Barly], https://www.getzola.org/[Zola], https://jamstack.org/generators/[Jamstack Generators], https://jekyllrb.com/[Jekyll], https://devdojo.com/tails[Tails], https://www.vvveb.com/[vveb], https://potion.so/[Potion], https://8b.com/[8b], https://webflow.com/[WebFlow], https://www.easylogic.studio/[EasyLogic], https://onuniverse.com/[Universe], https://www.website.com/[Website.com], https://grapedrop.com/[GrapeDrop], https://specctr.com/cloud/home[Specctr], https://astro.build/[Astro], https://typedream.com/[TypeDream], https://processwire.com/[Processwire], https://sites.google.com/new[Google Sites], https://www.angelfire.lycos.com/[AngelFire]
+
+=== Simple Site Creators
+
+https://straw.page/[Straw.Page], https://www.own-free-website.com[Own Free Website], https://itty.bitty.site/[itty.bitty], https://build.mmm.page/[mmm], https://cargo.site/[cargo], https://jigsy.com/[Jigsy], https://temper.one/[Temper], https://neocities.org/[Neocities], https://mobirise.com/[Mobirise], https://www.silex.me/[Silex], https://getpublii.com/[Publii], https://11ty.dev/[Eleventy], https://nekoweb.org/[nekoweb]
+
+'''
+
+== Website Templates
+
+* https://github.com/h5bp/html5-boilerplate[Boilerplate] - Website Frontend Template HTML5
+
+https://bootstrapmade.com/[Bootstrap], https://themewagon.com/[TheMeWagon], https://nicepage.com/website-templates[nicepage], https://www.templatemo.com/[Templatemo], https://www.tooplate.com/[Tooplate], https://www.cssbed.com/[CSS Bed], https://repth.neocities.org/theme[Repth Themes], https://www.beercss.com/[beercss] / https://github.com/beercss/beercss[GitHub], https://www.free-css.com/free-css-templates[free-css-templates], https://www.zerotheme.com/[zerotheme], https://html5up.net/[html5up], https://templated.co/[templated], https://www.html5xcss3.com/[html5xcss3]
+
+'''
+
+== Web Archiving
+
+* 🌐 *https://github.com/lorien/awesome-web-scraping[awesome-web-scraping]* / https://github.com/iipc/awesome-web-archiving[2] / https://github.com/BruceDone/awesome-crawler[3]
+* ⭐ *https://github.com/MorvanZhou/easy-scraping-tutorial[Web Scraping Tutorial]*
+* ⭐ *https://github.com/evilsh3ll/datahoarder-website-to-markdown[datahoarder-website-to-markdown]* - Index to Markdown Archiving Tool
+* https://webrecorder.net/[webrecorder],
+* https://github.com/internetarchive/heritrix3[Heritrix]
+* https://github.com/machawk1/wail[wail]
+* https://80legs.com/[80legs]
+* https://crawly.diffbot.com/[crawly]
+* https://replayweb.page/[replayweb] - View Archive Format Files
+
+=== Archiving Services
+
+* ⭐ *https://web.archive.org/[Wayback Machine]*
+* ⭐ *Wayback Machine Tools* - https://tracker.archiveteam.org/[ArchiveTeam Contribute] / https://github.com/hartator/wayback-machine-downloader[Downloader], https://github.com/jsvine/waybackpack[2] / https://wayback-classic.net/[Classic Frontend] / https://github.com/internetarchive/wayback-machine-webextension[Extension], https://vegetableman.github.io/vandal/[2] / https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wayback_machine_extension[Addon] / https://github.com/overcast07/wayback-machine-spn-scripts[Script] / https://docs.wabarc.eu.org/[Toolkit] / https://liamswayne.github.io/Super-Archiver/[Multi-URL] / https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox[Auto Load]
+* ⭐ *https://archive.is/[Archive.is]* / https://archive.li/[.li] / https://archive.ph/[.ph] / https://archive.vn/[.vn] / https://archive.fo/[.fo] / https://archive.md/[.md]
+* ⭐ *https://cachedview.nl/[cachedview]*, *https://github.com/dessant/web-archives[Web Archives]*, https://cipher387.github.io/quickcacheandarchivesearch/[quickcache], https://github.com/Albirew/resurrect-pages-isup-edition[resurrect-pages] - Aggregate Cache Results
+* https://perma.cc/[Perma.cc]
+* https://www.archiveforever.xyz/[archiveforever]
+* https://ghostarchive.org/[ghostarchive]
+* https://hozon.site/[hozon]
+* https://arquivo.pt/?l=en[Arquivo.pt]
+
+=== Local Archiving
+
+* ⭐ *https://github.com/ArchiveBox/ArchiveBox[ArchiveBox]*
+* ⭐ *https://www.httrack.com/[HTTrack]* / https://rentry.co/cloneasite[Guide]
+* ⭐ *https://github.com/deathau/markdownload[MarkDownload]* - Get Markdown of a page
+* ⭐ *https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah[Instant Data]*
+* https://www.kiwix.org/en/[Kiwix] / https://practicalbetterments.com/download-all-of-wikipedia-on-your-phone/[Wiki DL Guide]
+* https://www.cyotek.com/cyotek-webcopy[cyotek-webcopy]
+* https://github.com/AhmadIbrahiim/Website-downloader[Website-downloader]
+* https://archiveweb.page/[archiveweb]
+* https://www.archivematica.org/[archivematica]
+* https://github.com/skallwar/suckit[suckit]
+* https://github.com/dosyago/DownloadNet[DownloadNet]
+* https://gitlab.com/gnuwget/wget2[wget2] / https://www.whatismybrowser.com/developers/tools/wget-wizard/[Commands]
+* https://github.com/soimort/you-get[you-get]
+* https://github.com/archivy/archivy/[archivy]
+* https://web.scraper.workers.dev/[web.scraper]
+* https://github.com/WikiTeam/wikiteam[WikiTeam]
+* https://github.com/ArchiveTeam/grab-site[grab-site]
+* https://github.com/wallabag/docker[wallabag]
+* https://erap320.github.io/CrowLeer/[CrowLeer]
+* https://github.com/internetarchive/brozzler[brozzler]
+* https://github.com/harvard-lil/scoop[Scoop]
+* https://github.com/tholian-network/stealth[stealth]
+* https://xdan.ru/copysite/[CopySite]
+* https://github.com/everdrone/grab[grab]
+
+'''
+
+== WordPress Themes
+
+https://gpldl.com/[gpldl], https://www.wplocker.com/[wplocker], https://weadown.com/[Weadown], https://www.crackthemes.com/[crackthemes], https://rentry.co/FMHYBase64#wordpress-themes[Mega Drive], https://babia.to/[babiato], https://newtemplate.net/[newtemplate], https://justfreewpthemes.com/[justfreewpthemes], https://themesplugins.club/[themesplugins], https://t.me/wpthemesandplugins[wpthemesandplugins]
+
+'''
+
+== YouTube Movies
+
+* https://www.youtube.com/feed/storefront?bp=ogUCKAY%3D[Official YouTube Movies] - Chrome required
+* https://www.reddit.com/user/nbatman/m/streaming/[YT Movies Multireddit] - YouTube Streaming Subs
+* https://www.openculture.com/freemoviesonline[OpenCulture]
+* https://rentry.co/YT-Movies[YouTube Streaming Channels]
+* https://vole.wtf/voleflix/[Voleflix]
+* https://videodictionary.kwebpia.net/?m=Full_Movies[Video Dictionary]
+* https://moviesfoundonline.com/[MoviesFoundOnline]
+* https://www.youtube.com/c/FREEMOVIESNOW/featured[FREEMOVIESNOW]
+* https://www.freegreatmovies.com/[FreeGreatMovies]

@@ -1,0 +1,64 @@
+= Monthly Updates [April]
+:aside: left
+:date: 2023-04-01
+:description: April 2023 updates.
+:footer: true
+:next: false
+:prev: false
+:sidebar: false
+
++++<Post authors="['nbats']">++++++</Post>+++
+
+*Wiki Updates*
+
+* Added
+https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai[🤖 Artificial Intelligence]
+section.
+* Added Optimization, Tabletop, and Git Gud subsections in
+link:/gamingpiracyguide/#gaming-tools[Gaming].
+* Split
+link:/edupiracyguide/#language-learning[Language Learning]
+into subsections.
+* Split link:/miscguide/#shopping[Shopping] into subsections.
+* Split the learning portion of link:/devtools/[Dev Tools]
+into subsections.
+* Added Art Education section to
+link:/img-tools/#art-education[Image Tools].
+* Added NoFap section to NSFW to save souls.
+* Added https://imgur.com/a/YXWUZun[New Headers] to the subreddit.
+
+'''
+
+*Stars Added* ⭐
+
+* Starred link:/ai/#ai-chatbots[ChatPDF] in AI chatbots. AI
+that turns any book into a chatbot.
+* Starred link:/videopiracyguide/#drives--directories[Foogle]
+in Video Download. Fast, single click video downloads.
+* Starred link:/videopiracyguide/#dedicated-hosts[JustChill]
+in Streaming Sites. Nice UI, fast 1080p.
+* Starred link:/videopiracyguide/#multi-hosts[movie-web]
+Streaming Sites. Nice UI, fast 1080p.
+* Starred link:/videopiracyguide/#multi-hosts[Primewire] in
+Streaming Sites. Primewire has started adding links to pirated content again.
+* Starred https://wotaku.pages.dev/[Wotaku] in Indexes. Awesome Japanese
+piracy index.
+* Starred link:/downloadpiracyguide/#software-sites[RLSLOAD]
+in software sites. Software site with single click downloads.
+* Starred link:/img-tools/#screenshot-tools[Flameshot] in
+Screenshot Tools. Some people like this more than ShareX.
+
+'''
+
+*Things Removed*
+
+* Removed FTUApps. FTU got caught with https://redd.it/120xk62[malware] by
+/r/Piracy.
+* Removed star from FileCR. They added new anti-adblock measures recently, and
+adblock defenders are no longer working for many users.
+* Removed anti-anti-copy userscript. Script enables F7 "Caret Browsing mode"
+without telling the user its been enabled, or how to turn it off.
+
+'''
+
+'''

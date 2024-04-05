@@ -1,0 +1,205 @@
+:doctype: book
+
+'''
+
+'''
+
+*https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index[◄◄ Back to Wiki Index]*
+_**
+**_
+
+= ► https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn[VPN Guide]
+
+'''
+
+= ► Torrent Clients
+
+*Warning* - Make sure you https://redd.it/ssy8vv[BIND] your VPN to your client to avoid ISP letters.
+
+'''
+
+* ⭐ *https://www.qbittorrent.org/[qBittorrent]* - https://i.ibb.co/ZBWZLvB/8519077d9320.png[Screenshot] / https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools[Tools]
+* ⭐ *https://www.deluge-torrent.org/[Deluge]* - https://i.ibb.co/HdwCH5Q/678a01f3b439.png[Screenshot] / https://dev.deluge-torrent.org/wiki/Plugins[Plugins] / https://github.com/ratanakvlun/deluge-ltconfig/releases[Config] / https://github.com/noam09/deluge-telegramer[Telegram Plugin]
+* ⭐ *https://transmissionbt.com/[Transmission]* - https://i.ibb.co/z550kRy/571b08f4981e.png[Screenshot]
+* ⭐ *https://github.com/Mika-/torrent-control[torrent-control]* or https://github.com/bogenpirat/remote-torrent-adder[Remote Torrent Adder] - Easily Send Torrents to Client
+* ⭐ *https://tixati.com/[Tixati]* - https://i.ibb.co/tPfyPRQ/b0683ce2eb49.png[Screenshot]
+* https://motrix.app/[Motrix] - https://i.ibb.co/SQqrdpW/2950c09df08a.png[Screenshot] / https://github.com/agalwood/Motrix[GitHub]
+* https://wiztorrent.com/[WizTorrent] - https://i.ibb.co/7zbQ9Yt/O3VbklP.jpg[Screenshot] / Torrent Player / WebShare
+* https://picotorrent.org/[Picotorrent] - https://i.ibb.co/Pz4qb8Q/df96c0ff3912.png[Screenshot]
+* https://www.biglybt.com/[BiglyBT] - https://i.ibb.co/5TRkt1t/bfe91a771679.png[Screenshot]
+* https://codecpack.co/download/LIII-BitTorrent-Client.html[LIII] - https://i.ibb.co/jRJR1cX/cecb8c47451d.png[Screenshot]
+* https://www.pikatorrent.com/[PikaTorrent] - https://ibb.co/zGyT1tc[Screenshot] / https://github.com/G-Ray/pikatorrent[GitHub]
+* https://distribyted.com/[Distribyted] - https://i.ibb.co/m8TQBPh/f5dfcb4b192f.png[Screenshot] / https://github.com/distribyted/distribyted[GitHub]
+* https://github.com/drakonkat/Crawfish[Crawfish] - https://i.ibb.co/DVVVdpG/8406bc7e0a39.png[Screenshot]
+* https://github.com/GopeedLab/gopeed[GoSpeed] - https://github.com/GopeedLab/gopeed/blob/main/_docs/img/ui-demo.png[Screenshot]
+* https://www.tribler.org/[Tribler] - Tor-inspired Client / https://i.ibb.co/k4jt0FJ/20d3bd279896.png[Screenshot] / https://github.com/Tribler/tribler[GitHub]
+* https://aria2.github.io/[aria2] - Terminal Torrent Client / https://i.ibb.co/SmsxmW3/3e213c54b148.png[Screenshot] / https://github.com/aria2/aria2[GitHub] / https://github.com/gaowanliang/DownloadBot[Download Bot] / https://github.com/persepolisdm/persepolis[GUI] / https://ariang.mayswind.net/[Frontend] / https://github.com/ziahamza/webui-aria2[WebUI] / https://persepolisdm.github.io/[GUI]
+* https://xd-torrent.github.io/[XD-Torrent] - Anonymous P2P Torrent Client
+* https://github.com/SuRGeoNix/BitSwarm/[BitSwarm] - Bittorrent Client Library
+* https://instant.io/[Instant.io] - Stream Torrents in Browser
+* https://btorrent.xyz/[BTorrent] - Stream Torrents in Browser
+* https://ferrolho.github.io/magnet-player/[Magnet Player] - Stream Torrents in Browser
+* https://github.com/astro/bitford[BitFord] - Chrome
+* https://github.com/DEgITx/rats-search[Rats Search] - Torrent Search Client / https://github.com/DEgITx/rats-search#screenshots[Screenshot]
+* https://decentnet.github.io/blog/20200329-download-torrents-through-i2p.html[Download Torrents Through I2P]
+* https://flood.js.org/[flood] - rTorrent, Transmission & qBittorrent WebUI / https://github.com/jesec/flood[GitHub]
+
+'''
+
+== ▷ Remote Torrenting
+
+* ↪️ *https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_gdrive[Torrent to GDrive]*
+* ⭐ *https://multiup.io/en/upload/from-torrent[Multi-Up]* - Torrent to DDL Sites / https://pastebin.com/0aPaPqN9[Bypass 10GB Limit]
+* ⭐ *https://webtor.io/[webtor]* - Torrent to Cloud and Stream / https://greasyfork.org/en/scripts/481975[Send Magnets]
+* ⭐ *https://www.seedr.cc/[Seedr]* - https://t.me/TorrentSeedrBot[Telegram Bot] / https://github.com/theabbie/seedr-api[API Wrapper], https://github.com/AnjanaMadu/SeedrAPI[2] - Torrent to Cloud and Stream
+* https://bitport.io/welcome[Bitport] - Torrent to Cloud and Stream
+* https://www.torrentsafe.com/[TorrentSafe] - Torrent to Cloud and Stream
+* https://my.torrentcheap.com/[TorrentCheap] - Torrent to Cloud and Stream
+* https://zbigz.com/[ZBIGZ] - Torrent to Cloud and Stream
+* https://www.loadbt.com/[Loadbt] - Torrent to Cloud and Stream
+* https://torbox.app/[TorBox] - Torrent to Cloud
+* http://demagnetize.link/[Demagnetize] - Torrent to DDL
+
+'''
+
+== ▷ https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_torrenting[Android Clients]
+
+'''
+
+== ▷ https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_torrenting[iOS Clients]
+
+'''
+
+= ► Torrent Sites
+
+*Warning* - It's best to avoid sites that allow anyone to upload without consequences when getting both software and games. Avoid users in the https://fmhy.net/unsafesites[Unsafe] or https://rentry.org/pgames#untrusted-uploaders[Untrusted] lists.
+
+'''
+
+* ⭐ *https://rutracker.org/[RuTracker]*, https://rutracker.nl/[2], https://rutracker.net/[3] - Video / Audio / Games / Software / Android / Comics / Magazines
+* ⭐ *RuTracker Tools* - https://addons.mozilla.org/en-US/firefox/addon/rutracker_torrent_search/[Addon] / https://github.com/nikityy/rutracker-api[Search API] / http://rutracker.wiki/[Wiki] / https://rutracker.org/forum/viewtopic.php?t=1045[Rules] / https://github.com/FilipePS/Traduzir-paginas-web#install[Translator]
+* ⭐ *https://torrentgalaxy.to/[TorrentGalaxy]* - Video / Audio / NSFW / https://proxygalaxy.me/[Mirrors]
+* ⭐ *https://w14.monkrus.ws/[m0nkrus]* - Adobe Software Archive / https://dvuzu.github.io/monkrus-search[Search Engine] / https://rentry.co/adobesoftware[How-to]
+* ⭐ *https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj[Torrent CSE]* / https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n[CSE 2] - Multi Site Search
+* https://1337x.to/[1337x] - Video / Audio / NSFW / https://pastebin.com/8AaMuz5u[Avoid Software]
+* 1337x Tools - https://1337x.to/about[Mirrors] / https://i.ibb.co/WfNhvtB/ebc2def26433.png[User Ranks] / https://github.com/brandongallagher1999/1337x-Bot[Discord Bot] / https://t.me/search_content_bot[Telegram Bot], https://github.com/xbIm/1337x-torrent-telegram-bot[2] / https://github.com/kotylo/1337imdb[IMDb Ratings] / https://redd.it/tz7nyx[Proxy], https://pastebin.com/3n5K0QrP[2] / https://greasyfork.org/en/scripts/33379[Enhancements] / https://greasyfork.org/en/scripts/373230[Magnets] / https://greasyfork.org/en/scripts/29467[Subtitles] / https://greasyfork.org/en/scripts/421635[Timezone Fix]
+* https://glodls.to[GloTorrents] - Video / Audio / Books / NSFW
+* https://www.magnetdl.com/[MagnetDL], https://www.magnetdl.org/[2] - Video / Audio / Books / http://r5cena7erxpnxomyvoybuxh6fkgs55qqdg7bobf6yjx4j6vmywrqvlid.onion/[Onion]
+* https://www.limetorrents.lol/[LimeTorrents] - Video / Audio / Books
+* https://isohunts.to/[IsoHunt] or https://isohunt.nz/[IsoHunt.nz] - Video / Audio / Books
+* https://ext.to/[ExT], https://search.extto.com/[2] - Video / Audio / Books
+* https://extratorrent.st/[ExtraTorrent] - Video / Audio / Books / NSFW
+* https://rutor.info/[rutor.info] or https://rutor.is/[rutor.is] - Video / Audio / Books / ROMs / Magazines / Use https://github.com/FilipePS/Traduzir-paginas-web#install[Translator]
+* https://nnmclub.to/[NNM-Club] - Video / Audio / https://i.ibb.co/MPRttDC/6a35c3c79cde.png[Note]
+* https://torrentz2k.xyz/[Torrentz2k] - Video / Audio / NSFW
+* https://www.torrenting.com/[Torrenting] - Video / Audio / Books / NSFW / Signup Required
+* https://infogalactic.com/info/Tigole#Getting_Tigole_torrents[Tigole] - Torrent Index
+* http://127.0.0.1:43110/ZeroTorrent.bit/[ZeroTorrent] - https://zeronet.io/[ZeroNet Required] / Video / Audio
+* https://boards.4chan.org/t/[4chan /t/] - Torrents / Imageboard / Some NSFW
+
+'''
+
+== ▷ Aggregators
+
+*Warning* - Aggregators include many sources, so it's best to avoid using them for software and games. Avoid users in the https://fmhy.net/unsafesites[Unsafe] or https://rentry.org/pgames#untrusted-uploaders[Untrusted] lists.
+
+'''
+
+* ⭐ *https://btdig.com/index.htm[BTDigg]* - http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/[.onion], https://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion.ly/[2] / http://btdigg.i2p/[i2p]
+* ⭐ *https://snowfl.com/[snowfl]*
+* ⭐ *https://knaben.eu/[Knaben]*
+* ⭐ *https://solidtorrents.to/[SolidTorrents]*, https://solidtorrents.eu/[2]
+* ⭐ *https://torrentz2.nz/[Torrentz2]*
+* https://idope.se[iDope]
+* https://bitsearch.to/[Bitsearch]
+* https://torrent-finder.com/[Torrent Finder]
+* https://www.torrentdownload.info/[TorrentDownload]
+* https://torrentquest.com/[TorrentQuest]
+* https://damag.net/[DaMag]
+* https://cleanbay.netlify.app/[Cleanbay]
+* https://torrends.to/[Torrends]
+* https://cloudtorrents.com/[CloudTorrents]
+* https://btmet.com/[BTMET]
+* https://bt4gprx.com/[BT4G]
+* https://www.torlock.com/[Torlock], https://www.torlock2.com/[2]
+* https://torrentproject.cc/[TorrentProject], https://torrentproject2.net/[2]
+* https://www.0mag.net/[0Mag], https://16mag.net/[2]
+* https://www.torrentdownloads.pro/[TorrentDownloads]
+* https://www.concen.org/torrents[concen]
+* https://www.btsearch.love/en[BTSearch]
+* https://extranet.torrentbay.to/[EXT Torrents]
+* https://torrentseeker.com[TorrentSeeker]
+* https://www.torrentzeta.com/[Torrentzeta]
+* https://veoble.com/torrent/[Veoble]
+* https://t.me/TorrentSearchRoBot[TorrentSearchRobot] - Telegram Torrent Search
+* https://github.com/sergiotapia/magnetissimo[Magnetissimo] - Magnet Web App Search
+* https://github.com/sergiotapia/torrentinim[Torrentinim] or https://bitmagnet.io/[BitMagnet] - Self-Hosted Torrent Search Engines
+* https://t.me/torrentsearcher_bot[torrentsearcher_bot], https://t.me/torrenthuntbot[torrenthuntbot] or https://t.me/FDTorrentSearchBot[FDTorrentSearchBot] - Telegram Torrent Search Bot
+
+'''
+
+== ▷ https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_sites[Video Sites]
+
+'''
+
+== ▷ https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_anime_torrenting[Anime Sites]
+
+'''
+
+== ▷ https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_torrenting[Educational Sites]
+
+'''
+
+== ▷ https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games[Game Sites]
+
+'''
+
+== ▷ https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25BA_audio_torrenting[Audio Sites]
+
+'''
+
+= ► Tracker Invites
+
+* 🌐 *https://rentry.co/private-trackers[Private Trackers General]* or https://wiki.installgentoo.com/wiki/Private_trackers[Private Trackers Guide] - Private Tracker Guides
+* 🌐 *https://opentrackers.org/links/warez-scene/#scenerelated[Scene Related]* - Warez / Scene Site Index
+* ⭐ *https://inviteroute.github.io/graph/[Graph]* - Private Tracker Connections Guide
+* ⭐ *https://trackerstatus.info/[TrackerStatus]* - Tracker Status Updates
+* https://github.com/NDDDDDDDDD/TrackerChecker[TrackerChecker] - Check if Private Trackers Open Signups
+* https://reddit.com/r/trackers[/r/trackers] - Tracker Discussion
+* https://www.reddit.com/r/trackersignups/[/r/trackersignups], https://www.reddit.com/r/OpenSignups/[/r/OpenSignups] or https://www.reddit.com/r/OpenedSignups/[/r/OpenedSignups] - Open Tracker Signup Subs
+* https://theshow.click/login.php[TheShow] - Open Registrations
+* https://www.myanonamouse.net/[MyAnonaMouse] - Open Applications
+* https://hdvinnie.github.io/Private-Trackers-Spreadsheet/[hdvinnie] - Open Tracker Invites
+* https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/[Tracker Tracker] - Open Tracker Invites
+* https://t.me/trackersignup[OpenSignups] - Open Signups Private Trackers / Telegram
+* https://github.com/L4GSP1KE/Upload-Assistant[Upload-Assistant] - Private Tracker Auto-Upload
+* https://bemaniso.ws/[Bemaniso] - Torrent Tracker
+* https://github.com/KlevGG/TrackerScreenshot[TrackerScreenshot] - Auto Screenshot Tracker Stats
+
+'''
+
+= ► Helpful Sites / Apps
+
+* 🌐 *https://ngosang.github.io/trackerslist/[ngosang]* / https://ngosang.github.io/trackerslist/trackers_all.txt[2], https://trackerslist.com/[trackerslist] / https://github.com/XIU2/TrackersListCollection[GitHub] or https://newtrackon.com/list[NewTrackOn] - Tracker Lists
+* 🌐 *https://redd.it/hbwnb2[Auto Torrent Tools List]* / https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps[2]
+* ⭐ *https://milkie.cc[Milkie]* / https://discord.com/invite/E4khNy5dz3[Discord], https://scnlog.me[Scnlog] or https://predb.me[PreDB.me] - Scene Release Download
+* ⭐ *https://www.xrel.to[Xrel]*, https://predb.de[PreDB.net], https://www.srrdb.com[srrDB] or https://m2v.ru[M2V] - Scene Release İnfo
+* ⭐ *https://nutbread.github.io/t2m/[T2M]* / https://github.com/nutbread/t2m[2], https://btsow.motorcycles/[btsow] or https://www.torrentkitty.tv/[Torrent Kitty] / https://www.torrentkitty.net/[2] / https://www.torrentkitty.lol/[3] - Torrent to Magnet Converters
+* ⭐ *https://magnet2torrent.com/[Magnet2Torrent]* - Magnet to Torrent Converter
+* ⭐ *https://i.ibb.co/HHqC4V2/11e244ddbdfb.png[Torrent Legality]* - Torrenting Laws by Country
+* https://github.com/enzobes/WarezBot[WarezBot] - Discord Scene Release Tracker
+* https://btcache.me/[btcache], https://itorrents.org[iTorrents] or https://torrage.info/[Torrage] - Torrent Storage Cache
+* https://infotorrent.tnl.one/[InfoTorrent] or https://checker.openwebtorrent.com/[Webtorrent Checker] - Check Torrent File Health
+* https://torrenttags.com/[TorrentTags] - Check Torrents for Copyright Claims
+* https://maglit.me/[MagLit] - Magnet Link Shorteners
+* https://magnetlinkgenerator.com/[Magnet Link Generator] - Magnet Link Generator
+* https://hutstep.github.io/magnet2list/[magnet2list] - Convert Magnets to Tracker Lists
+* https://t.me/rssfeedz[RSSFeedz] - Torrent RSS Feed
+* https://openwebtorrent.com/[OpenWebTorrent] - Free Webtorrent Tracker
+* https://autodl-community.github.io/autodl-irssi/[AutoDL-Irssi] - IRC Channel Monitor / Autodownload / https://gist.github.com/Igglybuff/00d5e91274a562ac724d358bbbc8bc7b[Slack Notifications]
+* https://privtracker.com/[PrivTracker] - Private BitTorrent Tracker Generator / https://github.com/meehow/privtracker[GitHub]
+* https://www.anonseed.com/[AnonSeed] - Anonymous Torrent Sharing
+* https://github.com/Kimbatt/torrent-creator[Torrent-Creator] - Browser Torrent Creator
+* https://torrent.parts/[Torrent Parts] or https://torrent-file-editor.github.io/[Torrent File Editor] - Edit Torrents Files
+* https://reddit.com/r/torrents[/r/torrents] or https://reddit.com/r/vpntorrents[r/VPNTorrents] - Torrenting Discussion
+* https://iknowwhatyoudownload.com/[IKnowWhatYouDownload] - View Torrents Downloaded by your IP (can be inaccurate)

@@ -1,0 +1,73 @@
+= Monthly Updates [May]
+:aside: left
+:date: 2023-05-01
+:description: May 2023 updates.
+:footer: true
+:next: false
+:prev: false
+:sidebar: false
+
++++<Post authors="['nbats']">++++++</Post>+++
+
+*Wiki Updates*
+
+* Added *https://rentry.org/The-Piracy-Glossary[The Piracy Glossary ☠️]*,
+where we've organized and given explanations to every piracy related term we
+could think of.
+* Added Optimization, Tweaking, Virtual Machines and Terminal / CLI subsections
+to link:/system-tools[System Tools].
+* Added Chat / Forums, Image / Video, Interactive, Interesting and Random
+subsections to link:/miscguide/#fun-sites[Fun Sites].
+* Added link:/miscguide/#gardening[Gardening] section to
+Miscellaneous.
+* Made a
+link:/downloadpiracyguide/#software-sites[Software CSE] out
+of the software sites.
+
+'''
+
+*Stars Added* ⭐
+
+* Starred
+link:/gamingpiracyguide/#download-games[Torrminatorr] in
+Gaming Sites. Tormminatorr is back!
+* Starred link:/gamingpiracyguide/#download-games[GOG Games]
+in Gaming Sites. Gog is back on clearnet!
+* Starred link:/downloadpiracyguide/#software-sites[FileCR]
+in Software Sites. FileCR has removed their anti-adblock.
+* Starred
+link:/videopiracyguide/#dedicated-hosts[Streaminal-TV] in
+Streaming Sites. Nice UI, fast 1080p.
+* Starred
+link:/videopiracyguide/#anime-downloading[TokyoInsider] in
+Anime Downloading. Anime site with single click DDLs.
+* Starred link:/readingpiracyguide/#manga-sites[Cubari] in
+Manga Sites. Multi-site manga scraper.
+* Starred https://addons.mozilla.org/en-US/firefox/addon/foxytab/[FoxyTab],
+https://addons.mozilla.org/en-US/firefox/addon/zoom-page-we/[Zoom Page WE]
+and
+https://addons.mozilla.org/en-US/firefox/addon/scroll_anywhere/[Scroll Anywhere]
+in Browser Extensions.
+* Starred link:/miscguide/#random[PokeSmash] in Fun Sites.
+* Re-added + starred
+link:/videopiracyguide/#cartoon-streaming[WCO] in Cartoon
+Streaming. This went paid for a bit, but seems to be free again.
+* Re-added + starred
+link:/android-iosguide/#android-streaming[CloudStream] in
+Android Streaming. Some extensions are still getting updates.
+
+'''
+
+*Things Removed*
+
+* Unstarred WebOasis in Indexes. Doesn't seem to be getting updated anymore. RIP
+Webby.
+* Unstarred UniqueStream, HDMovieBox and Pirate-Media in streaming for being
+slow / dead.
+* Unstarred Soft98 in software as most downloads are dead.
+* Removed Midjourney in Image Gen as its
+https://youtu.be/EHnUydrurmk[no longer free].
+
+'''
+
+'''

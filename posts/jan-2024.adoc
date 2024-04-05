@@ -1,0 +1,121 @@
+= Monthly Updates [Jan] Happy New Year!
+:aside: left
+:date: 2024-01-01
+:description: Happy New Year to our FMHY family.
+:doctype: book
+:footer: true
+:next: false
+:pp: {plus}{plus}
+:prev: false
+:sidebar: false
+
++++<Post authors="['nbats', 'zinklog', 'Q', 'Kai', 'taskylizard']">++++++</Post>+++
+
+Hi everyone, happy new year! As we bid farewell to '23, let's take a moment to
+reflect on the remarkable journey FMHY has had this year:
+
+* We made a new website, enriched with an array of handcrafted features (by me,
+of course) to enhance your experience and make browsing the wiki pleasant on
+all devices (mobile included!)
+* We opened our Discord server and reached 10k members, which introduced many
+new great people to this community and made contribution easy
+* We've reached 250k+ members and 31 million views on reddit!
+* Our FMHYedit repository oversaw an impressive 1k+ pull requests made by the
+community and merged over 8k commits!
+* This wiki has grown to be more than just a piracy index, so we felt it's about
+time other sections get some love. As such, we organized and separated tools
+sections into their own pages, which allowed us to move a lot of useful tools
+out of storage and make it a lot easier to discover them
+* We started the debloat arc of FMHY and went from 27k links to 24k! We've
+removed a lot of dead, useless, and niche links / categories, as well as
+re-organized a lot of sections for better clarity and easier navigation
+
+As we enter 2024, we eagerly anticipate building on our achievements and
+evolving together. FMHY wouldn't be what it is today without the love and
+support of everyone in this community. Thank you for being an integral part of
+FMHY. Here's to another year of growth and success! 💙
+
+= Wiki Updates
+
+* Made our own instances for both *https://searx.fmhy.net/[SearX]* +
+*https://whoogle.fmhy.net/[Whoogle]*.
+* Made a link:/posts[Posts] page on our site, so you can see all
+updates without needing reddit. You can also follow via
+link:/feed.rss[RSS].
+* Created a new category for
+link:/social-media-tools[Social Media Tools], and added
+subsections for popular sites that needed them. (Reddit, Discord, YouTube
+etc.)
+* Added sections for
+link:/audiopiracyguide#game-soundtracks[Game Soundtracks],
+link:/downloadpiracyguide#irc-tools[IRC Tools] and
+link:/devtools#coding-ais[Coding AIs].
+* Split Career into subsections:
+link:/miscguide#remote-jobs[Remote Jobs],
+link:/miscguide#tech-jobs[Tech Jobs],
+link:/miscguide#startup[Startup] and
+link:/miscguide#finance-crypto[Finance / Crypto]
+* Split Game Mods into subsections:
+link:/gamingpiracyguide#mod-indexes[Mod Indexes] and
+link:/gamingpiracyguide#game-mods[Single Mods]
+* Split News into subsections:
+link:/miscguide#aggregators[Aggregators] and
+link:/miscguide#tech-news[Tech News]
+* Re-organized both
+link:/android-iosguide#operating-systems[Android Operating Systems] +
+link:/android-iosguide#app-launchers[App Launchers], and moved
+them out of storage.
+
+'''
+
+= Stars Added ⭐
+
+* Starred link:/videopiracyguide#streaming-sites[Braflix] in
+Streaming Sites. Fast streams, no ads, nice UI, 4K + 1080p.
+* Starred link:/readingpiracyguide#ebooks[Liber3] in Reading Sites.
+Big library, nice UI, single click downloads.
+* Starred link:/video-tools#video-players[Screenbox] in Video
+Players. Open-source, VLC based video player with nice UI.
+* Starred link:/social-media-tools#discord-clients[Vesktop] in
+Discord Clients. Lightweight desktop client built with Vencord.
+* Starred link:/ai#proprietary-llms[SydneyQt] in AI Chatbots.
+Jailbroken Bing AI.
+* Starred link:/android-iosguide#foss-apks[App Manager] in FOSS
+APKs. Open-source Android app package manager.
+* Starred link:/android-iosguide#android-device[scrcpy] in Android
+Tools. Manage mobile devices via desktop.
+* Starred link:/android-iosguide#android-device[KernelSU] in
+Android Device. Root tool that some people prefer over Magisk.
+* Starred link:/android-iosguide#ios-privacy[Onion Browser] in iOS
+Privacy. Recommended by Tor on their site.
+* Starred link:/gamingpiracyguide#homebrew[Wii Guide] in Homebrew.
+* Starred link:/video-tools#video-tools-1[Video2x] in Video Tools.
+Lossless video/GIF/image upscaler.
+* Starred link:/system-tools#windows-updates[VCRedist] in Windows
+Updates. Easily download all Microsoft Visual C{pp} redists.
+* Starred link:/adblockvpnguide#privacy-extensions[CanvasBlocker]
+in Privacy Extensions. Prevent Javascript API fingerprinting.
+
+'''
+
+= Things Removed
+
+* Removed SevenGamers as they've
+https://i.imgur.com/C5sgVqI.png[decided to shut down].
+* Removed YasDL as they uploaded a version of StarDock with the same malware
+that filecr and others have gotten removed for.
+* Removed Torrentz2 as they've stopped indexing new torrents.
+* Unstarred LookMovie as they've added a
+https://i.imgur.com/I0D9Hyt.png[10 second wait] before videos play.
+* Unstarred DS4Windows in gaming tools. You can just add games to steam and turn
+on PS4 controller support by right clicking the game.
+* Unstarred Ideogram as its no longer unlimited.
+* Removed EveryNoiseAtOnce as the dev has been
+https://i.imgur.com/AaIrcAc.png[let go from Spotify].
+* Removed CryptoStorm as its https://i.imgur.com/VDlSY1T.png[possibly unsafe].
+The owner has no ties to it anymore apparently, but its still hard to trust a
+company with a history this dark.
+* Removed our backups from NotABug. Their site goes down nearly
+https://i.imgur.com/Vx8Ou68.png[every day] at this point, and its become a
+nightmare to keep 25 wiki pages updated there. If they ever fix their issues
+we may bring it back.

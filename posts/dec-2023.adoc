@@ -1,0 +1,92 @@
+= Monthly Updates [December] 250k members!!
+:aside: left
+:date: 2023-12-01
+:description: Thank you all for 250K members! ♡
+:footer: true
+:next: false
+:prev: false
+:sidebar: false
+
++++<Post authors="['nbats', 'taskylizard']">++++++</Post>+++
+
+'''
+
+*Wiki Updates*
+
+* Separated Tool sections into their own pages: link:/system-tools[System Tools],
+link:/file-tools[File Tools], link:/internet-tools[Internet Tools],
+link:/text-tools[Text Tools],
+link:/video-tools[Video Tools] and
+link:/audio-tools[Audio Tools].
+* Separated Health into subsections: link:/miscguide#mental-health[Mental],
+link:/miscguide#physical-health[Physical],
+link:/miscguide#nutritional-health[Nutritional],
+link:/miscguide#sexual-health[Sexual] and
+link:/miscguide#detoxing[Detoxing].
+* Added a section for link:/gamingpiracyguide#open-source-games[Open-Source Games]
+in Gaming.
+* Added a section for link:/video-tools#animation-tools[Animation Tools] in Video
+Tools.
+* Added a section for link:/readingpiracyguide#academic-papers[Academic Papers] in
+Educational Reading.
+* Added sections for link:/img-tools#illustrations[Illustrations] and
+link:/storage#textures-patterns[Textures / Patterns] in Images.
+* Added sections in Linux for link:/linuxguide#linux-video[Video],
+link:/linuxguide#linux-audio[Audio], link:/linuxguide#linux-images[Images] and
+link:/linuxguide#file-tools[File Tools].
+* Made a https://rentry.org/piracy["safe for work"] version of our index with
+no NSFW link listed.
+* Added a https://i.imgur.com/wnOXvKG.png[collapsible list] of all the Tool
+sections to our sites sidebar.
+
+'''
+
+*Stars Added* ⭐
+
+* Starred link:/videopiracyguide#multi-server[Streamflix] in Streaming Sites. Nice
+UI, fast 1080p, ran by members of our community.
+* Starred link:/videopiracyguide#multi-server[watch.lonelil] in Streaming Sites.
+Nice UI, fast 4K + 1080p, live tv.
+* Starred link:/gamingpiracyguide#download-games[Game Bounty] in Game Download.
+Fast hosts, pre-installs, clean uploads, ran by members of our community.
+* Starred link:/storage#abandonware-games[AbandonwareGames] in Abandonware Games.
+Nice site with a big library of oldschool games.
+* Starred link:/gamingpiracyguide#steam-epic[Heroic Games Launcher] in Steam /
+Epic. Open-source Epic Games launcher.
+* Starred link:/downloadpiracyguide#download-directories[TG Archive] in Download
+Directories. Telegram file archive + search tool.
+* Starred link:/system-tools#system-debloating[BleachBit] in system debloating.
+Popular system file cleaning tool.
+* Starred link:/video-tools#youtube-download[YT-DLP-GUI] in YouTube Download. Nice
+GUI for YT-DL with single click installer.
+* Starred link:/system-tools#system-tweaks[EverythingToolbar] in System Tweaks.
+Adds lots of features to Windows toolbar.
+* Starred link:/text-tools#translators[DeepL] in Translators. People feel this
+gives some of the best results.
+* Starred link:/gamingpiracyguide#optimization-tools[Magpie] in Gaming
+Optimization. Enable AMD FSR on any game or device.
+* Starred link:/android-iosguide#ios-apps[TrollStore] in iOS Apps. Permanently
+install non-appstore iOS apps w/o pc, paid dev account or being jailbroken.
+* Starred link:/videopiracyguide#smart-tv-firestick[SmartTube] in Smart TV /
+Firestick. Ad-free YouTube app. Previously called SmartTubeNext.
+
+'''
+
+*Things Removed*
+
+* Removed both AppsTorrent and nMac as they're listed as unsafe by
+https://i.imgur.com/De9u5Ox.png[MacSerialJunkie].
+* Removed both LocalCDN and Decentraleyes as they're redundant with with
+https://blog.privacyguides.org/2021/12/01/firefox-privacy-2021-update/#localcdn-and-decentraleyes[Total Cookie Protection]
+enabled.
+* Removed NovaAI as they've
+https://www.reddit.com/r/Piracy/comments/17pzrzj/nova_oss_the_api_that_provided_free_gpt4_and/[decided to shutdown].
+* Replaced all CurseForge links with Modrinth as people feel CurseForge
+https://youtu.be/Vhdwz5apiQQ?si=xgzkQFa1S7hZNa5-[doesn't cooperate] with
+their user-base well.
+* Unstarred 12ft.io as it can no longer bypass non-javascript based paywalls.
+* Removed FileListing as they've shutdown their servers.
+* Removed GreaseMonkey as it hasn't been updated in 3 years + has a possible
+history of tracking users.
+
+'''

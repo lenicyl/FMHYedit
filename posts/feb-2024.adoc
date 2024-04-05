@@ -1,0 +1,106 @@
+= Monthly Updates [Feb]
+:aside: left
+:date: 2024-02-01
+:description: Febuary 2024 updates.
+:footer: true
+:next: false
+:prev: false
+:sidebar: false
+
++++<Post authors="['nbats']">++++++</Post>+++
+
+=== Wiki Updates
+
+* Our official pastebin, *https://pastes.fmhy.net/[snowbin]* is now live!
+Keep in mind pastes only last for 7 days, and as of now you can't make edits,
+but we may add features like this in the future.
+* Ran a https://i.imgur.com/73paJlr.png[poll] regarding streaming sites, and
+used the results to help us re-order the
+link:/videopiracyguide[streaming section.]
+* Turned Spotify into its own section w/ subsections:
+link:/audiopiracyguide#spotify-clients[Clients],
+link:/audiopiracyguide#spotify-adblockers[Adblockers],
+link:/audiopiracyguide#spotify-download[Download] and
+link:/audiopiracyguide#spotify-tools[Tools].
+* Added a section for
+link:/audiopiracyguide#media-soundtracks[Soundtracks] in Audio.
+* Added sections for
+link:/devtools#computer-science[Computer Science] and
+link:/devtools#docker-tools[Docker] in Dev Tools.
+* Added a section for
+link:/adblockvpnguide#two-factor-authentication[Two-Factor Authentication]
+in Web Privacy.
+* Re-organized link:/readingpiracyguide#magazines[Magazine Sites] +
+added filehosts to their descriptions.
+* Removed OnStream from unsafe sites. The https://rentry.co/upo2r["evidence"]
+we had listed wasn't very solid. If someone has more proof we can re-consider,
+but for now we don't have reason enough to call them unsafe. Keep in mind its
+not posted in the wiki, just removed from our unsafe list.
+* We recently moved off Netlify, and soon after a scammer
+https://i.imgur.com/rByoHnf.png[took over the domain]. If you had this page
+bookmarked we'd highly recommend you remove it, and update to our
+link:/[new domain]. We've tried reporting it to Netlify, but so
+far they haven't done anything.
+* Grammar issues have been fixed
+https://github.com/fmhy/FMHYedit/pull/1337[throughout the wiki] /
+https://github.com/fmhy/FMHYedit/pull/1340[2] /
+https://github.com/fmhy/FMHYedit/pull/1339[3]. Remember that anyone can send
+https://github.com/fmhy/FMHYedit[pull requests] to our github so don't be
+afraid to help us fix things like this.
+* Added a mirror of our site to https://fmhy.github.io/FMHYedit/[github.io].
+
+'''
+
+*Stars Added* ⭐
+
+* Starred updated guides for both
+link:/system-tools#windows-isos[Windows Piracy] and
+link:/text-tools#text-editors[Office Piracy].
+* Starred link:/file-tools#file-hosts[Buzzheavier] in File Hosts.
+No upload limit, files last forever.
+* Starred link:/internet-tools#url-tools[Linqbin] in URL Tools.
+Privacy focused temp link shortener/pastebin, made by one of our discord mods.
+* Starred link:/gamingpiracyguide#game-repacks[Gnarly Repacks] in
+Game Repacks + ROMs. Trusted repacker who's been around for years.
+* Starred link:/videopiracyguide#multi-server[PrimeFlix] in
+Streaming Sites. Nice UI, fast 1080p, lots of hosts.
+* Starred link:/videopiracyguide#download-sites[LightDLMovies] in
+Video Download. Fast, single click, 1080p downloads.
+* Starred link:/videopiracyguide#anime-downloading[Flugel Anime] in
+Anime DDL. Archive of nyaa.si with fast downloads.
+* Starred
+link:/social-media-tools#fediverse-tools[Divisions by zero] in
+Fediverse Tools. The best piracy focused instance on Lemmy.
+* Starred link:/downloadpiracyguide#software-sites[CRACKSurl] in
+Software Sites. Clean scans + admins are members of FMHY.
+* Starred link:/readingpiracyguide#pdf-search[PDF Drive] in PDF
+Sites as their downloads are working again.
+* Starred
+link:/adblockvpnguide#redirect-bypass[Bypass All Shortlinks] in
+Redirect Bypass. This is a fork of the original script with all tracking
+elements removed.
+
+'''
+
+*Things Removed*
+
+* Removed Tachiyomi as it is
+https://tachiyomi.org/news/2024-01-13-goodbye[no longer being developed].
+We've replaced it with its successor
+link:/android-iosguide#android-reading[Mihon], and keep in mind
+the forks linked there still work.
+* Removed Revanced Extended in YouTube Apps as its been
+https://redd.it/1abt4kk[archived].
+* Removed Nitter in Frontends as the lead dev decided to
+https://github.com/zedeus/nitter/issues/1155#issuecomment-1913361757[call it quits].
+* Removed Erai-Raws in Anime DDL as they're closing registrations.
+* Removed WorldCinema in Video DDL as they've gone premium only.
+* Removed /r/ApkApps Megathread as its no longer updated.
+* Removed Lunar Client in Minecraft Launchers as its closed-source and their
+privacy policy is https://i.imgur.com/2Wtds7l.png[very poor].
+* Unstarred LibreWolf as Mullvad Browser is a similar project with
+https://i.imgur.com/GTzWHR0.png[auto updates].
+* Unstarred Zoo in AI Chatbots as its no longer unlimited.
+* Unstarred Phind in AI Chatbots as it no longer offers free GPT-4.
+
+'''

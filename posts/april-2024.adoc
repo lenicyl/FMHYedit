@@ -1,0 +1,65 @@
+= Wiki Updates
+:aside: left
+:date: 2024-04-01
+:description: April 2024 updates
+:doctype: book
+:footer: true
+:next: false
+:prev: false
+:sidebar: false
+
+* Split Android Tools into subsections:
+https://fmhy.net/android-iosguide#optimization[Optimization], https://fmhy.net/android-iosguide#battery-tools[Battery], https://fmhy.net/android-iosguide#keyboard-text[Keyboard], https://fmhy.net/android-iosguide#screen-tools[Screen], https://fmhy.net/android-iosguide#android-file-tools[Files],
+https://fmhy.net/android-iosguide#root-flash[Root / Flash], https://fmhy.net/android-iosguide#productivity-calendars[Productivity], https://fmhy.net/android-iosguide#maps-location[Maps], https://fmhy.net/android-iosguide#notifications-widgets[Notifications] and https://fmhy.net/android-iosguide#social-media-apps[Social Media].
+* Added https://fmhy.net/gamingpiracyguide#abandonware[Abandonware], https://fmhy.net/gamingpiracyguide#moba-tools[MOBA], https://fmhy.net/gamingpiracyguide#gacha-tools[Gacha], https://fmhy.net/gamingpiracyguide#counter-strike-tools[Counter-Strike], https://fmhy.net/gamingpiracyguide#doom-tools[Doom] and https://fmhy.net/gamingpiracyguide#controller-tools[Controller Tool] sections to Gaming.
+* Added https://fmhy.net/miscguide#toys-figures[Toys / Figures] section to Shopping.
+* Added https://fmhy.net/android-iosguide#android-manga[Manga] section to Android Reading.
+* Added https://fmhy.net/storage#mpv-shaders[MPV Shaders] section to Video Tools.
+* Added https://fmhy.net/adblockvpnguide#email-privacy[Email] section to Privacy.
+* Added https://fmhy.pages.dev/devtools#regex-tools[Regex] section to Dev Tools.
+* Our https://social.fmhy.net/@fmhy[FMHY Social] (fediverse instance / account) is now live.
+* Removed wiki from saidit. Its our least used version so we're not sure its worth the effort. If enough people want it back we'll reconsider.
+
+'''
+
+= Stars Added ⭐
+
+* Starred https://fmhy.net/videopiracyguide#live-sports[Streamed] in Live Sports. Fast streams, no ads.
+* Starred https://fmhy.net/social-media-tools#youtube-frontends[Poke] in YouTube Frontends. Nice UI, download support, no ads.
+* Starred https://fmhy.net/file-tools#download-managers[Motrix] in Download Managers. Some people prefer this over Jdownloader / IDM.
+* Starred https://fmhy.net/android-iosguide#android-reading[Openlib] in Android Reading. Anna's Archive app.
+* Starred https://fmhy.net/social-media-tools#youtube-downloaders[Stacher] in YouTube Downloaders. Modern YT-DL GUI.
+* Starred https://fmhy.net/text-tools#translators[DeepLX] in Translators. Unlimited DeepL.
+* Starred https://fmhy.net/ai#online-chatbots[Claude] in Online Chatbots. Works better than things like gemini.
+* Starred https://fmhy.net/downloadpiracyguide#software-sites[Soft98] in Software Sites. Big library, single click DDL.
+* Starred https://fmhy.net/video-tools#jellyfin-tools[JellyPlayer] in Jellyfin Tools. Modern Jellyfin client.
+* Starred https://fmhy.net/system-tools#package-managers[UniGetUI] in Package Managers. Nice user-interface for Winget.
+* Starred https://fmhy.net/img-tools#screenshot-tools[Zipline] in Screenshot Tools. Self-hosted, feature-rich ShareX server.
+* Starred https://fmhy.net/android-iosguide#android-emulators[WSABuilds] in Android Emulators. Pre-built WSA binaries that will continue to be https://ibb.co/R4hssDc[updated].
+* Starred https://fmhy.net/img-tools#reverse-image-search[SmartImage] in Reverse Image Search. Multi-site reverse image search tool.
+
+'''
+
+= Things Removed
+
+* Removed free-mp3-download as they've shutdown.
+* Removed HolyUnblocker as they've https://github.com/QuiteAFancyEmerald/Holy-Unblocker?tab=readme-ov-file#important-message-original[shutdown].
+* Removed WSA as support for it has been https://ibb.co/zxB565S[dropped].
+* Unstarred FlixHQ in Streaming. This used to be good but seems to be a lot slower recently.
+* {blank}
++
+'''
+
+[discrete]
+=== https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/updates[Previous Update Threads]
+
+'''
+
+[discrete]
+=== RSS Feed: https://fmhy.net/feed.rss
+
+'''
+
+_Note - These update threads only contains major updates. If you're interested in seeing all minor changes you can follow our commits page on https://github.com/fmhy/FMHYedit/commits/main[GitHub]. Also keep in mind that this thread will be deleted and https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/updates[archived] at the end of the month._
+
+'''

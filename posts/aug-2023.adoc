@@ -1,0 +1,90 @@
+= Monthly Updates [August]
+:aside: left
+:date: 2023-08-01
+:description: September 2023 updates.
+:footer: true
+:next: false
+:prev: false
+:sidebar: false
+
++++<Post authors="['nbats']">++++++</Post>+++
+
+*Wiki Updates*
+
+* Moved fmhy.ml to *link:/[fmhy.net]*, and updated its UI to more
+closely match link:/[fmhy.pages.dev].
+* Separated Android Tools into subcategories:
+link:/android-iosguide/#android-device[Device],
+link:/android-iosguide/#android-utilities[Utilities],
+link:/android-iosguide/#android-internet[Internet],
+link:/android-iosguide/#android-camera[Camera] and
+link:/android-iosguide/#customization[Customization].
+* Added a link:/edupiracyguide/#engineering[Engineering]
+section to Educational.
+* Renamed Multi Hosts to
+link:/videopiracyguide/#multi-server[Multi Server],
+Dedicated Hosts to
+link:/videopiracyguide/#single-server[Single Server], and
+bumped Multi above Single as they're generally better.
+* Moved all the APK sections out of storage, and back into the main
+link:/android-iosguide/#android-apks[Android section].
+* Combined all
+link:/non-english/#indian-languages[Indian Language sites]
+into one section in Non-Eng, as most host content for more than one language.
+
+'''
+
+*Stars Added* ⭐
+
+* Starred link:/gamingpiracyguide/#download-games[Ova Games]
+in Game Download. Big library, fast hosts.
+* Starred link:/videopiracyguide/#multi-server[SmashyStream]
+in Streaming Sites. Nice UI, fast 1080p.
+* Starred
+link:/storage/#game-libraries--launcher[BlackPearlOrigin]
+in Game Launchers. New game launcher and downloader, made by our friends.
+* Starred Androeed and Modyolo in
+link:/android-iosguide/#modded-apks[Modded APKs].
+* Starred link:/gamingpiracyguide/#emulation--roms[Skraper]
+in Emulation. Automate ROM Covers / Metadata.
+* Starred link:/gamingpiracyguide/#rom-sites[ROMhacking] in
+ROM Sites. One of the oldest sites for fan translations.
+* Starred link:/videopiracyguide/#live-tv--sports[FreeSports]
+in Live Sports. A live sports site that isn't flooded with ads like most are.
+* Starred
+link:/videopiracyguide/#sports-streaming[SoccerCatch] in
+Sports Streaming. Full Match replays.
+* Starred link:/storage/#vfx-sites[DownloadPirate] in VFX
+Sites. Popular site for video effects and software.
+* Starred link:/storage/#windows-10-debloater[SophiApp] in
+debloaters. Gives good explanations for its tweaks making it safer for new
+users.
+* Starred
+https://ash.fail/blog/20230625-actually-good-distro-recomendations-for-beginners.html[Actually Good Distros]
+in Linux. Beginner distro guides.
+
+'''
+
+*Things Removed*
+
+* Removed Bromite as they've https://i.imgur.com/uM3ryHR.png[stopped updates],
+and replaced it with https://github.com/uazo/cromite[Cromite] which will
+continue to be updated by one of their devs.
+* Removed AI Text Detectors as they're known for
+https://arstechnica.com/information-technology/2023/07/openai-discontinues-its-ai-writing-detector-due-to-low-rate-of-accuracy/[being inaccurate].
+* Unstarred SoftArchive in Software as people have become annoyed with their
+slow hosts.
+* Unstarred LookMovie in Streaming as people don't like the fact 1080p is behind
+premium.
+* Unstarred QuickBoost in Tweaking as the app doesn't give details as to what
+each tweak actually does.
+* Unstarred Sockshare in Streaming as their original domain died, and it doesn't
+have the best UI anyways.
+* Removed AnimeKaizoku from Anime Streaming as they've shutdown.
+* Removed DeepFloyd from Image Generators as its been paused for over a month.
+* Removed Appnee from Software Sites. The MAS team found that they host many
+https://i.imgur.com/KmDKUw4.png[unsafe activators]. We don't think Appnee is
+purposefully malicious, they just need to be more careful and clean things up
+before we can add them again.
+
+'''

@@ -1,0 +1,564 @@
+:doctype: book
+:pp: {plus}{plus}
+
+'''
+
+'''
+
+*https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index[◄◄ Back to Wiki Index]*
+_**
+**_
+
+= ► Text Tools
+
+* ↪️ *https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_image_to_text_.2F_ocr[Image to Text]*
+* ↪️ *https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech[Text to Speech]*
+* ⭐ *https://www.textcleanr.com/[TextCleanr]*, https://textmechanic.com/[Text Mechanic], https://www.textfixer.com/[TextFixer], https://onlinetexttools.com/[OnlineTextTools], https://convertcase.net/[Convert Case], https://textcleaner.net/all-tools/[TextCleaner], https://sortmylist.com/[SortMyList] or https://alphabetizer.flap.tv/[The Alphabetizer] - Organize / Format Text
+* https://loilo.github.io/diffr/[diffr], https://www.textcompare.org/[TextCompare], https://text-compare.com/[Text-Compare] or https://www.diffnow.com/[DiffNow] - Compare Text
+* https://www.somacon.com/p568.php[Count Duplicates] or https://duplicateword.com/[DuplicateWord] - Count / Remove Duplicates in a List
+* https://delim.co/[Delim] - Comma Separating Tool
+* https://www.speechtexter.com/[SpeechTexter], https://speechnotes.co/[SpeechNotes], https://lilyspeech.com/[LilySpeech], https://voicetotext.org/[VoiceToText], https://talktyper.com/[TalkTyper] or https://voicenotebook.com/[VoiceNotebook] - Speech to Text
+* https://github.com/AlexanderPro/WindowTextExtractor[WindowTextExtractor] - Extract Text From Any Window
+* https://ramensoftware.com/textify[Textify] - Copy Text from Any Dialog
+* https://simon-knuth.github.io/scanner/index[Scanner] or https://www.naps2.com/[NAPS2] - Scanner Apps / https://github.com/simon-knuth/scanner[GitHub]
+* https://saurabhdaware.github.io/text-to-handwriting/[Text to Handwriting], https://texttohandwriting.com/[texttohandwriting] or https://handwrittner.com/?lang=en[HandWrittner] - Text to Handwriting Converters
+* https://stegcloak.surge.sh/[StegCloak] - Hide Messages in Text
+* https://www.telescopictext.org/[telescopictext] - Write Text Within Text
+* https://www.quipqiup.com/[quipqiup] or https://www.dcode.fr/en[dCode] - Cryptogram Solvers
+* https://www.docuseal.co/[DocuSeal] - Free Document Signing
+* https://practicaltypography.com/[Butterick's Practical Typography] - Typography Guide Book
+
+'''
+
+== ▷ Pastebins
+
+* ⭐ *https://pastes.fmhy.net/[snowbin]*, https://paste.fmhy.net/[2] - Temp Pastebin
+* ⭐ *https://linqbin.cc/[Linqbin]* - Temp Pastebin
+* ⭐ *https://gist.github.com/[Github Gists]* - Account Needed
+* ⭐ *https://rentry.co/[Rentry]* / https://github.com/radude/rentry[CLI] / Markdown Support
+* ⭐ *https://bundlrs.cc/[Stellular]* / https://code.stellular.org/SentryTwo/bundlrs[Source] / Markdown Support
+* ⭐ *https://bin.disroot.org/[disroot]*, https://privatebin.net/[privatebin], https://bin.idrix.fr/[bin.idrix] or https://privatebin.rinuploads.org/[RIN Privatebin]
+* ⭐ *https://privatebin.info/directory/[PrivateBin Instances]*
+* ⭐ *https://katb.in/[katb]*
+* ⭐ *https://writexo.com/[WriteXO]*
+* ⭐ *https://cse.google.com/cse?cx=0cd79b819f26af9d0[Pastebin Search]*
+* https://paster.so[Paster] / Markdown Support
+* https://rlim.com/[Rlim]
+* https://paste.ee/[paste]
+* https://paste.sparked.host/[sparked]
+* https://pst.moe/[pst.moe]
+* https://p.ip.fi/[p.ip.fi]
+* https://paste.mozilla.org/[paste.mozilla]
+* https://pastebin.com/[pastebin]
+* https://telegra.ph/[telegra.ph]
+* https://blackhost.xyz/?id=pst[blackhost]
+* https://www.protectedtext.com/[protectedtext]
+* https://pasteheaven.com/[pasteheaven]
+* https://bin.gy/[bin.gy]
+* http://bin.shortbin.eu:8080/[shortbin]
+* https://paste.fo/[paste.fo]
+* https://throwbin.in/[throwbin]
+* https://dpaste.com/[dpaste] / https://dpaste.org/[2]
+* https://copydock.vercel.app/paste[copydock]
+* https://pad.riseup.net/[riseup pad]
+* https://zpaste.net/[zPaste]
+* https://bitbin.it/[bitbin]
+* https://pastes.io/[pastes.io]
+* https://peeplink.in/[peeplink]
+* https://paaster.io/[paaster]
+* https://www.pastery.net/[pastery]
+* https://pastebin.pl/[pastebin.pl]
+* https://hashb.in[hashbin]
+* https://zerobin.net/[zerobin]
+* https://paste.debian.net/[paste.debian]
+* https://paste.centos.org/[centos]
+* https://blankslate.io/[blankslate]
+* https://microbin.eu/[microbin]
+* https://cryptgeon.org/[cryptgeon] - Single View Pastebin
+* https://snips.sh/[Snips.sh] - Self-Hosted
+* https://markdownpastebin.com/[MarkdownPastebin] - Markdown Pastebin
+* https://mystb.in/[Mystb.in], https://codeshare.io/[codeshare], https://paste.mod.gg/[paste.mod] or https://snippet.host/[snippet.host] - Code Pastebins
+
+'''
+
+== ▷ Translators
+
+* ⭐ *https://github.com/OwO-Network/DeepLX[DeepLX]* or https://www.deepl.com/translator[DeepL]
+* ⭐ *https://translate.google.com/[Google Translate]*
+* https://crow-translate.github.io/[Crow Translate] or https://github.com/argosopentech/argos-translate[Argos] - Translation Apps
+* https://www.soimort.org/translate-shell/[Translate Shell] - Translation CLI / https://github.com/soimort/translate-shell[GitHub]
+* https://www.onlinedoctranslator.com/en/[OnlineDocTranslator] - Document Translator
+* https://legalesedecoder.com/free-legal-document-to-plain-english-translator/[LegaleseDecoder] - Legal Document Translator
+* https://www.matecat.com[Matecat] - Online Translation Editor
+* https://github.com/lelegard/qtlinguist-installers[Qt Linguist] or http://www.eazypo.ca[Eazy Po] - Localization Apps
+* https://github.com/marisukukise/japReader[japReader] - Japanese Text Translator
+* https://lyricstranslate.com/[LyricsTranslate] - Lyric Translator
+* https://lingojam.com/[LingoJam] - Create Translator
+* https://dreamsavior.net/translator-the-introduction/[Translator{pp}] - Automatic Translator / Editor
+* https://github.com/anonymousException/renpy-translator[Renpy Translator] or https://github.com/anonymousException/renpy-runtime-editor[Renpy Editor] - Ren'py Automatic Translator / Editor
+* https://rentry.co/97nqn[Translate Large PDFs] - Large PDF Translation Guide
+* https://poedit.net/[Poedit] - Translation Editor
+* https://omegat.org/[OmegaT] - Translation Memory Tool
+* https://translate-image.com/[Translate-Images] - Translate Image Text
+* https://fasthub.net/[FastHub] - Text to Speech Translation Tool
+* https://huggingface.co/spaces/hf-audio/open_asr_leaderboard[ASR Leaderboard] - Speech Recognition AI Leaderboard
+* https://vcjhwebdev.github.io/useless-translator/[Useless-Translator], https://morsecode.world/[Morsecode World] or https://morsedecoder.com/[MorseDecoder] - Morse Code / Binary Translators
+* https://pirate.monkeyness.com/translate[The Pirate Translator] - Translate Text to Pirate
+* https://madelinemiller.dev/apps/emojify/[Emojify] - Emojify Text
+* https://typ3r.aavi.me/[typ3r] - tRaNSlAtE tEXT lik3 THiS
+* https://papago.naver.com/[Papago]
+* https://libretranslate.com/[Libretranslate] / https://github.com/LibreTranslate/LibreTranslate[2]
+* https://www.translate.com/[Translate.com]
+* https://mymemory.translated.net/[MyMemory]
+* https://nicetranslator.com/[Nice Translator]
+* https://translate.yandex.com/[Yandex Translator]
+* https://www.bing.com/translator[Bing Translator]
+* https://www.reverso.net/[Reverso]
+* https://git.sr.ht/~yerinalexey/gtranslate[GTranslate]
+* https://www.babelfish.com/[babelfish]
+* https://translation2.paralink.com/[translation2]
+* https://apertium.org/[Apertium]
+* https://www.collinsdictionary.com/translator[collinsdictionary]
+* https://www.online-translator.com/translation[online-translator]
+* https://www.translatedict.com/[translatedict]
+* https://www.systransoft.com/translate/[Systrane Translate]
+* https://www.translator.eu/[Translator.eu]
+
+'''
+
+== ▷ Grammar Check
+
+* https://www.grammarly.com/grammar-check[Grammarly]
+* https://prowritingaid.com/grammar-checker[ProWritingAid]
+* https://quillbot.com/grammar-check[QuillBot]
+* https://www.deepl.com/write[DeepL Write]
+* https://languagetool.org/[LanguageTool]
+* https://www.scribens.com/[Scribens]
+
+'''
+
+== ▷ Text Rephrasing
+
+* ⭐ *https://quillbot.com/[QuillBot AI]* - Text Rephrasing
+* ⭐ *https://paraphrasetool.com/[paraphrasetool]* - Text Rephrasing
+* https://justnotsorry.com/[Just Not Sorry] - Undermining Word Detection
+* https://rewritetool.net/[Rewrite Tool] - Text Rephrasing
+* https://paraphraz.it/[Paraphraz] - Text Rephrasing
+* https://rephrasely.com/[Rephrasely] - Text Rephrasing
+* https://www.paraphraser.io/[Paraphraser] - Text Rephrasing
+* https://paraphrase-online.com/[Paraphrase-Online] - Text Rephrasing
+* https://paraphrasingtool.ai/[paraphrasingtool] - Text Rephrasing
+* https://www.henshu.ai/[henshu] - Text Rephrasing
+* https://www.smry.ai/[Smry.ai] - Text Summary
+* https://smmry.com/[SMMRY] - Text Summary
+* https://github.com/clmnin/summarize.site/[summarize.site] - Text Summary
+* https://kagi.com/summarizer/index.html[kagi] - Text Summary
+* https://www.myreader.io/[MyReader] - Text Summary
+* https://www.letsrecast.ai/[Recast] - Text Summary
+
+'''
+
+== ▷ Emoji Indexes
+
+* ⭐ *https://emojipedia.org/[Emojipedia]* or https://www.emojibatch.com/[EmojiBatch]
+* https://www.emojiengine.com/[Emoji Engine] - Multilingual Emoji Search
+* https://github.com/virejdasani/Geniemoji[Geniemoji], https://www.winmoji.com/[winMoji] - Emoji Managers
+* https://emojirequest.com/[EmojiRequests] - Custom User-Made Emojis
+* https://cultofthepartyparrot.com/[Cult of the Party Parrot] - Party Parrot Emojis
+* https://github.com/Overimagine1/pepe-server-archive[Pepe Server Archive] - Pepe Emojis
+* http://mysmilies.com/[MySmiles] or https://www.mazeguy.net/smilies.html[MazeGuy] - Oldschool Emojis
+
+'''
+
+== ▷ Unicode Characters
+
+* ⭐ *https://www.amp-what.com/[Amp What]*
+* https://copychar.cc/[CopyChar]
+* https://symbl.cc/[Unicode Table]
+* https://c.r74n.com/[Copy Paste Dump]
+* https://unicode-explorer.com/[Unicode Explorer]
+* https://copypastecharacter.com/[CopyPasteCharacter]
+* https://www.hotsymbol.com/[HotSymbol]
+* https://snskeyboard.com/[Snskey]
+* https://unilist.raphaelbastide.com/[Unilist]
+* https://github.com/character-map-uwp/Character-Map-UWP[Character Map]
+* https://alt-codes.net/[Alt Codes]
+* https://fancysymbol.com/[FancySymbol]
+* https://unifoundry.com/[Unifoundry]
+* https://coolsymbol.com/[Cool Symbol]
+* http://wincompose.info/[WinCompose] - Unicode Compose Key / https://github.com/samhocevar/wincompose[GitHub]
+* https://www.fastemoji.com/[FastEmoji] or https://textfac.es/[textfac.es] - Unicode Emojis
+* https://blanktext.net/[BlankText] - Copy / Paste Blank Spaces
+
+'''
+
+== ▷ Typing Lessons
+
+* ⭐ *https://monkeytype.com/[Monkey Type]* - Customizable Typing Tests
+* https://typing.io/[Typing.io] - Typing Tests
+* https://www.keybr.com/[keybr] - Typing Tests
+* https://www.typing.com/[Typing.com] - Typing Tests
+* https://www.typingclub.com/[Typing Club] - Typing Tests
+* https://www.typing.academy/[typing.academy] - Typing Tests
+* https://play.typeracer.com/[TypeRacer] - Typing Games
+* https://zty.pe/[ZType] - Typing Games
+* https://www.typerush.com/[TypeRush] - Typing Games
+* https://www.arrrtype.com/[ARRRType] - Typing Games
+* https://ranelpadon.github.io/ngram-type/[NGram Type], https://adamgradzki.com/keyzen3/[Keyzen3] or https://ranelpadon.github.io/keyzen-colemak-dh/[Keyzen Colmak] - Touch Typing Tests
+* https://github.com/kraanzu/smassh[Smassh], https://github.com/max-niederman/ttyper[Ttyper] or https://github.com/kraanzu/termtyper[TermTyper] - Terminal Typing Tests
+* https://www.typelit.io/[TypeLit.io] - Book Typing Tests
+* https://www.colemak.academy/[Colemak Academy] - Alt / Custom Keyboard Tests
+* https://klavaro.sourceforge.io/[klavaro], https://www.typingstudy.com/[TypingStudy] or https://typefast.io/[TypeFast] - Multilingual Typing Tests
+* https://10fastfingers.com/[10fastfingers] - Typing Competitions
+
+'''
+
+= ► Text Editors / Notes
+
+* 🌐 *https://en.wikipedia.org/wiki/List_of_text_editors[List of Text Editors]* or https://noteapps.info/[NoteApps] - Text Editor / Notepad Indexes
+* ↪️ *https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_ides_.2F_code_editors[Code Editors / IDEs]*
+* ⭐ *https://notepad-plus-plus.org/[Notepad{pp}]* / https://nea.github.io/MarkdownViewerPlusPlus/[Markdown]
+* ⭐ *https://gravesoft.dev/download_windows_office/office_c2r_links/[Microsoft Office]*, https://github.com/YerongAI/Office-Tool[Office Tool], https://gravesoft.dev/download_windows_office/office_c2r_custom/[Custom Office], https://www.libreoffice.org/[LibreOffice] or https://calligra.org/[Calligra] - Office Suites
+* ⭐ *Microsoft Office Tools* - https://redd.it/1814gmp[Guide] / https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_windows_activation[Activation] / https://i.ibb.co/0m9t95b/ebacd47bf83b.png[Hot Keys] / https://sourceforge.net/projects/office-search/[File Search]
+* ⭐ *https://www.notion.so/[Notion]*
+* ⭐ *Notion Tools* - https://notionthemes.yudax.me/[Themes] / https://notionpages.com/[Templates] / https://www.notioneverything.com/notion-world[Resources], https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e[2] / https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20[Guide]
+* ⭐ *https://notegarden.web.app/[Note Garden]*, https://notegarden.io/[2] - Note-Taking / Auto Courses
+* ⭐ *https://anytype.io/[AnyType]*
+* ⭐ *https://logseq.com/[Logseq]*
+* https://mochi.cards/[Mochi Cards] or https://github.com/cu/silicon[Silicon] - Note-Taking / Study Tools
+* https://desklamp.io/[Desklamp] - Reading / Note Taking / Highlighting Tool / https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore[Guide]
+* https://calculist.io/[Calculist] - Note-Taking for Problem-Solving
+* https://evpo.net/encryptpad/[EncryptPad] - Encrypted Text Editor
+* https://xournalpp.github.io/[Xournal{pp}] / https://github.com/xournalpp/xournalpp[GitHub]
+* https://www.notepadsapp.com/[Notepads]
+* https://getmicropad.com/[MicroPad]
+* https://github.com/linuxmint/xed[Xed]
+* https://flotes.app/[Flotes]
+* https://www.get-notes.com/[Notes]
+* https://hundredrabbits.itch.io/left[Left] / https://github.com/hundredrabbits/Left[GitHub]
+* https://beeftext.org/[BeefText]
+* https://quilljs.com/[Quill]
+* https://helix-editor.com/[Helix] / https://github.com/helix-editor/helix[GitHub]
+* https://beavernotes.com/[BeaverNotes]
+* https://ash-k.itch.io/textreme[Textreme] / https://github.com/cis-ash/TEXTREME[GitHub]
+* https://tiddlywiki.com/[Tiddly] / https://github.com/tiddly-gittly/TidGi-Desktop[Desktop]
+* https://joplinapp.org/[Joplin] / https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/[Firefox] / https://chromewebstore.google.com/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfeken-GB[Chrome]
+* https://tinylist.app/[TinyList]
+* https://simplenote.com/[Simplenote]
+* https://www.martinstoeckli.ch/silentnotes/[SilentNotes] / https://github.com/martinstoeckli/SilentNotes[GitHub]
+* https://www.qownnotes.org/[QOwnNotes]
+* https://zim-wiki.org/[Zim Wiki]
+* https://laverna.cc/[Laverna]
+* https://keep.google.com/[Google Keep]
+* https://wikidpad.sourceforge.net/[wikidPad]
+* https://github.com/tomboy-notes/tomboy-ng[tomboy-ng]
+* https://fromscratch.rocks/[FromScratch]
+* https://notesnook.com/[Notesnook]
+* https://gitlab.com/graele84/tuxboard[tuxBoard]
+* https://affine.pro/[AFFiNE]
+* https://docs.butterfly.linwood.dev/[Butterfly] / https://discord.com/invite/97zFtYN[Discord] / https://github.com/LinwoodDev/Butterfly[GitHub]
+* https://usememos.com/[UseMemos]
+* https://benotes.org/[benotes]
+* https://saber.adil.hanney.org/[Saber]
+* https://github.com/zadam/trilium[Trilium]
+
+'''
+
+== ▷ Online Editors
+
+* ⭐ *https://takenote.dev/[takenote]* - Local Saves
+* ⭐ *https://zen.unit.ms/[Zen]* - Local Saves
+* https://browserpad.org/[Browserpad] - Local Saves
+* https://notepad.js.org/[Notepad] - Local Saves
+* https://onlinenotepad.org/[onlinenotepad] - Local Saves
+* https://notepad-online.net/[notepad-online.net] - Local Saves
+* https://www.ssavr.com/[ssavr] - Local Saves
+* https://notepad-online.com/[notepad-online.com] - Local Saves
+* https://justnotepad.com/[JustNotePad] - Local Saves
+* https://pasteepad.com/[PasteePad] - Local Saves
+* https://shrib.com/[Shrib] - Local / Cloud Saves
+* https://www.memonotepad.com/[MemOnNotepad] - Local / Cloud Saves
+* https://write-box.appspot.com/[Write Box] - Local / Cloud Saves
+* https://nimbletext.com/Live[NimbleText] - Cloud Saves
+* https://www.zippyjot.com/[ZippyJot] - Cloud Saves
+* https://www.textslave.com/[TextSlave]
+* https://ghosttext.fregante.com/[GhostText]
+* https://anytexteditor.com/[AnyTextEditor]
+* https://www.kilodoc.com/[KiloDoc], https://edit-document.com/[Edit-Document] or https://products.groupdocs.app/viewer/total[GroupDocs] - Online Document Editors
+
+'''
+
+== ▷ Mind Mapping
+
+* ⭐ *https://obsidian.md/[Obsidian]*
+* ⭐ *Obsidian Tools* - https://github.com/kmaasrud/awesome-obsidian[Resources] / https://noteshare.space/[Share Notes] / https://github.com/vrtmrz/obsidian-livesync[Live Sync] / https://github.com/denolehov/obsidian-git[Backup] / https://github.com/logancyang/obsidian-copilot[ChatGPT Addon], https://github.com/vasilecampeanu/obsidian-weaver[2]
+* ⭐ *https://obsidian.md/canvas[canvas]*
+* https://www.mindmup.com/[MindMup]
+* https://freemind.sourceforge.net/[FreeMind]
+* https://kinopio.club/[Kinopio]
+* https://www.mindomo.com/[Mindomo]
+* https://www.yuque.com/[Yuque]
+* https://mindmapp.cedoor.dev/app[MindMapp]
+* https://www.are.na/[are.na]
+* https://kool.tools/domino[Domino]
+* https://gitmind.com/[GitMind]
+* https://xtiles.app/en[xTiles]
+* https://capacities.io/[Capacities]
+* https://bubbl.us/[bubbl]
+* https://github.com/juzzlin/Heimer[Heimer]
+* https://cubox.cc/[Cubox]
+* https://github.com/insilmaril/vym[vym]
+* https://coggle.it/[Coggle] - Collaborative Mind Mapping
+* https://cardsmith.co/[CardSmith] - Collaborative Mind Mapping
+* https://www.memrey.com/[Memrey] - Collaborative Mind Mapping
+* https://www.mindmeister.com/[MindMeister] - Collaborative Mind Mapping
+* https://slatebox.com/[Slatebox] - Collaborative Mind Mapping
+
+'''
+
+== ▷ Text / Code Collaboration
+
+* ⭐ *https://colab.research.google.com/[Google Colaboratory]*
+* ⭐ *https://www.google.com/docs/about/[Google Docs]*
+* ⭐ *https://cryptpad.fr/[CryptPad]*
+* ⭐ *https://kludd.co/[Kludd]*
+* https://www.stashpad.com/[Stashpad] / https://discord.gg/ScxPxcN9fK[Discord]
+* https://mattermost.com/[Mattermost]
+* https://hackmd.io/[HackMD]
+* https://www.taskade.com/[Taskade]
+* https://socket.io/[Socket]
+* https://whimsical.com/[Whimsical]
+* https://firepad.io/[Firepad]
+* https://etherpad.org/[Etherpad]
+* https://sharepad.io/[SharePad]
+* https://www.fiduswriter.org/[FidusWriter]
+* https://www.overleaf.com/[overleaf]
+* https://github.com/ekzhang/rustpad[RustPad]
+
+'''
+
+== ▷ Spreadsheet Editors
+
+* 🌐 *https://huggingface.co/spaces/mteb/leaderboard[MTEB Leaderboard]* - Text Embedding AI Leaderboard
+* https://tinysheet.com/[TinySheet], https://strlen.com/treesheets/[Tree Sheets], http://www.gnumeric.org/[Gnumeric] or https://www.quadratichq.com/[Quadratic]
+* https://gitlab.com/baserow/baserow[Baserow], https://framacalc.org/[Framacalc], https://github.com/nocodb/nocodb[NocoDB] or https://airtable.com/[AirTable] - Collaborative Spreadsheets
+* https://www.jamovi.org/[Jamovi] - Statistical Spreadsheets
+* https://www.diagram.codes/[Diagram.codes] - Convert Text to Diagrams
+* https://excelmacromastery.com/vba-articles/[Excel Macro Mastery] - Excel VBA Guides
+* https://www.vertex42.com/[Vertex42] - Excel Templates
+* https://plaintexttools.github.io/plain-text-table/[Plain Text Table] - Text Tables
+* https://www.editcsvonline.com/[EditCSVOnline] - Online CSV Editor
+* https://wiesenthal.github.io/SubjectiveSort/[SubjectiveSort] - Create Ranked List from CSV
+* https://www.visidata.org/[VisiData] - Spreadsheet CLI Editor
+* https://structifi.com/[Structifi] - Convert Files to Structured Data
+* https://www.tadviewer.com/[TadViewer] - View and Analyze Tabular Data
+
+'''
+
+== ▷ Writing Tools
+
+* ↪️ *https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_text_generators[AI Text Generators]*
+* ⭐ *https://www.gibney.org/writer[Writer]*, https://gottcode.org/focuswriter/[FocusWriter], https://writemonkey.com/[Writemonkey] or https://www.writenext.io/[WriteNext] - Distraction-Free Writing
+* ⭐ *https://www.theologeek.ch/manuskript/[Manuskript]* - Writing Organizer / Planner
+* ⭐ *https://novelwriter.io/[NovelWriter]* or https://bibisco.com/[Bibisco] - Novel Editors
+* ⭐ *https://uselinked.com/[Linked]*, https://journaltxt.github.io/[journaltxt], https://gekri.com/[Gekri], https://www.microsoft.com/en-us/garage/profiles/journal/[Microsoft Journal], https://diariumapp.com/[Diarium], https://gemlog.blue/[Gemlog] or https://jrnl.sh/[jrnl.sh] - Journal Apps / https://deardiary.ai/[Songs]
+* ⭐ *http://chaoticshiny.com/[ChaoticShiny]*, https://www.seventhsanctum.com/[Seventh Sanctum], https://www.notebook.ai/[Notebook.ai] or https://www.worldanvil.com/[WorldAnvil] - Fantasy Writing Generators
+* https://www.languageisavirus.com/[LanguageIsAVirus] - Writing Prompts
+* https://twinery.org/[Twinery] - Interactive Non-Linear Story Creator
+* https://infinite-story.com/[Infinite Story] or https://www.writealong.io/[WriteAlong] - Collaborative Story Writing
+* https://blackoutpoetry.glitch.me/[Blackout Poetry] - Blackout Poetry Creator
+* https://idyll-lang.org/editor[Idyll] - Create Interactive Essays / https://github.com/idyll-lang/idyll[GitHub]
+* https://www.papyrusauthor.com/[Papyrus Author] - Creative Writing Suite
+* https://starc.app/[STARC] - Screen Writing Tool
+* https://www.unsell.design/[Unsell] - Portfolio / Magazine Templates
+* https://rarebit.neocities.org/[Rarebit] - Webcomics Template
+* https://www.jamesmurdo.com/glossary_generator.html[Glossary Generator] - Generate Glossaries
+* https://www.fantasynamegenerators.com/[Fantasy Name Generators] - Fantasy Name Generators
+* https://draquet.github.io/PolyGlot/[PolyGlot] or https://www.vulgarlang.com/[VulgarLang] - Spoken Language Construction Tools
+* https://beepb00p.xyz/annotating.html[How to annotate literally everything] - Annotation Tools / Resources
+* https://github.com/jeromedockes/labelbuddy[Label Buddy] - Annotation Tool
+
+'''
+
+== ▷ To Do Lists
+
+* ⭐ *https://goblin.tools/[Goblin.tools]* - Automatic Task Breakdown and more
+* https://columns.app/[Columns] or https://checklistgenerator.co/[ChecklistGenerator] - Checklists
+* https://wonder-bot.com/[Wonder] - Remember Things Easily
+* https://yearcompass.com/[YearCompass] - New Years Resolution Booklet
+* https://www.daily.place/[daily.place]
+* https://www.superlist.com/[SuperList]
+* https://fokus-website.netlify.app/[Fokus]
+* https://gitlab.com/rpdev/opentodolist[OpenToDoList]
+* https://apps.microsoft.com/store/detail/microsoft-to-do-lists-tasks-reminders/9NBLGGH5R558[Microsoft To Do]
+* https://todo-r.com/[ToDo R]
+* https://todozero.com/[ToDoZero]
+* https://lifeat.io/[LifeAt]
+* https://donotes.co.uk/[DoNotes]
+* https://super-productivity.com/[Super Productivity]
+* https://github.com/BaldissaraMatheus/Tasks.md[Tasks]
+* https://taskwarrior.org/[Taskwarrior]
+* https://www.ticktick.com/[TickTick]
+* https://vikunja.io/[Vikunja]
+
+'''
+
+== ▷ ASCII Art
+
+* ⭐ *https://patorjk.com/software/taag/[TAAG]*
+* https://lenny-face-generator.textsmilies.com/[Text Smileys]
+* https://ascii.today/[ASCII Today]
+* https://www.gridsagegames.com/rexpaint/[REXPaint]
+* https://picoe.ca/products/pablodraw/[PabloDraw]
+* https://ascii.alienmelon.com/[ASCII Paint]
+* https://github.com/OsciiArt/DeepAA[DeepAA]
+* https://github.com/file-acomplaint/kakikun[Kakikun]
+* https://jp.itch.io/playscii[Playscii]
+* https://www.kammerl.de/ascii/AsciiSignature.php[Kammerl] - ASCII Text Generator
+* https://www.ascii-art-generator.org/[ascii-art-generator], https://ascii-generator.site/[ascii-generator], https://asciiart.club/[asciiart], https://github.com/TheZoraiz/ascii-image-converter[ascii-image-converter] or https://github.com/CherryPill/ASCII-art-creator[ASCII-art-creator] - Image to ASCII Art
+* http://loveascii.com/[Love ASCII], https://16colo.rs/[16colors], https://ascii.co.uk/art[ascii.co] or http://www.roysac.com/sitemap.html[RoySAC] - Copy ASCII Art
+* https://asciiflow.com/[ASCII Flow] or https://tree.nathanfriend.io/[Tree] - Create ASCII Diagrams
+* http://www.kickjs.org/example/video_ascii_art/Video_Ascii_Art.html[Video Ascii Art] - Video to Ascii Art
+* https://505e06b2.github.io/Image-to-Braille/[Image to Braille] - Convert Images to Braille
+* https://ivanceras.github.io/svgbob-editor/[SVGBob Editor] - Convert ASCII Diagrams to SVG Images
+* https://www.ansilove.org/downloads.html[AnsiLove] or https://onlinetools.com/ascii/convert-ascii-to-image[convert-ascii-to-image] - ANSI / ASCII Art to PNG Converters
+* https://lvllvl.com/[lvllvl] or https://nurpax.github.io/petmate/[Petmate] - C64 PETSCII Image Editor
+
+'''
+
+= ► Font Tools
+
+* ⭐ *https://github.com/SerCeMan/fontogen[Fontogen]* - Custom AI Font Generator
+* ⭐ *https://typetrials.com/[TypeTrials]* - Variable Font Playground
+* ⭐ *https://www.nerdfonts.com/[Nerd Fonts]* - Iconic Font Aggregator
+* ⭐ *https://www.makewordart.com/[Make WordArt]*, https://www10.flamingtext.com/[FlameText], https://maketext.io/[MakeText], https://www.textgiraffe.com/[TextGiraffe], https://textpro.me/[Text Pro] or https://cooltext.com/[CoolText] - WordArt Generators
+* ⭐ *https://www.myfonts.com/WhatTheFont/[WhatTheFont]*, http://www.identifont.com/[Identifont], https://www.chengyinliu.com/whatfont.html[WhatFont] or https://www.whatfontis.com/[What Font Is] - Font Identification Tools
+* ⭐ *https://fontdrop.info/[FontDrop]* - Analyze Font Files
+* https://forkaweso.me/Fork-Awesome/[Fork-Awesome] - Font Toolkit
+* https://opendyslexic.org/[OpenDyslexic] - Increase Page Readability
+* https://www.typewolf.com/[Typewolf] or https://typ.io/[Typ.io] - Trending Website Fonts
+* https://ds-fusion.github.io/[DS Fusion] - AI Typography Generator
+* https://formito.com/tools/logo[Formito] - Typography Logo Maker
+* https://www.supremo.co.uk/typeterms/[TypeTerms] - Typography Cheat Sheet
+* https://typo.polona.pl/en/[Polona Typo] - Create Text out of Book, Poster and Map Letters
+* https://enfont.javierarce.com/[enFont], https://www.calligraphr.com/en/[Calligraphr] or https://fontstruct.com/[Fontstruct] - Custom Font Creators
+* https://www.eliashanzer.com/phase/[Phase] - Variable Fonts Generator
+* https://v-fonts.com/[V-Fonts] - Variable Fonts Tester
+* https://experiments.withgoogle.com/fontjoy[Fontjoy] - Generate Font Combinations
+* https://adamstrange.itch.io/fontsprite[FontSprite] - FonstSprite Editor
+* https://textcraft.net/[Textcraft] or https://en.textdrom.com/[TextDrom] - Styled Font Generator
+* https://caveras.net/[Cava's Pixel Resources] - Pixel Fonts
+* https://int10h.org/oldschool-pc-fonts/[Oldschool PC Fonts] - Oldschool PC Fonts
+* https://textanim.com/[Textanim] or https://spacetypegenerator.com/[Space Type Generator] - Animated Text Generator
+* https://3dtext2gif.com/[3DText2GIF] or https://textstudio.co/[TextsStudio] - Animated 3D Text Generator
+* https://batname.vercel.app/[Batname] - Batman (2022) Font Generator
+* https://github.com/chrissimpkins/codeface[Codeface] - Fonts for Coding
+* https://github.com/tonsky/FiraCode[FiraCode], https://github.com/microsoft/cascadia-code[Cascadia Code] or https://github.com/subframe7536/Maple-font[Maple Font] - Monospace Fonts
+* https://nfggames.com/games/fontmaker/[NFG's Arcade Font Maker] or https://arcade.photonstorm.com/[Arcade Font Writer] - Arcade Font Engine
+* https://glitchtextgenerator.com/[Glitch] - Glitch Text Generator
+* https://patorjk.com/text-color-fader/[Text Color Fader] - Rainbow Text Generator
+* https://www.joypixels.com/[JoyPixels] - Emoji Font Generator
+* https://www.mactype.net/[MacType] - Use Mac fonts on Windows
+* https://picas.vercel.app/[Picas] - Google Font Logo Generator
+* https://pentacom.jp/pentacom/bitfontmaker2/[Bitfontmaker2] - BitFont Creator
+* https://fontjoy.com/[FontJoy] - Font Pairings Generator
+* https://badnoise.net/TypeRip/[Typerip] - Adobe Font Ripper / https://github.com/CodeZombie/TypeRip[GitHub]
+* https://github.com/ayoy/fontedit[FontEdit], https://github.com/MFEK/glif[glif], https://www.glyphrstudio.com/[Glyphr Studio], https://birdfont.org/[Bird Font] or https://fontforge.org/en-US/[Font Forge] - Font Editors
+* https://transfonter.org/[Transfonter] - Font Converter
+* https://fontba.se/[FontBase] or https://www.xiles.app/[Xiles] - Font Manager
+* https://wavian.com/font-list.html[Font List] or https://ianli.github.io/so-you-need-a-typeface/[So You Need A Typeface] - Examples of Font Styles
+* https://typedesignresources.com/[TypeDesignResources] or https://www.freefaces.gallery/[Free Faces] - Typeface Resources
+
+'''
+
+== ▷ Download Fonts
+
+* ⭐ *https://cse.google.com/cse?cx=82154ebab193e493d[Fonts CSE]* - Multi-site Font Search
+* ⭐ *https://redd.it/8tqfg6[Font Download Guide]*
+* ⭐ *https://rentry.co/FMHYBase64#font-collections[Font Drives]*
+* ⭐ *https://fontsource.org/[FontSource]*
+* https://fonts.coollabs.io/[Coollabs] - Google Font Alternative / https://github.com/coollabsio/fonts[GitHub]
+* https://fonts.google.com/[Google Fonts]
+* https://goofonts.com/[GooFonts]
+* https://www.dafont.com/[DaFont]
+* https://www.dafontfree.net/[Dafont Free]
+* https://graphicex.com/font/[graphicex]
+* https://www.fontspace.com/[FontSpace]
+* https://t.me/fontsstore[Font Store]
+* https://www.netfontes.com.br/[NetFontes]
+* https://wfonts.com/[Windows Fonts]
+* https://m.vk.com/topic-178186634_39300099?offset=0[FONToMASS]
+* https://www.fontsquirrel.com/[Font Squirrel]
+* https://freefontsfamily.com/[Free Fonts Family]
+* https://fontspark.com/[FontSpark]
+* https://velvetyne.fr/[Velvetyne]
+* https://www.fontpair.co/fonts[FontPair]
+* https://fontshub.pro/[FontsHub]
+* https://candyfonts.com/[CandyFonts]
+* https://uncut.wtf/[uncut.wtf]
+* https://losttype.com/browse/[Lost Type Co-op]
+* https://github.com/ryanoasis/nerd-fonts[Nerd Fonts]
+* https://t.me/d_fonts[d_fonts]
+* https://ifonts.xyz/[iFonts]
+* https://www.cufonfonts.com/[Cufon Fonts]
+* https://fontsly.com/[Fontsly]
+* https://www.fonteseletras.com/[fonteseletras]
+* https://boldfonts.com/[BoldFonts]
+* https://cofonts.com/[CoFonts]
+* https://fontsfree.net[FontsFree]
+* https://www.fontreach.com/[FontReach]
+* https://www.downloadfonts.io/[DownloadFonts]
+* https://www.urbanfonts.com/[UrbanFonts]
+* https://www.abstractfonts.com/[AbstractFonts]
+* https://www.fontget.com/[FontGet]
+* https://www.fontsupply.com/[FontSupply]
+* https://blogfonts.com/[BlogFonts]
+* https://archive.org/details/1.5_million_font_files_collection[1.5_million_fonts]
+* https://github.com/evilmartians/mono[Martian Mono]
+* https://dribbble.com/search/free%20font[Dribbble]
+* https://fonts2u.com/[Fonts2u]
+* https://www.glukfonts.pl/fonts.php[GlukFonts]
+* https://www.iconian.com/[Iconian]
+* https://beautifulwebtype.com/[Beautiful Web Type]
+* https://highfonts.com/category/free/[HighFonts]
+* https://fontsgeek.com/[FontsGeek]
+* https://freefontsdownload.net/[FreeFontsDownload]
+* https://fontpark.com/[FontPark]
+* https://www.ffonts.net/[FFonts]
+* https://eng.fontke.com/font/[Fontke]
+* https://www.fontrepo.com/[FontRepo]
+* https://fontlot.com/[Fontlot]
+* https://www.freebestfonts.com/[FreeBestFonts]
+* https://www.fonts4free.net/[Fonts4Free]
+* https://t.me/squaxfonts[paid fonts for free]
+* https://archive.org/details/Mr.E-Fonts[Mr.E-Fonts]
+* https://typetype.org/freefonts/[TypeType]
+* https://simplythebest.net/fonts/[SimplyTheBest]
+* https://befonts.com/[BeFonts]
+* https://www.awwwards.com/awwwards/collections/free-fonts/[Awwwards]
+* https://en.maisfontes.com/[MaisFontes]
+* https://w.itch.io/world-of-fonts[World of Fonts]
+* https://bestfonts.pro/[BestFonts]
+* https://vk.com/psd_fonts[psd_fonts]
+* https://www.1001fonts.com/[1001 Fonts]
+* https://www.1001freefonts.com/[1001 Free Fonts]
+
+'''
+
+== ▷ Unicode Fonts
+
+* https://babelstone.co.uk/Unicode/whatisit.html[WhatIsIt] or https://shapecatcher.com/[ShapeCatcher] - Unicode Identification
+* https://coolfont.org/[coolfont]
+* https://fontmeme.com/[Font Meme]
+* https://www.fontgeneratoronline.com/[Font Generator Online]
+* https://getfancy.io/[Getfancy]
+* https://lingojam.com/DiscordFonts[DiscordFonts]
+* https://www.messletters.com/[MessLetters]
+* https://fancy-text.net/[Fancy Text]
+* https://yaytext.com/[YayText]
+* https://www.font-generator.com/[Font-Generator]
+* https://lingojam.com/WeirdTextGenerator[lingojam]
+* https://fsymbols.com/generators/[fSymbols]
+* https://fontchangerguru.com/[fontchangerguru]
+* https://tell.wtf/[tell.wtf]
+* https://fancytextdecorator.com/[fancytextdecorator]

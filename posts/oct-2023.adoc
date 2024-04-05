@@ -1,0 +1,81 @@
+= Monthly Updates [October]
+:aside: left
+:date: 2023-10-01
+:description: October 2023 updates.
+:footer: true
+:next: false
+:prev: false
+:sidebar: false
+
++++<Post authors="['nbats']">++++++</Post>+++
+
+*Wiki Updates*
+
+* Created a *https://rentry.co/fmhy-guides[List of Guides]* on rentry. This
+page is automated and updates itself anytime a new rentry is added or removed
+from FMHY. You can also download the guides yourself by using this
+https://gist.github.com/Rust1667/efc055debaf4876e4de39cc0d32f18c1[script].
+* Made a link:/gamingpiracyguide/#pok%C3%A9mon-tools[Pokémon]
+section in Gaming Tools and an
+link:/internet-tools#email-tools[Email] section in Internet
+Tools.
+* Added https://i.imgur.com/mgYq8nF.png[emojis] to indicate when we're linking
+3rd party indexes, or our storage page:
+
+🌐 = 3rd Party Indexes (i.e. /r/PiratedGames Mega, Awesome Lists etc.)
+
+↪️ = Storage Links
+
+'''
+
+*Stars Added* ⭐
+
+* Starred link:/ai/#ai-chatbots[Nova AI] in AI Chatbots.
+Gives free GPT-4 tokens.
+* Starred link:/gamingpiracyguide/#rom-sites[BlueROMs] in ROM
+sites. Simple DDL site with lots of systems.
+* Starred link:/storage/#file-sharing-tools[Qiwi] in File
+Hosts. Fast host that's becoming popular in piracy circles.
+* Starred Moo and Media in
+link:/videopiracyguide/#drives--directories[Video Drives].
+Fast drives with lots of content.
+* Starred link:/gamingpiracyguide/#rom-sites[WiiUDownloader]
+in ROM sites. Updated more frequently than WiiUSBHelper.
+* Starred link:/videopiracyguide/#live-tv--sports[Time4TV] in
+Live TV. Fast streams, lots of channels.
+* Starred link:/storage/#userscript-managers[TamperMonkey] in
+Userscript Managers. Updated more frequently than GreaseMonkey.
+* Starred link:/storage/#compression-programs[PeaZip] in File
+Archivers. Open-source, supports many formats.
+* Starred link:/android-iosguide/#android-streaming[Miru] in
+Android Streaming. Open-source, multi-format media app.
+* Starred link:/linuxguide/#mac-tools--apps[gibMacOS] in Mac
+Tools. Easily download MacOS.
+* Starred link:/linuxguide/#mac-software[AppsTorrent] in Mac
+Software. Popular Mac Software site with many Apps.
+* Starred link:/video-tools[PlayPhrase] in Video Tools.
+Search entire internet for video clips.
+* Starred link:/storage/#note-taking--to-do-apps[Magic ToDo]
+in To Do Apps. Automatic Task Breakdown AI.
+* Starred link:/miscguide/#health[SafeSubstance] in Health.
+Drug Information / Side Effects.
+* Starred https://tinykittens.com/[TinyKittens] in General Tools. Kitten
+Rescue / Donation website.
+
+'''
+
+*Things Removed*
+
+* Removed RSLOAD, as they've uploaded the exact same version of malwarebytes
+with malware that FileCR got in trouble for. We've emailed them, so hopefully
+they remove it soon and we can add them back.
+* Removed marin.moe from Anime Streaming as its redirecting to something else
+now.
+* Removed AdGuard extra and other adblock defenders as they're
+https://ibb.co/xgrtbBZ[redundant] with ublock.
+* Removed SteamSkins as Steam dropped support for them in the last update.
+* Removed Saikou from Android Anime as their GitHub has been DMCA'd.
+* Removed Uptobox from File Hosts as their datacenter was
+https://torrentfreak.com/uptobox-goes-dark-following-police-raids-on-french-datacenters-230920/[raided by french police].
+
+'''

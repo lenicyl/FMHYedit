@@ -1,0 +1,10 @@
+:editLink: false
+:next: false
+:outline: false
+:sidebar: false
+
+++++
+<script>
+import Index from './.vitepress/theme/Posts.vue'
+</script>
++++++++<Index>++++++</Index>+++
